@@ -1,0 +1,216 @@
+if(!file.exists('build-mathematics.R')) {
+	stop('Working directory not set correctly. Set the working directory to the location of 
+		 of this R script.')
+}
+
+rm(list=ls(all=TRUE)) # Clean the environment before starting
+
+# Word Documents can be converted to Markdown using [Pandoc](http://pandoc.org/). To install
+# pandoc using [Homebrew](http://brew.sh/), use the following command in the Terminal:
+#
+#     brew install pandoc
+#
+# Run the following command where INPUT and OUTPUT are the file names.
+#
+#     pandoc -s INPUT.docx -t markdown -o OUTPUT.md
+#
+# Clean up the document as necessary. The following to applications are useful for cleaning files:
+# * Atom Editor: https://atom.io/
+# * Markdown Preview Plus: (can be installed from inside Atom)
+
+library(gdata)
+library(markdown)
+library(tools)
+library(rjson)
+library(jsonlite)
+source('parseMarkdown.R')
+source('buildDomainFeedback.R')
+
+items.dir <- 'mathematics/items/'
+items <- read.xls('mathematics/MathItems.xlsx', sheet=1, stringsAsFactors=FALSE)
+
+# We'll map MA domains to NY domains
+# Algebra and Functions -> Algebra
+# Patterns, Relations, and Algebra -> Algebra
+
+items[items$Difficulty == '', ]$Difficulty <- NA
+items[items$Domain == '', ]$Domain <- NA
+items$Difficulty <- toupper(items$Difficulty)
+items$Domain <- tolower(gsub(' ', '_', items$Domain))
+
+
+items$Filename <- paste0(items$State, '-', items$Year, '-',
+						 formatC(items$Month, width=2, flag='0'), '-',
+						 formatC(items$ItemNum, width=2, flag='0'), '.md')
+
+feedback <- parseMarkdown('mathematics')
+
+feedback.items <- list()
+for(i in items$Filename) { # Read the feedback MD files
+	if(file.exists(paste0(items.dir, i))) {
+		feedback.items[[i]] <- paste0(scan(paste0(items.dir, i),
+									 what = character(),
+									 sep = '\n',
+									 blank.lines.skip = FALSE,
+									 quiet = TRUE),
+								collapse='\n')
+	}
+}
+
+table(items$Filename %in% names(feedback.items))
+items <- items[items$Filename %in% names(feedback.items),]
+
+table(items$Domain, items$Difficulty, useNA='ifany')
+
+# Remove items with missing Domain or Difficulty
+items <- items[!is.na(items$Difficulty) & !is.na(items$Domain),]
+
+assignGroups <- function(items, difficulty) {
+	nGroups <- min(table(items[items$Difficulty == difficulty,]$Domain))
+	for(i in seq_len(nGroups)) {
+		rows <- items$Difficulty == difficulty & is.na(items$Group)
+		items[rows,][!duplicated(items[rows,]$Domain),]$Group <- paste0(difficulty, i)
+	}
+	return(items)
+}
+
+items$Group <- NA
+items <- assignGroups(items, 'EASY')
+items <- assignGroups(items, 'MEDIUM')
+items <- assignGroups(items, 'HARD')
+
+table(items$Group, useNA='ifany')
+items <- items[!is.na(items$Group),]
+
+##### Build the JSON document
+
+json <- list(
+	assessmentCategory = "MATHEMATICS",
+	assessmentType = "CAT",
+	prerequisites = list(),
+	enabled = TRUE,
+	label = "Mathematics",
+	scoringType = 'AVERAGE',
+	startingDifficulty = 'MEDIUM',
+	maxTakenGroups = 2,
+	minTakenGroups = 2,
+	numQuestionsPerGroup = 6
+)
+
+json$content <- list(
+	landing = feedback$landing,
+	start = feedback$start,
+	startTips = feedback$startTips,
+	helpLabel = 'Help',
+	help = feedback$help
+)
+
+json$itemGroupTransitions <- list(
+	list(
+		groupDifficulty = "EASY",
+		transitionMap = list(
+			EASY = "(-INF,2]",
+			MEDIUM = "[3,INF)"
+		)
+	),
+	list(
+		groupDifficulty = "MEDIUM",
+		transitionMap = list(
+			EASY = "(-INF,2]",
+			MEDIUM = "[3,4]",
+			HARD = "[5,INF)"
+		)
+	),
+	list(
+		groupDifficulty = "HARD",
+		transitionMap = list(
+			MEDIUM = "(-INF,4]",
+			HARD = "[5,INF)"
+		)
+	)
+)
+
+
+json$overallRubric <- list(
+	completionScoreMap = list(
+		LOW = '[0.0,0.334)',
+		MEDIUM = '[0.334,0.667)',
+		HIGH = '[0.667,1.0]'
+	),
+	supplementTable = list(
+		list(
+			completionScore = 'LOW',
+			content = feedback$`low`,
+			contentSummary = feedback$`low-summary`
+		),
+		list(
+			completionScore = 'MEDIUM',
+			content = feedback$`medium`,
+			contentSummary = feedback$`medium-summary`
+		),
+		list(
+			completionScore = 'HIGH',
+			content = feedback$`high`,
+			contentSummary = feedback$`high-summary`
+		)
+	)
+)
+
+table(items$Domain, items$Difficulty, useNA='ifany')
+
+domains <- tolower(unique(items$Domain))
+json$domains <- list()
+for(d in domains) {
+	json$domains[[(length(json$domains) + 1)]] <- buildDomainFeedback(feedback[[d]], d)
+}
+
+itemGroups <- unique(items$Group)
+json$itemGroups <- list()
+for(i in itemGroups) {
+	items.group <- items[items$Group == i,]
+	pos <- length(json$itemGroups) + 1
+	json$itemGroups[[pos]] <- list(
+		difficulty = items.group[1,]$Difficulty,
+		items = list()
+	)
+	for(j in 1:nrow(items.group)) {
+		json$itemGroups[[pos]]$items[[j]] <- list(
+			domainId = items.group[j,]$Domain,
+			itemContent = list(
+				question = list(
+					content = items.group[j,]$Stem,
+					itemContentType = "FORMULA"
+				),
+				feedback = list(
+					content = feedback.items[[items.group[j,]$Filename]],
+					itemContentType = "FORMULA"
+				)
+			),
+			question = items.group[j,]$Stem,
+			possibleItemAnswers = list(
+				list(
+					content = items.group[j,]$A,
+					score = as.integer(items.group[j,]$Answer == 'A')
+				),
+				list(
+					content = items.group[j,]$B,
+					score = as.integer(items.group[j,]$Answer == 'B')
+				),
+				list(
+					content = items.group[j,]$C,
+					score = as.integer(items.group[j,]$Answer == 'C')
+				),
+				list(
+					content = items.group[j,]$D,
+					score = as.integer(items.group[j,]$Answer == 'D')
+				)
+			)
+		)
+	}
+}
+
+json.out <- jsonlite::toJSON(json, pretty = TRUE, auto_unbox = TRUE)
+cat(json.out, file = 'build/Mathematics.json')
+cat(json.out, file = paste0('build/archive/Mathematics-', format(Sys.time(), format='%Y-%m-%d-%H-%M'), '.json'))
+
+

@@ -1,0 +1,1 @@
+You are about to take the mathematics assessment. Remember the goal of this assessment is to help you identify your strengths and areas for improvement. Don't be discouraged if some questions are more difficult than others. Good luck!

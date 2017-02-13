@@ -1,0 +1,57 @@
+    ...Inspired by another successful eradication [of malaria] in Sardinia, in 1955 the World
+Health Organization (WHO) inaugurated what was then the most ambitious campaign
+against disease in history, the Global Malaria Eradication Programme. The program
+included spraying home interiors with insecticides and distributing antimalarial drugs to
+people in affected regions. But WHO's efforts yielded only partial success. The disease did
+disappear in Europe, Russia, Australia and most of the Caribbean. South Asia initially saw
+dramatic reductions of infections, but the disease soon bounced back. Other hotspots fared
+even worse.
+    What went wrong? In a word, everything. The parasites fought back, becoming
+resistant to common medications. The mosquitoes grew stronger too, as more and more of
+them were able to survive insecticides. In some climates, mosquitoes bred so quickly that
+insecticide applications simply couldn't keep up. All the while, local tribes were waging wars
+of their own, which bogged down already-inadequate health infrastructures<sup>1</sup> and made public
+health interventions difficult and dangerous. In 1969, WHO shut down its program.
+National malaria-control programs followed, but they later fell into neglect or were
+abandoned entirely. ...
+    Spraying insecticides isn't the only way to use them. Mosquito-repellent bed nets<sup>2</sup>
+treated with a class of insecticides called pyrethroids, which bind more easily to nets than
+DDT,<sup>3</sup> cost just $1 to $2 apiece in Africa. And nets give some major bang for their buck: A
+study published last year found that a 10-fold increase in nets resulted in 44 percent fewer
+deaths among Kenyan children in the studied areas. In September of 2006, Kenya's
+government used a $17-million Global Fund grant to provide 3.4 million
+insecticide-treated nets to children. Zambia followed its lead. In 2006, 23 percent of
+Zambian children slept under treated nets, up from 1 percent in 2000. ...
+    In the face of widespread drug resistance, scientists have turned to a flowering shrub
+called wormwood (<i>Artemisia annua</i>), the active ingredient of which, artemisinin, has potent
+anti-fever properties. Since 2004, when WHO began promoting the use of artemisinin
+worldwide, the drug has proved to be extremely fast-acting and effective against
+<i>P. falciparum</i>.<sup>4</sup> WHO now recommends it or its derivatives as the first line of defense
+against the parasite in areas where chloroquine<sup>5</sup> no longer works, such as much of
+sub-Saharan Africa. Artemisinin is now one of the most powerful tools against malaria. ...
+    Fortunately, powerful synthetic versions of the drug are on the horizon. Since 2000,
+pharmaceutical scientists at the University of Nebraska Medical Center have been working
+on an entirely synthetic antimalarial designed to mimic artemisinin. In preclinical lab tests,
+the drug, called OZ277, was found to be even more effective than artemisinin derivatives.
+The medication is currently in the last stage of clinical trials and, although a price for the
+drug has not been determined, it will probably be less expensive than artemisinin. ...
+    Complete eradication of malaria on the scale of polio will never be achieved without a
+vaccine. Creating that magic bullet, however, has been a tremendous challenge. Obstacles
+include the complexity of the parasites and their ability to quickly change and adapt. We
+also don't completely understand our bodies' immune response to them. But a vaccine is
+finally on the horizon. Over the past 25 years, the pharmaceutical company
+GlaxoSmithKline Biologicals has spent $300 million developing a malaria vaccine against
+<i>P. falciparum</i>. RTS,S, as it's called, helps the immune system fight off the parasites by
+blocking their ability to reproduce and develop in the liver, where they first arrive and
+multiply. With grants from the Gates Foundation and other groups, the company recently
+tested RTS,S on humans. Last October [2007], the vaccine was shown to reduce the risk of
+malarial infection by 65 percent among infants in Mozambique'a huge victory. ...
+
+- excerpted from "How to End Malaria"
+<i>Science Illustrated</i>, July/August 2008
+
+<sup>1</sup>infrastructure - underlying framework required for a system to work
+<sup>2</sup>bed nets - netting placed or hung around beds to prevent mosquitoes from biting sleepers
+<sup>3</sup>DDT - dichloro-diphenyl-trichloro-ethane, a powerful insecticide
+<sup>4</sup><i>P. falciparum</i> - the scientific name for the malaria parasite
+<sup>5</sup>chloroquine - an antimalarial drug

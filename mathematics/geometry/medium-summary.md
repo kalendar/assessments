@@ -1,0 +1,1 @@
+**Geometry** is the mathematical science of describing the properties of shapes. Your results suggest that you have some proficiency at calculating area and volume, but can further develop your skills at reasoning with more complex properties of shapes.
