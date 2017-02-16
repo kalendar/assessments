@@ -12,7 +12,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>Learn</h4>
-                     <p>Learn why performance orientation is important.</p>
+                     <p>Learn why mastery orientation is important.</p>
                      <a href="http://srl.daacs.net/performance_orientation_influence.html" target="_blank" class="btn btn-primary">Learn more</a>
                  </div>
              </div>
@@ -27,7 +27,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>See</h4>
-                     <p>Read real-life scenarios about the effects of performance orientation.</p>
+                     <p>Read real-life scenarios about the effects of mastery orientation.</p>
                      <a href="http://srl.daacs.net/performance_orientation_profile.html" target="_blank" class="btn btn-primary">See profiles</a>
                  </div>
              </div>
@@ -42,7 +42,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>Do</h4>
-                     <p>Recommendations on how to improve your performance orientation.</p>
+                     <p>Recommendations on how to improve your mastery orientation.</p>
                      <a href="http://srl.daacs.net/performance_orientation_recommendations.html" target="_blank" class="btn btn-primary">Recommendations</a>
                  </div>
              </div>
