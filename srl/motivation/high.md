@@ -1,3 +1,3 @@
 ## Motivation
 
-This is feedback for a high score.
+Please click on the buttons below for feedback based on your score.
