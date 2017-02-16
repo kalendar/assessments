@@ -1,1 +1,1 @@
-You are a mastering self-regulated learner.
+You are a well self-regulated learner.
