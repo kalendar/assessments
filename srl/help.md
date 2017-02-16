@@ -1,3 +1,3 @@
-You are about to take the Self-Regulated Learning Assessment of your motivation, beliefs, and values related to learning. This diagnostic tool will also help you pinpoint the tactics and strategies you already use to help you learn, as well as others that could be useful. The SRL assessment will take about 15-20 minutes to finish. 
+You are about to take the Self-Regulated Learning Assessment of your motivation, beliefs, and values related to learning. This diagnostic tool will also help you pinpoint the strategies you already use to help you learn, as well as others that could be useful. The SRL assessment will take about 15-20 minutes to finish. 
 
-You will be presented with a number of statements that may or may not apply to you. For the most accurate score, when responding, think of how you compare to most people -- not just the people you know well, but most people in the world. There are no right or wrong answers, so just answer honestly!
+You will be presented with a number of statements that may or may not apply to you. There are no right or wrong answers. For the most accurate score, just answer honestly.
