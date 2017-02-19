@@ -26,19 +26,15 @@ library(jsonlite)
 source('parseMarkdown.R')
 source('buildDomainFeedback.R')
 
+figures.base.url <- 'https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/'
 items.dir <- 'mathematics/items/'
+
 items <- read.xls('mathematics/MathItems.xlsx', sheet=1, stringsAsFactors=FALSE)
 
-# We'll map MA domains to NY domains
-# Algebra and Functions -> Algebra
-# Patterns, Relations, and Algebra -> Algebra
-
-items[items$Difficulty == '', ]$Difficulty <- NA
+items[items$DifficultyLevel == '', ]$DifficultyLevel <- NA
 items[items$Domain == '', ]$Domain <- NA
-items$Difficulty <- toupper(items$Difficulty)
+items$DifficultyLevel <- toupper(items$DifficultyLevel)
 items$Domain <- tolower(gsub(' ', '_', items$Domain))
-
-
 items$Filename <- paste0(items$State, '-', items$Year, '-',
 						 formatC(items$Month, width=2, flag='0'), '-',
 						 formatC(items$ItemNum, width=2, flag='0'), '.md')
@@ -57,18 +53,26 @@ for(i in items$Filename) { # Read the feedback MD files
 	}
 }
 
+# Drop items without an assigned domain or difficulty
+items <- items[!is.na(items$Domain) & !is.na(items$DifficultyLevel),]
+table(items$Domain, items$DifficultyLevel, useNA='ifany')
+nrow(items)
+
+# TODO: Fix items without feedback
 table(items$Filename %in% names(feedback.items))
-items <- items[items$Filename %in% names(feedback.items),]
+#View(items[!items$Filename %in% names(feedback.items),])
+# write.csv(items[!items$Filename %in% names(feedback.items), c(1:8,13:18)], 
+# 		  file = 'ItemsNoFeedback.csv', row.names = FALSE)
 
-table(items$Domain, items$Difficulty, useNA='ifany')
+items <- items[items$Filename %in% names(feedback.items),] # Items with missing feedback
 
-# Remove items with missing Domain or Difficulty
-items <- items[!is.na(items$Difficulty) & !is.na(items$Domain),]
+table(items$Domain, items$DifficultyLevel, useNA='ifany')
+
 
 assignGroups <- function(items, difficulty) {
-	nGroups <- min(table(items[items$Difficulty == difficulty,]$Domain))
+	nGroups <- min(table(items[items$DifficultyLevel == difficulty,]$Domain))
 	for(i in seq_len(nGroups)) {
-		rows <- items$Difficulty == difficulty & is.na(items$Group)
+		rows <- items$DifficultyLevel == difficulty & is.na(items$Group)
 		items[rows,][!duplicated(items[rows,]$Domain),]$Group <- paste0(difficulty, i)
 	}
 	return(items)
@@ -81,6 +85,20 @@ items <- assignGroups(items, 'HARD')
 
 table(items$Group, useNA='ifany')
 items <- items[!is.na(items$Group),]
+
+# Fix img tags to point to Github
+fixImg <- function(col) {
+	tmp <- grep("<img src='", col, fixed = TRUE)
+	col[tmp] <- gsub("<img src='", paste0("<img src='", figures.base.url),
+				col[tmp], fixed = TRUE)
+	return(col)
+}
+items$Stem <- fixImg(items$Stem)
+items$A <- fixImg(items$A)
+items$B <- fixImg(items$B)
+items$C <- fixImg(items$C)
+items$D <- fixImg(items$D)
+
 
 ##### Build the JSON document
 
@@ -156,7 +174,7 @@ json$overallRubric <- list(
 	)
 )
 
-table(items$Domain, items$Difficulty, useNA='ifany')
+table(items$Domain, items$DifficultyLevel, useNA='ifany')
 
 domains <- tolower(unique(items$Domain))
 json$domains <- list()
@@ -170,7 +188,7 @@ for(i in itemGroups) {
 	items.group <- items[items$Group == i,]
 	pos <- length(json$itemGroups) + 1
 	json$itemGroups[[pos]] <- list(
-		difficulty = items.group[1,]$Difficulty,
+		difficulty = items.group[1,]$DifficultyLevel,
 		items = list()
 	)
 	for(j in 1:nrow(items.group)) {
@@ -178,8 +196,10 @@ for(i in itemGroups) {
 			domainId = items.group[j,]$Domain,
 			itemContent = list(
 				question = list(
-					content = items.group[j,]$Stem,
-					itemContentType = "FORMULA"
+					# content = items.group[j,]$Stem,
+					# itemContentType = "FORMULA"
+					content = '',
+					itemContentType = "WORD"
 				),
 				feedback = list(
 					content = feedback.items[[items.group[j,]$Filename]],
@@ -212,5 +232,5 @@ for(i in itemGroups) {
 json.out <- jsonlite::toJSON(json, pretty = TRUE, auto_unbox = TRUE)
 cat(json.out, file = 'build/Mathematics.json')
 cat(json.out, file = paste0('build/archive/Mathematics-', format(Sys.time(), format='%Y-%m-%d-%H-%M'), '.json'))
-
+file.edit('build/Mathematics.json')
 
