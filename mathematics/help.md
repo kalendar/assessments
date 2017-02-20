@@ -1,16 +1,14 @@
 ### Some useful formulas
 
-$$\pi = 3.14$$
+**&pi; = 3.14**
 
 ##### Equation of a line
 
-$$\text{Slope} = m = \frac { y_{ 2 }-y_{ 1 } }{ x_{ 2 }-x_{ 1 } }$$
-$$\text{Slope-intercept form:} y = mx + b$$
-$$\text{Point-slope form:} (y - y_1) = m(x - x_1)$$
+![Equation of a line](help-equation-line.png)
 
 ##### Compound Interest
 
-$$A = P(1 + \frac{r}{n})^{nt}$$
+![Compound Interest](help-interest.png)
 
 A = future value  
 P = starting principal  
