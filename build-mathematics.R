@@ -44,12 +44,15 @@ feedback <- parseMarkdown('mathematics')
 feedback.items <- list()
 for(i in items$Filename) { # Read the feedback MD files
 	if(file.exists(paste0(items.dir, i))) {
-		feedback.items[[i]] <- paste0(scan(paste0(items.dir, i),
+		feedback.items[[i]] <- markdownToHTML( 
+			text = paste0(scan(paste0(items.dir, i),
 									 what = character(),
 									 sep = '\n',
 									 blank.lines.skip = FALSE,
 									 quiet = TRUE),
-								collapse='\n')
+								collapse='\n'),
+			fragment.only = TRUE
+		)
 	}
 }
 
@@ -119,7 +122,7 @@ json$content <- list(
 	landing = feedback$landing,
 	start = feedback$start,
 	startTips = feedback$startTips,
-	helpLabel = 'Help',
+	helpLabel = 'Formulas',
 	help = feedback$help
 )
 
@@ -196,17 +199,18 @@ for(i in itemGroups) {
 			domainId = items.group[j,]$Domain,
 			itemContent = list(
 				question = list(
-					# content = items.group[j,]$Stem,
-					# itemContentType = "FORMULA"
-					content = '',
-					itemContentType = "WORD"
+					content = items.group[j,]$Stem,
+					itemContentType = "FORMULA"
+					# content = '',
+					# itemContentType = "WORD"
 				),
 				feedback = list(
 					content = feedback.items[[items.group[j,]$Filename]],
 					itemContentType = "FORMULA"
 				)
 			),
-			question = items.group[j,]$Stem,
+			# question = items.group[j,]$Stem,
+			question = '',
 			possibleItemAnswers = list(
 				list(
 					content = items.group[j,]$A,
