@@ -8,8 +8,4 @@ The following scenario might seem familiar to you:
 
 Although anxiety like Sal's can be debilitating, the good news is that there are many ways to lower anxiety in school and to improve performance.
 
-To lower your test anxiety, you can:
-
-1.	Use relaxation techniques to reduce uncomfortable feelings and to increase your focus. 
-2.	Learn how to say positive things to yourself about your likelihood of success.
-3.  Create schedules and plan study times so you don't have to worry about getting everything done.
+To lower your test anxiety, click on the Do button below and try out the recommendations found there. 
