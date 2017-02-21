@@ -6,10 +6,10 @@ The following scenario might seem familiar to you:
 
 > Sal, a second year college student, immediately begins to have negative thoughts at the mention of any exam -- he believes he’s going to fail. Sal worries so much that he often finds it difficult to concentrate on an exam and to complete classwork. As his next math test approaches, he feels extremely nervous about failing. He thinks, “It doesn’t matter how much I study. There’s no way I’m going to pass this exam, or this class.
 
-Although anxiety like Sal's can be debilitating, the good news is that there are many ways to lower anxiety in school and to improve performance! 
+Although anxiety like Sal's can be debilitating, the good news is that there are many ways to lower anxiety in school and to improve performance.
 
 To lower your test anxiety, you can:
 
 1.	Use relaxation techniques to reduce uncomfortable feelings and to increase your focus. 
-2.	Learn how to say positive things to yourself about the likelihood of success.
+2.	Learn how to say positive things to yourself about your likelihood of success.
 3.  Create schedules and plan study times so you don't have to worry about getting everything done.
