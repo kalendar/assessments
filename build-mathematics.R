@@ -44,14 +44,8 @@ feedback <- parseMarkdown('mathematics')
 feedback.items <- list()
 for(i in items$Filename) { # Read the feedback MD files
 	if(file.exists(paste0(items.dir, i))) {
-		feedback.items[[i]] <- markdownToHTML( 
-			text = paste0(scan(paste0(items.dir, i),
-									 what = character(),
-									 sep = '\n',
-									 blank.lines.skip = FALSE,
-									 quiet = TRUE),
-								collapse='\n'),
-			fragment.only = TRUE
+		feedback.items[[i]] <- markdownToHTML(
+			paste0(items.dir, i), fragment.only = TRUE
 		)
 	}
 }
@@ -90,6 +84,8 @@ table(items$Group, useNA='ifany')
 items <- items[!is.na(items$Group),]
 
 # Fix img tags to point to Github
+row.names(items) <- 1:nrow(items)
+Sys.setlocale('LC_ALL','C') # http://r.789695.n4.nabble.com/Strings-from-different-locale-td3023176.html
 fixImg <- function(col) {
 	tmp <- grep("<img src='", col, fixed = TRUE)
 	col[tmp] <- gsub("<img src='", paste0("<img src='", figures.base.url),
