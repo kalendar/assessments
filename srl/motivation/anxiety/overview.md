@@ -12,7 +12,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>Learn</h4>
-                     <p>Learn why test anxiety is important.</p>
+                     <p>Learn why managing test anxiety is important.</p>
                      <a href="http://srl.daacs.net/anxiety_importance.html" target="_blank" class="btn btn-primary">Learn more</a>
                  </div>
              </div>
