@@ -1,8 +1,7 @@
-Your level of test anxiety is **high**. When doing your schoolwork or taking an exam, you will often feel uncomfortable and/or worry excessively about how you will perform. 
+Your score for test anxiety is **high**. The survey results suggest that when doing your schoolwork or taking an exam, you often feel uncomfortable or worry excessively about how you will perform. High levels of test anxiety can impair your performance, so you might want to learn new strategies for managing it. 
 
 To lower your test anxiety, you can:
 
 1.	Use relaxation techniques to reduce uncomfortable feelings and to increase your focus. 
-2.	Learn how to say positive things to yourself.
-
-Create schedules for yourself and plan.
+2.	Learn how to say positive things to yourself about your likelihood of success.
+3. Create schedules and plan your study time so you don't have to worry about getting everything done.
