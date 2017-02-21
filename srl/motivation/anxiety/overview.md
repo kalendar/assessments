@@ -42,7 +42,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>Do</h4>
-                     <p>Recommendations on how to manage test anxiety.</p>
+                     <p>Recommendations for managing test anxiety.</p>
                      <a href="http://srl.daacs.net/anxiety_recommendations.html" target="_blank" class="btn btn-primary">Recommendations</a>
                  </div>
              </div>
