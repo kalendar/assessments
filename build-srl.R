@@ -30,8 +30,7 @@ source('buildDomainFeedback.R')
 # 		* Strategies for Understanding
 
 
-exclude.domains <- c('grit', 'strategies_for_managing_environment', 'strategies_for_understanding',
-					 'strategies_for_help_seeking','strategies_for_managing_time')
+exclude.domains <- c('grit')
 
 items <- read.xls('srl/SRL-Items.xlsx', stringsAsFactors = FALSE)
 items <- items[items$PrimaryFactor != '',]
@@ -184,8 +183,8 @@ table(items$AnchorType)
 
 itemGroups <- list()
 itemGroups[1:2] <- buildItemGroups(items.agreement, 2, agreement.levels)
-itemGroups[3:4] <- buildItemGroups(items.frequency, 2, frequency.levels)
-#itemGroups[9] <- buildItemGroups(items.grit, 1, grit.levels)
+itemGroups[3:5] <- buildItemGroups(items.frequency, 3, frequency.levels)
+#itemGroups[6] <- buildItemGroups(items.grit, 1, grit.levels)
 
 json$itemGroups <- list()
 for(i in seq_len(length(itemGroups))) {
@@ -197,4 +196,4 @@ for(i in seq_len(length(itemGroups))) {
 json.out <- jsonlite::toJSON(json, pretty = TRUE, auto_unbox = TRUE)
 cat(json.out, file = paste0('build/SRL.json'))
 cat(json.out, file = paste0('build/archive/SRL-', format(Sys.time(), format='%Y-%m-%d-%H-%M'), '.json'))
-
+file.edit('build/SRL.json')
