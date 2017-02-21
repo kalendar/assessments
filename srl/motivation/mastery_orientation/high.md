@@ -6,8 +6,4 @@ Goal orientation refers to the reasons people engage in learning.  People with a
 
 The SRL survey focused on mastery orientation. Your results suggest that you have high mastery orientation, which is fabulous! This means that you are motivated to work hard because you enjoy learning and want to gain knowledge and skills. Maintaining a mastery orientation will help keep you motivated to learn and work hard in school.
 
-To sustain your high mastery-oriented thinking (and to avoid performance-oriented thinking): 
-
-1.	Don’t worry about how others perform; focus on your own growth and learning. 
-2.	Focus on your improvement and progress rather than a single grade.
-3.	View mistakes and errors as opportunities to improve.
+If you want to learn about how to sustain a mastery orientation, click on the Do button below.
