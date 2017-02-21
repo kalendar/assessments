@@ -27,7 +27,7 @@ json <- list(
 	scoringType = 'MANUAL',
 	writingPrompt = list(
 		content = feedback$prompt,
-		minWords = 250
+		minWords = 350
 	),
 	prerequisites = list(list(
 		prereqType = "ASSESSMENT",
