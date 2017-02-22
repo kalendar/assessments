@@ -1,4 +1,4 @@
-Your score for self-efficacy for online learning is **medium**, meaning that you are probably somewhat confident in your ability to learn in an online environment. Boosting your self-efficacy is important because it can make you try harder, stay motivated, and persist even when something is difficult for you.
+Your score for self-efficacy for online learning is **medium**, meaning you are probably somewhat confident in your ability to learn in an online environment. Boosting your self-efficacy is important because it can make you try harder, stay motivated, and persist even when something is difficult for you.
 
 Here are just a few strategies to improve your self-efficacy:
 
