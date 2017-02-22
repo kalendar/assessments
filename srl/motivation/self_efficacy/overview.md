@@ -6,7 +6,7 @@
 
 <div class="row">
          <div class="col-lg-12">
-             <h2 class="page-header">Now that I know more about self-efficacy, what can I do?</h2>
+             <h2 class="page-header">Now that I know about self-efficacy, what can I do?</h2>
          </div>
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
@@ -48,7 +48,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>Do</h4>
-                     <p>Recommendations on how to improve your self-efficacy.</p>
+                     <p>Recommendations for how to improve your self-efficacy.</p>
                      <a href="http://srl.daacs.net/self-efficacy_recommendations.html" target="_blank" class="btn btn-primary">Recommendations</a>
                  </div>
              </div>
