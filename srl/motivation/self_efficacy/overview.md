@@ -33,7 +33,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>See</h4>
-                     <p>Read real-life scenarios about the power of self-efficacy</p>
+                     <p>Read real-life scenarios about the power of self-efficacy.</p>
                      <a href="http://srl.daacs.net/self-efficacy_profile.html" target="_blank" class="btn btn-primary">See profiles</a>
                  </div>
              </div>
