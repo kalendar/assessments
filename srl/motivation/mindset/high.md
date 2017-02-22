@@ -1,6 +1,6 @@
 ## Mindset
 
-Mindset refers to your *beliefs* about whether you think your intelligence or ability is fixed (called a **fixed mindset**) or if it can change over time (called a **growth mindset**). It refers to your beliefs about intelligence, not whether or not you are smart. 
+Mindset refers to your *beliefs* about whether you think your intelligence or ability is fixed (called a **fixed mindset**) or can change over time (called a **growth mindset**). It refers to your beliefs about intelligence, not whether or not you are smart. 
 
 The SRL survey results suggest that you have a growth mindset. This is a very positive thing because it means that you probably are not afraid of trying hard and persisting even when something is difficult, and view mistakes as a natural part of learning. The two scenarios below illustrate the distinction between a fixed and Ggowth mindset.
 
