@@ -8,6 +8,6 @@ The SRL survey results suggest that you have a fixed mindset, meaning you tend t
 
 > **GROWTH**: Nicole took the same science midterm and also received a poor grade. Nicole thought she must not have studied well enough. Although she was disappointed with the grade, Nicole understood that it she could improve if she put in more effort and studied the material more thoroughly. Nicole took more detailed class notes, asked questions to clear up confusion, and studied every week using study aids to help her master the material. 
 
-Although you might have a fixed mindset right now, you can change it to a growth mindset. That is, you can learn to think and **act** like your intelligence can be improved with effort. 
+Although you might have a fixed mindset right now, you can change it to a growth mindset. That is, you can learn to think and *act* like your intelligence can be improved with effort. 
 
 To see more recommendations for developing a growth mindset, click on the Do button, below. 
