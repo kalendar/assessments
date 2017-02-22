@@ -50,8 +50,8 @@ json <- list(
 	label = "Reading",
 	scoringType = 'AVERAGE',
 	startingDifficulty = 'MEDIUM',
-	maxTakenGroups = 2, # TODO: Change to 4
-	minTakenGroups = 2, # TODO: Change to 3
+	maxTakenGroups = 3,
+	minTakenGroups = 3,
 	numQuestionsPerGroup = 6
 )
 
