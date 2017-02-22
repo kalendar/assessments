@@ -1,17 +1,13 @@
 ## Mindset
 
-Mindset refers to your *beliefs* about whether you think your intelligence or ability is fixed (called a Fixed mindset) or if it can change over time (called a Growth mindset). It refers to your *beliefs* about intelligence, but does not represent whether or not you are smart. 
+Mindset refers to your *beliefs* about whether intelligence or ability is fixed (called a fixed mindset) or can change over time (a growth mindset). Mindset refers to your *beliefs* about intelligence, not whether or not you are smart. 
 
-The SRL survey showed that you have a Mixed mindset; that is, you exhibit some tendencies of a Growth mindset (i.e., believing that intelligence can be changed with effort) and a Fixed mindset (i.e., believing intelligence cannot be changed over time). Look at the two scenarios below to more clearly see the distinction between a Fixed and Growth mindset.
+The SRL survey results suggest that you have a mixed mindset: You answered some questions with a growth mindset, and others with a fixed mindset. The two scenarios below illustrate the distinctions between a fixed and growth mindset, as well as their influences on people's behavior.
 
-> **FIXED**: Ben recently received a poor grade on his science midterm and was quick to label himself as "bad at science" and "a failure". Ben decided he was not capable of doing well on the final, and thought that no amount of effort and practice could change that; why would he put in the effort to study if it wouldn’t make a difference? Ben stopped paying attention in class, felt defeated, and barely studied for the final exam. 
+> **FIXED**: Ben  received a poor grade on his science midterm and was quick to label himself as "bad at science" and "a failure". Ben decided he was not capable of doing well on the final, and no amount of effort and practice could change that: Why would he put the effort into studying if it wouldn’t make a difference? Feeling defeated, Ben stopped paying attention in class and barely studied for the final exam. 
 
-> **GROWTH**: Nicole took the same science midterm also received a poor grade. Nicole thought she must not have studied well enough. Although she was disappointed with the grade, Nicole understood that it she could improve her ability to learn if she puts in more effort and studies the material more thoroughly. Nicole took more detailed class notes, asked questions to clarify her confusions, and studied every week using study aids to help her master the material. 
+> **GROWTH**: Nicole took the same science midterm and also received a poor grade. Nicole thought she must not have studied well enough. Although she was disappointed with the grade, Nicole understood that it she could improve if she put in more effort and studied the material more thoroughly. Nicole took more detailed class notes, asked questions to clear up confusion, and studied every week using study aids to help her master the material. 
 
-Although you have a Fixed mindset right now, you can change it to a Growth mindset; that is, you can learn to think that your intelligence can be improved with effort.
+Although you might have a mixed mindset right now, you can change it to a growth mindset. That is, you can learn to think and *act* like your intelligence can be improved with effort.
 
-To develop a more consistent Growth mindset:
-
-1.	Think of a challenge as an opportunity to learn rather than something to overcome
-2.	View mistakes as a natural part of learning
-3.	Pay attention to the things you say to yourself. Keep reminding yourself that you can improve if you just keep trying.
+To learn more about how to develop a solid growth mindset, click on the Do button, below.
