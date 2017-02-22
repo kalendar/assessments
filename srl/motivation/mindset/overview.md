@@ -48,7 +48,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>Do</h4>
-                     <p>Recommendations on how to improve your mindset.</p>
+                     <p>Recommendations for how to improve your mindset.</p>
                      <a href="http://srl.daacs.net/mindset_recommendations.html" class="btn btn-primary" target="_blank">Recommendations</a>
                  </div>
              </div>
