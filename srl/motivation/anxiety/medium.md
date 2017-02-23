@@ -4,7 +4,7 @@ Test anxiety is experienced as negative thoughts (worries, fears), uncomfortable
 
 This scenario illustrates how having a lot of test anxiety can make it hard to study and perform well:
 
-> Sal, a second year college student, immediately begins to have negative thoughts at the mention of any exam; he believes he’s going to fail. Sal worries so much that he often finds it difficult to concentrate while studying or during an exam. As his next math test approaches, he feels extremely nervous about failing. He thinks, “It doesn’t matter how much I study. There’s no way I’m going to pass this exam, or this class.
+> Sal, a second year college student, immediately begins to have negative thoughts at the mention of any exam; he believes he's going to fail. Sal worries so much that he often finds it difficult to concentrate while studying or during an exam. As his next math test approaches, he feels extremely nervous about failing. He thinks, “It doesn't matter how much I study. There's no way I'm going to pass this exam, or this class.
 
 Although anxiety like Sal's can be debilitating, the good news is that there are many ways to lower test anxiety and improve performance.
 

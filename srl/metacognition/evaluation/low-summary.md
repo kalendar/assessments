@@ -5,4 +5,4 @@ To **improve the frequency** with which you self-evaluate, consider using the fo
 1.	As you work on assignment, ask yourself "Do I seem to be learning what I am supposed to?"
 2.	After you complete an assignment, ask yourself, "What was the most important thing I learned?" or "What can I do better next time?"
 
-Keep a list of learning strategies that seem to work best for you and discard those that don’t work.
+Keep a list of learning strategies that seem to work best for you and discard those that don't work.

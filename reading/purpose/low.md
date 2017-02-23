@@ -4,7 +4,7 @@ This domain assesses your ability to identify how context and purpose shape the 
 
 **Challenges**
 
-An experienced writer will take into consideration the audience and context before making decisions about purpose and tone. For instance, an article on the science behind climate change written for a national magazine or website with a skeptical readership will have a different tone and purpose than a similar article written for a scientific journal. Being aware of these considerations will help you to identify an author’s point of view and central argument.
+An experienced writer will take into consideration the audience and context before making decisions about purpose and tone. For instance, an article on the science behind climate change written for a national magazine or website with a skeptical readership will have a different tone and purpose than a similar article written for a scientific journal. Being aware of these considerations will help you to identify an author's point of view and central argument.
 
 **Your Results**
 

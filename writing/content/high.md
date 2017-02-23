@@ -8,7 +8,7 @@ You scored are the mastering level.
 <tr>
 <td>Content</td>
 <td bgcolor='lightyellow'><ul>
-<li>The essay uses relevant survey results andfeedback to provide a detailed summary of the student’s strengths and weaknesses in terms of self-regulated learning.</li>
+<li>The essay uses relevant survey results andfeedback to provide a detailed summary of the student's strengths and weaknesses in terms of self-regulated learning.</li>
 <li>The discussion of the feedback logically leads to choices of suggestions to which to commit.</li>
 <li>The rationale for choices of suggestions is clear and reasonable.</li>
 </ul></td><td><ul>
