@@ -4,3 +4,4 @@ To improve how you plan or think ahead:
 
 1. Ask yourself questions before you begin a learning activity: "What am I expected do?	What approach can help me do well?" 
 2. Brainstorm multiple ways to approach an activity and then choose the best option.
+3. Ask your teachers about the best ways to go about doing their assignments.
