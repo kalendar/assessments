@@ -1,4 +1,4 @@
-You are someone who **sometimes** monitors what you do in school. This means that you occasionally might keep track of how well you learn or what you do during learning.  
+Your responses to the SRL survey suggest that you **sometimes** monitor the thinking and learning you do for school. This means that you occasionally might keep track of how well you learn or what you do during learning.  
 
 To increase the frequency of your self-monitoring:   
 
