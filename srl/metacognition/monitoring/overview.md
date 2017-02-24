@@ -1,6 +1,6 @@
 <div class="row">
          <div class="col-lg-12">
-             <h2 class="page-header">Now that I know more about monitoring skills, what can I do?</h2>
+             <h2 class="page-header">Now that I know more about self-monitoring, what can I do?</h2>
          </div>
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
@@ -12,7 +12,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>Learn</h4>
-                     <p>Learn why planning is important.</p>
+                     <p>Learn why self-monitoring is important.</p>
                      <a href="http://srl.daacs.net/metacognition_monitoring_importance.html" target="_blank" class="btn btn-primary">Learn more</a>
                  </div>
              </div>
@@ -27,7 +27,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>See</h4>
-                     <p>See how monitoring can influence the way you think, feel, and act</p>
+                     <p>See how self-monitoring can influence the way you think, feel, and act.</p>
                      <a href="http://srl.daacs.net/metacognition_profile.html" target="_blank" class="btn btn-primary">See profiles</a>
                  </div>
              </div>
@@ -42,7 +42,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>Do</h4>
-                     <p>Recommendations on how to improve your metacognition skills.</p>
+                     <p>Recommendations for improving your self-monitoring skills.</p>
                      <a href="http://srl.daacs.net/metacognition_recommendations.html" target="_blank" class="btn btn-primary">Recommendations</a>
                  </div>
              </div>
