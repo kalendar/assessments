@@ -12,7 +12,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>Learn</h4>
-                     <p>Learn why planning is important.</p>
+                     <p>Learn why self-evaluation is important.</p>
                      <a href="http://srl.daacs.net/metacognition_evaluation_importance.html" target="_blank" class="btn btn-primary">Learn more</a>
                  </div>
              </div>
