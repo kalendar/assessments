@@ -1,6 +1,4 @@
-You are someone who **frequently** monitors what you do in school. This means that you often keep track of how well you learn and what you do during learning.  
+Your scores indicate that you **frequently** monitor your thinking and learning. To continue being a frequent monitor:
 
-To continue being a frequent monitor of yourself:
-
-1.	Ask yourself questions (Am I learning the material? Is anything getting in the way of my learning?) 
-2.	Write down or record things that you do well and that you struggle to do
+1.	Ask yourself questions as you listen to lectures, read text, and watch videos: "Am I learning the material? Is anything getting in the way of my learning?"
+2.	Make two lists: One list of tasks that you do well, and another of tasks with which you struggle. Click on More Info for recommendation for dealing with the tasks on the second list.
