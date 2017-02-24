@@ -27,7 +27,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>See</h4>
-                     <p>See how self-monitoring can influence the way you think, feel, and act</p>
+                     <p>See how self-monitoring can influence the way you think, feel, and act.</p>
                      <a href="http://srl.daacs.net/metacognition_profile.html" target="_blank" class="btn btn-primary">See profiles</a>
                  </div>
              </div>
