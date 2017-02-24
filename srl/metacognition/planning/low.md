@@ -1,6 +1,6 @@
 ## Planning
 
-Planning is one aspect of metacognition. Your responses to the SRL survey suggest that you **infrequently plan** how to complete your schoolwork, which can make it difficult to figure out how to best complete your work. People who do not frequently plan their schoolwork often need to learn more about planning strategies.
+Planning is one aspect of metacognition. Your responses to the SRL survey suggest that you **infrequently plan** how to complete your schoolwork, which can make it difficult to figure out how to best go about it. People who do not frequently plan their schoolwork often need to learn more about planning strategies.
 
 Increasing the frequency with which you plan can help you complete assignments correctly, on time, and with greater efficiency and less stress. This scenario shows how using planning strategies on a frequent basis can improve performance in school:
 
