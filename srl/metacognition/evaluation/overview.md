@@ -42,7 +42,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>Do</h4>
-                     <p>Recommendations on how to improve your self-evaluation skills.</p>
+                     <p>Recommendations for improving your self-evaluation skills.</p>
                      <a href="http://srl.daacs.net/metacognition_recommendations.html" target="_blank" class="btn btn-primary">Recommendations</a>
                  </div>
              </div>
