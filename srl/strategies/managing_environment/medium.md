@@ -10,7 +10,7 @@ Read the scenario below to learn more about why reducing distractions when compl
 
 Unfortunately, Gloria did not know how to take control of the situation. She did not realize that she could learn strategies to minimize distractions and interruptions as she completed her work; things that could give her more time to study and concentrate on her work.
 
-To create a morn effective and comfortable place to do your schoolwork:
+To create a more effective and comfortable place to do your schoolwork:
 
 1.	Set rules for others in your house about "do not disturb" times
 2.	Turn off your cell phone and other technology
