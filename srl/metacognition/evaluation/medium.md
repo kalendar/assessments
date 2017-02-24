@@ -4,4 +4,4 @@ Evaluation is one aspect of metacognition. The SRL survey results suggest that y
 
 > Anthony, a first-year college student, was preparing for the first history exam of the semester. He studied for a few hours, memorizing key events and dates. He went to the exam confident in his ability to perform well. Much to his surprise, he received a C on the exam. While going over the test in class, Anthony realized that the professor expected him to be able to analyze historical events, not just memorize them. He had used the wrong study strategy, and had not thought about the best way to study for this exam. Anthony felt stuck and somewhat nervous because he doesn't know the best way to study and he is having another exam in a few weeks.
 
-To improve the frequency with which you self-evaluate your approaches to learning and studying, click on the Do button, below. 
+To improve the frequency with which you self-evaluate your approaches to learning and studying, click on the Do button below. 
