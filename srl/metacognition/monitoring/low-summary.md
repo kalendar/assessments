@@ -1,4 +1,4 @@
-Your scored suggests that you **infrequently** monitor what you do for school by keeping track of how well you learn or what you do during learning.  
+Your score suggests that you **infrequently** monitor what you do for school by keeping track of how well you learn or what you do during learning.  
 
 To increase the frequency of your self-monitoring:   
 
