@@ -4,5 +4,5 @@ Planning is one aspect of metacognition. Your responses to the SRL survey showed
 
 Being aware of your thinking before starting a task is important because it makes completing activities easier and increases your confidence in handling different challenges in school. Keep up the good work! 
 
-For more ideas about being a **frequent planner**, click on the Do button, below. 
+For more ideas about being a **frequent planner**, click on the Do button below. 
 
