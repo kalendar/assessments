@@ -1,5 +1,5 @@
 ## Metacognition
 
-Your score on the metacognition scale suggests you tend not to be as metacognitive as you could be. There are a number of ways to take control of your thinking. We recommend trying each, and seeing which one(s) work for you.
+Your score for the metacognition scale suggests you tend not to be as metacognitive as you could be. If you take control of your thinking, you are likely to understand things more deeply, remember them longer, and do better in school. As your metacognition improves, you will find that you can **reflect on the appropriateness of learning strategies and adjust as necessary.** At the start of every task, you will be aware of the learning strategies that you plan to use, and know why they are appropriate. At the completion of the task, you will evaluate your learning and study methods and determine whether there other strategies you can try next time.
 
-* **Reflect on the appropriateness of learning strategies and adjust as necessary:** At the start of every task, be aware of the learning strategies that you plan to use, and rationalize why they are appropriate. At the completion of the task, evaluate your methods. Are there any other strategies you can try next time for a similar task? 
+We recommend clicking on the Do button, below, and seeing which metacognitive strategies work for you.
