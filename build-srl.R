@@ -1,3 +1,6 @@
+####################################################################################################
+##### NOTE: It is best to source this file, DO NOT run interactively ###############################
+####################################################################################################
 if(!file.exists('build-srl.R')) {
 	stop('Working directory not set correctly. Set the working directory to the location of 
 		 of this R script.')
