@@ -1,8 +1,6 @@
 ## Monitoring
 
-Monitoring is one aspect of a term we call metacognition -- your level awareness and control over your thinking. Two other areas of metacognition are planning and evaluation. The SRL survey examined all three of these areas.
-
-The SRL survey showed that you are a **partial** monitor. Thus, you might sometimes use strategies to keep track of how well you learn or perform during a task. At times, you also may not be in tune to things that are challenging or when you are not performing at a desired level. Increase your awareness about yourself is important because it can help you to identify when and how you might need to change adjust to improve your learning. 
+Monitoring is one aspect of metacognition. The SRL survey results suggests that you are a **partial** monitor: You reported sometimes using strategies to keep track of how well you learn or perform during a task, but you also might not be tuned in to things that are challenging or when you are not performing at a desired level. Increase your awareness of your thinking can help you to identify when you  need to make adjustments to improve your learning. 
 
 Read the scenarios below to see how using monitoring strategies can potentially change your learning experience.
 
