@@ -1,3 +1,5 @@
 ## Strategies
 
-This is feedback for a medium score.
+**Strategies** involves the procedures we use to learn, remember information, and peform well in school. College students will oftent use a variety of strategies to help they learn. Students use strategies to **seek help from others**, to **manage and organize their time**, to enhance their attention by **elimiting distractions**, and to **learn and remember information in a class**. The SRL surved that you recently completed addressed each of these four types of strategies.   
+
+Your overall score for **Strategy Use** indicates that you **occasionally use strategies** in school. Your profile of strategy scores reflects one of two thigns. First, it may indicate that your scores across all four categories of strategies was consistent and in the emerging level (not frequent but also not infrequent). On the other hand, your profile may indicate that you frequently use certain types of strategies but rarely use other types. To learn more about the meaning of each strategy category, please read the brief explanation below. We also encourage you to click on the tabs for each of strategy categories so that you can learn even more ways to be a strategic learner in school. 
