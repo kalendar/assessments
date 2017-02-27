@@ -7,10 +7,3 @@ These algebraic tools allow us to write more abstract versions of the calculatio
 This domain assesses your proficiency at working with variables, representing complex quantities with expressions, and writing equivalent expressions as equations. 
 
 Your results suggest that you have difficulty solving problems using variables, expressions, and equations. To improve your skills, you may want to start with a general introduction to variables in algebra, like the one in this video: http://mathantics.com/section/lesson-video/what-is-algebra. Then you can learn about algebraic expressions here: http://www.virtualnerd.com/algebra-1/algebra-foundations/variables-expressions/algebraic-expressions/numerical-algebraic-expressions. 
-
-Your results suggest that you have some proficiency in solving problems using variables, expressions, and equations. To improve your skills, you may want to review some of these topics: 
-Factoring: http://www.mathsisfun.com/algebra/factoring.html
-Combining like terms: http://www.mathsisfun.com/algebra/like-terms.html 
-Simplifying expressions: http://www.virtualnerd.com/algebra-1/algebra-foundations/simplifying-expressions/simplifying-expressions-examples/simplifying-expressions-definitions-examples
- 
-Your results suggest that you are proficient in solving problems using variables, expressions, and equations. If you want to further strengthen your skills in this area, you can explore more advanced concepts and tools by viewing any of the videos here: http://www.virtualnerd.com/search/search.php?query=expression&search=1
