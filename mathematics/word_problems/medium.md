@@ -6,4 +6,4 @@ Not all word problems require the use of variables, expressions, and equations. 
 
 This domain assesses your skills at solving mathematics problems that are presented in the form of words and stories. 
 
-Your results suggest that you have some proficiency at solving mathematics word problems. Particular skills you might focus on include translating words into equations and other mathematical expressions, and using different strategies such as pictures, tables, and pattern-finding to solve problems. 
+Your results suggest that you have some proficiency at solving word problems. Particular skills you might focus on include translating words into equations and other mathematical expressions, and using different strategies such as pictures, tables, and pattern-finding to solve problems. 
