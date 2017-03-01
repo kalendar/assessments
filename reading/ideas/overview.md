@@ -2,16 +2,14 @@
 
 You might consider using the following strategies to help you identify main ideas and key supporting details:
 
-<div class="bs-callout bs-callout-info"><ul>
-<li> Preview a text before you read to spot sign posts that can help you determine the purpose and structure of the argument.</li>
-<li> Ask questions before, during, and after reading to monitor your reading comprehension and evaluate what you read</li>
-<li> Annotate texts as you read to locate, mark, and reflect upon main ideas and key supporting details</li>
-<li> Paraphrase and summarize what you've read to improve your understanding of it </li>
-<li> Analyze what a text says by breaking it down into its major parts</li>
-<li> Deepen your engagement with the text by comparing/contrasting what it says with other texts and synthesizing your own position   </li>
-<li> Visualize what a text says by applying tools such as mind maps, outlines, and timelines</li>
-<li> Follow common reading systems designed to improve reading comprehension</li>
-</ul></div>
+* Preview a text before you read to spot sign posts that can help you determine the purpose and structure of the argument.
+* Ask questions before, during, and after reading to monitor your reading comprehension and evaluate what you read
+* Annotate texts as you read to locate, mark, and reflect upon main ideas and key supporting details
+* Paraphrase and summarize what you've read to improve your understanding of it 
+* Analyze what a text says by breaking it down into its major parts
+* Deepen your engagement with the text by comparing/contrasting what it says with other texts and synthesizing your own position   
+* Visualize what a text says by applying tools such as mind maps, outlines, and timelines
+* Follow common reading systems designed to improve reading comprehension
 
 Take these free online modules for more help with identifying main ideas and key supporting details of texts:
 
