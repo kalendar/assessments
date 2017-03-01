@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-11",
+  "domain": "variables_and_equations",
+  "difficulty": "EASY",
+  "stem": "If \\( y \\neq 0 \\), which of the following is equivalent to the expression below?<br/> \\( \\frac{15y^{9}}{5y^{3}} \\)",
+  "A": "\\( 3y^{3} \\)",
+  "B": "\\( 3y^{6} \\)",
+  "C": "\\( 10y^{3} \\)",
+  "D": "\\( 10y^{6} \\)",
+  "answer": "B",
+  "feedbackfile": "MA-2014-06-11.md"
+}

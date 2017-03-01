@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-25",
+  "domain": "geometry",
+  "difficulty": "EASY",
+  "stem": "A water tank in the shape of a right circular cylinder has a height of 40 feet and a radius of 15 feet, as shown in the diagram below. <br/><img src='MA-2015-06-25.png'><br/> Based on the diagram, what is the volume, in cubic feet, of the water tank?",
+  "A": "\\( 225  \\pi \\)",
+  "B": "\\( 600  \\pi \\)",
+  "C": "\\( 1200  \\pi \\)",
+  "D": "\\( 9000  \\pi \\)",
+  "answer": "D",
+  "feedbackfile": "MA-2015-06-25.md"
+}

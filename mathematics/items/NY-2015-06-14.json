@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-14",
+  "domain": "geometry",
+  "difficulty": "EASY",
+  "stem": "The base of a closed right circular cylinder has a diameter of 5 cm. If the height of the cylinder is 8 cm, what is the surface area of the cylinder, to the <i>nearest square centimeter</i>? ",
+  "A": "157",
+  "B": "165",
+  "C": "408",
+  "D": "628",
+  "answer": "B",
+  "feedbackfile": "NY-2015-06-14.md"
+}

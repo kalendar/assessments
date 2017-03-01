@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-08",
+  "domain": "word_problems",
+  "difficulty": "MEDIUM",
+  "stem": "The product of a number and 3, increased by 5, is 7 less than twice the number. Which equation can be used to find this number, <i>n</i>?",
+  "A": "3<i>n</i> + 5 = 2<i>n</i> - 7",
+  "B": "3<i>n</i> + 5 = 7 - 2<i>n</i>",
+  "C": "3(<i>n</i> + 5) = 2<i>n</i> - 7",
+  "D": "3(<i>n</i> + 5) = 7 - 2<i>n</i>",
+  "answer": "A",
+  "feedbackfile": "NY-2015-06-08.md"
+}

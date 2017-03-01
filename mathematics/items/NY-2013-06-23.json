@@ -1,0 +1,12 @@
+{
+  "source": "NY-2013-06-23",
+  "domain": "word_problems",
+  "difficulty": "MEDIUM",
+  "stem": "Which expression represents the number of hours in <i>w</i> weeks and <i>d</i> days? ",
+  "A": "7<i>w</i> + 12<i>d</i> ",
+  "B": "84<i>w</i> + 24<i>d</i> ",
+  "C": "168<i>w</i> + 24<i>d</i> ",
+  "D": "168<i>w</i> + 60<i>d</i> ",
+  "answer": "C",
+  "feedbackfile": "NY-2013-06-23.md"
+}

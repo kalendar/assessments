@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-08",
+  "domain": "number_and_calculation",
+  "difficulty": "HARD",
+  "stem": "What is the value of the expression below?  \\( 80 \\div (6 + (3-5)   \\times 2 )  \\)",
+  "A": "-8",
+  "B": "-5",
+  "C": "10",
+  "D": "40",
+  "answer": "D",
+  "feedbackfile": "MA-2016-06-08.md"
+}

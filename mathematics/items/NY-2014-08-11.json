@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-11",
+  "domain": "lines_and_functions",
+  "difficulty": "EASY",
+  "stem": "What is the slope of a line passing through points (-7,5) and (5, -3)? ",
+  "A": "\\( -\\frac{3}{2} \\)",
+  "B": "\\(  -\\frac{2}{3} \\)",
+  "C": "\\( \\frac{2}{3} \\)",
+  "D": "\\( \\frac{3}{2} \\)",
+  "answer": "B",
+  "feedbackfile": "NY-2014-08-11.md"
+}

@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-17",
+  "domain": "variables_and_equations",
+  "difficulty": "HARD",
+  "stem": "The expression \\( \\frac{2 x^{2} + 10x -28}{4x + 28} \\) is undefined when <i>x</i> is",
+  "A": "7, only",
+  "B": " -7, only",
+  "C": "7 or -2",
+  "D": " -7 or 2",
+  "answer": "B",
+  "feedbackfile": "NY-2014-08-17.md"
+}

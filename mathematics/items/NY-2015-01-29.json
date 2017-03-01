@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-01-29",
+  "domain": "lines_and_functions",
+  "difficulty": "HARD",
+  "stem": "Dominick graphs the equation \\( y = a | x | \\) where <i>a</i> is a positive integer. If Gina multiplies <i>a</i> by -3, the new graph will become",
+  "A": "narrower and open downward ",
+  "B": "narrower and open upward ",
+  "C": "wider and open downward ",
+  "D": "wider and open upward",
+  "answer": "A",
+  "feedbackfile": "NY-2015-01-29.md"
+}

@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-01-23",
+  "domain": "lines_and_functions",
+  "difficulty": "HARD",
+  "stem": "Which graph represents the exponential decay of a radioactive element?",
+  "A": "<img src='NY-2014-01-23-A.png'>",
+  "B": "<img src='NY-2014-01-23-B.png'>",
+  "C": "<img src='NY-2014-01-23-C.png'>",
+  "D": "<img src='NY-2014-01-23-D.png'>",
+  "answer": "D",
+  "feedbackfile": "NY-2014-01-23.md"
+}

@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-23",
+  "domain": "geometry",
+  "difficulty": "EASY",
+  "stem": "A right circular cone and some of its measurements are shown in the diagram below.<br/> <img src='MA-2014-06-23.png'><br/> Based on the diagram, which of the following is closest to the volume of the cone?",
+  "A": "\\( 13 cm^{3} \\)",
+  "B": "\\( 38 cm^{3} \\)",
+  "C": "\\( 113 cm^{3} \\)",
+  "D": "\\( 115 cm^{3} \\)",
+  "answer": "B",
+  "feedbackfile": "MA-2014-06-23.md"
+}

@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-04",
+  "domain": "word_problems",
+  "difficulty": "MEDIUM",
+  "stem": "The local deli charges a fee for delivery. On Monday, they delivered two dozen bagels to an office at a total cost of $8. On Tuesday, three dozen bagels were delivered at a total cost of $11. Which system of equations could be used to find the cost of a dozen bagels, <i>b</i>, if the delivery fee is <i>f</i>? ",
+  "A": "<i>b</i> + 2<i>f</i> = 8<br/>\n<i>b</i> + 3<i>f</i> = 11",
+  "B": "2<i>b</i> + <i>f</i> = 8<br/>\n<i>b</i> + 3<i>f</i> = 11",
+  "C": "<i>b</i> + 2<i>f</i> = 8<br/>\n3<i>b</i> + <i>f</i> = 11",
+  "D": "2<i>b</i> + <i>f</i> = 8<br/>\n3<i>b</i> + <i>f</i> = 11",
+  "answer": "D",
+  "feedbackfile": "NY-2015-06-04.md"
+}

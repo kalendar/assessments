@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-12",
+  "domain": "geometry",
+  "difficulty": "EASY",
+  "stem": "The diagram below shows a rectangle and its dimensions. <br/><img src='MA-2014-06-12.png'> <br/>A square has the same area as the rectangle. What is the length of each side of the square?",
+  "A": "12 in. ",
+  "B": "15 in.",
+  "C": "30 in. ",
+  "D": "36 in. ",
+  "answer": "A",
+  "feedbackfile": "MA-2014-06-12.md"
+}

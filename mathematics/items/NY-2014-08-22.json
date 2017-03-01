@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-22",
+  "domain": "number_and_calculation",
+  "difficulty": "HARD",
+  "stem": "Sheba opened a retirement account with $36,500. Her account grew at a rate of 7% per year compounded annually. She made no deposits or withdrawals on the account. At the end of 20 years, what was the account worth, to the nearest dollar?",
+  "A": "$87,600",
+  "B": "$130,786",
+  "C": "$141,243",
+  "D": "$1,483,444,463",
+  "answer": "C",
+  "feedbackfile": "NY-2014-08-22.md"
+}

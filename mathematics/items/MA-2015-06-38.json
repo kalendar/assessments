@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-38",
+  "domain": "geometry",
+  "difficulty": "MEDIUM",
+  "stem": "A right circular cone has a volume of 39 cubic inches and a radius of \\( 2 \\frac{1}{2} \\) inches. Which of the following is closest to the height of the cone?",
+  "A": "0.7 inch",
+  "B": "0.8 inch",
+  "C": "6 inches",
+  "D": "7 inches",
+  "answer": "C",
+  "feedbackfile": "MA-2015-06-38.md"
+}

@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-40",
+  "domain": "lines_and_functions",
+  "difficulty": "EASY",
+  "stem": "A dog trainer will use 320 feet of fence to create a rectangular training field. The graph below displays the relationship between the length, in feet, of the training field and the area, in square feet, of the training field. <br/><img src='MA-2016-06-40.png'><br/> What is the length of the rectangular training field that has the greatest area?",
+  "A": "40 feet",
+  "B": "80 feet",
+  "C": "160 feet",
+  "D": "180 feet",
+  "answer": "B",
+  "feedbackfile": "MA-2016-06-40.md"
+}

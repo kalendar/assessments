@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-22",
+  "domain": "number_and_calculation",
+  "difficulty": "MEDIUM",
+  "stem": "Ethan poured orange juice into each of four glasses and estimated that each glass contained 8 ounces, rounded to the nearest ounce.<br/>\nBased on Ethan’s estimate, which of the following could be the actual total amount of orange juice in the four glasses?",
+  "A": "28.0 ounces",
+  "B": "29.6 ounces",
+  "C": "31.6 ounces",
+  "D": "34.0 ounces",
+  "answer": "C",
+  "feedbackfile": "MA-2015-06-22.md"
+}

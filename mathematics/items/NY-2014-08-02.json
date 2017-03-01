@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-02",
+  "domain": "number_and_calculation",
+  "difficulty": "EASY",
+  "stem": "The value of the expression \\( \\mid -20 \\mid - \\mid 6 \\mid \\) is",
+  "A": "26",
+  "B": "14",
+  "C": "-14",
+  "D": "-26",
+  "answer": "B",
+  "feedbackfile": "NY-2014-08-02.md"
+}

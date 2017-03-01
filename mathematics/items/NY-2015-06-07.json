@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-07",
+  "domain": "variables_and_equations",
+  "difficulty": "HARD",
+  "stem": "Which value of <i>x</i> is the solution of \\( \\frac{1}{5}  + \\frac{2}{x}  =  \\frac{1}{3} \\)?",
+  "A": "\\( -2 \\frac{3}{4} \\)",
+  "B": "-15",
+  "C": "\\( 2 \\frac{3}{4} \\) ",
+  "D": "15",
+  "answer": "D",
+  "feedbackfile": "NY-2015-06-07.md"
+}

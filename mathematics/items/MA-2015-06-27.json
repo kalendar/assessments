@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-27",
+  "domain": "statistics",
+  "difficulty": "EASY",
+  "stem": "Which of the following scatterplots is most likely to have a line of best fit with a slope of 5?",
+  "A": "<img src='MA-2015-06-27-A.png'>",
+  "B": "<img src='MA-2015-06-27-B.png'>",
+  "C": "<img src='MA-2015-06-27-C.png'>",
+  "D": "<img src='MA-2015-06-27-D.png'>",
+  "answer": "C",
+  "feedbackfile": "MA-2015-06-27.md"
+}

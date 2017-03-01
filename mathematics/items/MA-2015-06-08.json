@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-08",
+  "domain": "lines_and_functions",
+  "difficulty": "EASY",
+  "stem": "Jay and Kalani graphed lines on a coordinate plane. Jay’s line is represented by the equation below.\n$$ y = 2x-5 $$\nKalani’s line is parallel to Jay’s line. Which of the following could be an equation of Kalani’s line?",
+  "A": "\\( 2x+y = 5 \\)",
+  "B": "\\( -2x+y=5 \\)",
+  "C": "\\( x+2y=-5 \\)",
+  "D": "\\( -x+2y=5 \\)",
+  "answer": "B",
+  "feedbackfile": "MA-2015-06-08.md"
+}

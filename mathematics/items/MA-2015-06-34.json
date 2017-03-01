@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-34",
+  "domain": "lines_and_functions",
+  "difficulty": "EASY",
+  "stem": "What is the slope of the line represented by the equation below? \\( 4x + 5y = 10 \\)",
+  "A": "\\(  \\frac{4}{5} \\)",
+  "B": "\\(  -\\frac{4}{5} \\)",
+  "C": "4",
+  "D": "-4",
+  "answer": "B",
+  "feedbackfile": "MA-2015-06-34.md"
+}

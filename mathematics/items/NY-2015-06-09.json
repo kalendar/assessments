@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-09",
+  "domain": "lines_and_functions",
+  "difficulty": "EASY",
+  "stem": "Which linear equation represents a line that has a slope of  \\( \\frac{2}{3} \\)?",
+  "A": "\\( -2y = -3x + 6 \\)",
+  "B": "\\( -3y = 2x + 6 \\)",
+  "C": "\\( 3y = -2x + 6 \\)",
+  "D": "\\( 3y = 2x + 6 \\)",
+  "answer": "D",
+  "feedbackfile": "NY-2015-06-09.md"
+}

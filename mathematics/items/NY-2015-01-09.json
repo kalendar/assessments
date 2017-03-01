@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-01-09",
+  "domain": "word_problems",
+  "difficulty": "EASY",
+  "stem": "A student spent 15 minutes painting a 2-foot by 3-foot bulletin board. To the <i>nearest tenth of a minute</i>, how long did it take the student to paint 1 square foot?",
+  "A": "0.4",
+  "B": "1.5",
+  "C": "2.5",
+  "D": "3.5",
+  "answer": "C",
+  "feedbackfile": "NY-2015-01-09.md"
+}

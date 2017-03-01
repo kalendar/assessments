@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-33",
+  "domain": "geometry",
+  "difficulty": "MEDIUM",
+  "stem": "A rectangle has a length of 15 centimeters and a width of 8 centimeters.<br/>\nWhich of the following is closest to the radius of a circle that has an area equal to the area of the rectangle?",
+  "A": "3 centimeters",
+  "B": "6 centimeters",
+  "C": "11 centimeters",
+  "D": "19 centimeters ",
+  "answer": "B",
+  "feedbackfile": "MA-2014-06-33.md"
+}

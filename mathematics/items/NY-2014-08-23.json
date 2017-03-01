@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-23",
+  "domain": "lines_and_functions",
+  "difficulty": "EASY",
+  "stem": "Which equation represents a vertical line?",
+  "A": "<i>y</i> = <i> -x</i>",
+  "B": "<i>y</i> = 12",
+  "C": "<i>x</i> = <i>y</i>",
+  "D": "<i>x</i> = 12",
+  "answer": "D",
+  "feedbackfile": "NY-2014-08-23.md"
+}

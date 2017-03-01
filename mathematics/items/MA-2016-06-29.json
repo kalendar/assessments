@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-29",
+  "domain": "statistics",
+  "difficulty": "EASY",
+  "stem": "Grace wants to estimate the percentage of students at her school who like yogurt. She will survey a random sample of 30 students from the school’s population of 500 students.<br/>\nWhich of the following actions would best improve the validity of Grace’s estimate?",
+  "A": "increase the sample size",
+  "B": "increase the population",
+  "C": "decrease the sample size",
+  "D": "decrease the population",
+  "answer": "A",
+  "feedbackfile": "MA-2016-06-29.md"
+}

@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-40",
+  "domain": "geometry",
+  "difficulty": "MEDIUM",
+  "stem": "A parallelogram is graphed on the coordinate grid below. <br/><img src='MA-2015-06-40.png'><br/>  The parallelogram will be rotated 90<b0> clockwise about the origin. Which of the following shows the location of the parallelogram after the rotation?",
+  "A": "<img src='MA-2015-06-40-A.png'>",
+  "B": "<img src='MA-2015-06-40-B.png'>",
+  "C": "<img src='MA-2015-06-40-C.png'>",
+  "D": "<img src='MA-2015-06-40-D.png'>",
+  "answer": "A",
+  "feedbackfile": "MA-2015-06-40.md"
+}

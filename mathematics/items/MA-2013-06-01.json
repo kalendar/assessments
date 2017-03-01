@@ -1,0 +1,12 @@
+{
+  "source": "MA-2013-06-01",
+  "domain": "variables_and_equations",
+  "difficulty": "EASY",
+  "stem": "Which of the following is equivalent to the expression below?<br/>\n$$ ( x^{6} ) \\bullet (x^{2} ) $$",
+  "A": "\\( x^{3} \\)",
+  "B": "\\( (x^{4} ) \\)",
+  "C": "\\( x^{8} \\)",
+  "D": "\\( x^{12} \\)",
+  "answer": "C",
+  "feedbackfile": "MA-2013-06-01.md"
+}

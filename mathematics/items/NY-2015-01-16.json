@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-01-16",
+  "domain": "lines_and_functions",
+  "difficulty": "MEDIUM",
+  "stem": "What is the slope of the line represented by the equation 4x + 3y = 7? ",
+  "A": "\\( \\frac{7}{4} \\)",
+  "B": "\\( \\frac{7}{3} \\)",
+  "C": "\\( -\\frac{3}{4} \\)",
+  "D": "\\( -\\frac{4}{3} \\)",
+  "answer": "D",
+  "feedbackfile": "NY-2015-01-16.md"
+}

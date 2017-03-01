@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-22",
+  "domain": "geometry",
+  "difficulty": "MEDIUM",
+  "stem": "Trapezoid RSTU is shown on the coordinate grid below. <br/><img src='MA-2016-06-22.png'><br/>Trapezoid RSTU will be reflected over the x-axis to create trapezoid R′S′T′U′. What will be the coordinates of point R′, the image of point R after the reflection?",
+  "A": "\\( (4, 5) \\) ",
+  "B": "\\( (4, -5) \\)",
+  "C": "\\( (-4, 5) \\)",
+  "D": "\\( (-4, -5) \\)",
+  "answer": "D",
+  "feedbackfile": "MA-2016-06-22.md"
+}

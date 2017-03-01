@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-01-22",
+  "domain": "number_and_calculation",
+  "difficulty": "HARD",
+  "stem": "Last year, Nick rode his bicycle a total of 8000 miles. To the <i>nearest yard</i>, Nick rode an average of how many yards per day?",
+  "A": "22",
+  "B": "236",
+  "C": "1659",
+  "D": "38,575",
+  "answer": "D",
+  "feedbackfile": "NY-2015-01-22.md"
+}

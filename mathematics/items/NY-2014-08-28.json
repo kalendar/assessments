@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-28",
+  "domain": "variables_and_equations",
+  "difficulty": "EASY",
+  "stem": "What is the result when \\( 6x^{2} - 13x + 12 \\) is subtracted from \\( -3x^{2} + 6x + 7 \\)?",
+  "A": "\\( 3x^{2} - 7x + 19 \\)",
+  "B": "\\( 9x^{2} - 19x + 5 \\)",
+  "C": "\\( 9x^{2} - 7x + 19 \\)",
+  "D": " \\( -9x^{2} + 19x - 5 \\)",
+  "answer": "D",
+  "feedbackfile": "NY-2014-08-28.md"
+}

@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-29",
+  "domain": "variables_and_equations",
+  "difficulty": "HARD",
+  "stem": "What is the solution set of the equation \\( \\frac{x}{3} =  \\frac{8}{x + 2} \\)?",
+  "A": "{-6, -4}",
+  "B": "{-6, 4}",
+  "C": "{6, -4}",
+  "D": "{6, 4} ",
+  "answer": "B",
+  "feedbackfile": "NY-2014-08-29.md"
+}

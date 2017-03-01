@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-13",
+  "domain": "lines_and_functions",
+  "difficulty": "EASY",
+  "stem": "The graph of the equation y = -2 is a line ",
+  "A": "parallel to the x-axis ",
+  "B": "parallel to the y-axis ",
+  "C": "passing through the origin ",
+  "D": "passing through the point (-2,0)",
+  "answer": "A",
+  "feedbackfile": "NY-2015-06-13.md"
+}

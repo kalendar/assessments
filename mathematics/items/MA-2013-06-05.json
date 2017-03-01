@@ -1,0 +1,12 @@
+{
+  "source": "MA-2013-06-05",
+  "domain": "statistics",
+  "difficulty": "EASY",
+  "stem": "Carmen made the scatterplot shown below.<br/>\n<img src='MA-2013-06-05.png'><br/>\nWhich of the following shows the data in Carmen’s scatterplot with a line of best fit?",
+  "A": "<img src='MA-2013-06-05-A.png'>",
+  "B": "<img src='MA-2013-06-05-B.png'>",
+  "C": "<img src='MA-2013-06-05-C.png'>",
+  "D": "<img src='MA-2013-06-05-D.png'>",
+  "answer": "C",
+  "feedbackfile": "MA-2013-06-05.md"
+}

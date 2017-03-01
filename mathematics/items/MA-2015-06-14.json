@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-14",
+  "domain": "variables_and_equations",
+  "difficulty": "MEDIUM",
+  "stem": "Which of the following is equivalent to the expression below?  \\( (x+3) (x+4) \\)  ",
+  "A": "\\( x^{2}+7 \\) ",
+  "B": "\\( x^{2}+12 \\) ",
+  "C": "\\( x^{2}+3x+7 \\) ",
+  "D": "\\( x^{2}+7x+12 \\) ",
+  "answer": "D",
+  "feedbackfile": "MA-2015-06-14.md"
+}

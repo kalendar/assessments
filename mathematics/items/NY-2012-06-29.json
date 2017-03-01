@@ -1,0 +1,12 @@
+{
+  "source": "NY-2012-06-29",
+  "domain": "word_problems",
+  "difficulty": "HARD",
+  "stem": "A car depreciates (loses value) at a rate of 4.5% annually. Greg purchased a car for $12,500. Which equation can be used to determine the value of the car, <i>V</i>, after 5 years?",
+  "A": "\\( V = 12,500(0.55)^{5} \\)",
+  "B": "\\( V = 12,500(0.955)^{5} \\)",
+  "C": "\\( V = 12,500(0.045)^{5} \\)",
+  "D": "\\( V = 12,500(1.45)^{5} \\)",
+  "answer": "B",
+  "feedbackfile": "NY-2012-06-29.md"
+}

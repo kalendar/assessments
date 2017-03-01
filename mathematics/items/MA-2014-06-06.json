@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-06",
+  "domain": "statistics",
+  "difficulty": "MEDIUM",
+  "stem": "Ashley surveyed 20 people at random about the number of television sets in their households. The results of her survey are shown in the line plot below. <br/><img src='MA-2014-06-06.png'><br/> Based on the line plot, what is the mean number of television sets per household?",
+  "A": "2",
+  "B": "3",
+  "C": "4",
+  "D": "5",
+  "answer": "B",
+  "feedbackfile": "MA-2014-06-06.md"
+}

@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-02",
+  "domain": "number_and_calculation",
+  "difficulty": "MEDIUM",
+  "stem": "What is the value of the expression below? <br/> \\( -5+ \\mid 9-11 \\mid \\)",
+  "A": "-7",
+  "B": "-3",
+  "C": "15",
+  "D": "25",
+  "answer": "B",
+  "feedbackfile": "MA-2014-06-02.md"
+}

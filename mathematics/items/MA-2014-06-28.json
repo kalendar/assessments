@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-28",
+  "domain": "geometry",
+  "difficulty": "HARD",
+  "stem": "The radius of a large sphere is 8 times the radius of a small sphere.<br/>\nThe surface area of the large sphere is how many times the surface area of the small sphere?",
+  "A": "8",
+  "B": "32",
+  "C": "64",
+  "D": "512",
+  "answer": "C",
+  "feedbackfile": "MA-2014-06-28.md"
+}

@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-04",
+  "domain": "lines_and_functions",
+  "difficulty": "HARD",
+  "stem": "Which of the following graphs represents the solution of the system of inequalities below? <br/> \\( y \\geq x - 2\\\\ y  \\leq - \\frac{2}{3}x + 1 \\)",
+  "A": "<img src='MA-2014-06-04-A.png'>",
+  "B": "<img src='MA-2014-06-04-B.png'>",
+  "C": "<img src='MA-2014-06-04-C.png'>",
+  "D": "<img src='MA-2014-06-04-D.png'>",
+  "answer": "A",
+  "feedbackfile": "MA-2014-06-04.md"
+}

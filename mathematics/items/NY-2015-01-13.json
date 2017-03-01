@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-01-13",
+  "domain": "word_problems",
+  "difficulty": "MEDIUM",
+  "stem": "The length of a rectangle is three feet less than twice its width. If <i>x</i> represents the width of the rectangle, in feet, which inequality represents the area of the rectangle that is <i>at most</i> 30 square feet? ",
+  "A": "\\( x(2x - 3) \\leq 30 \\)",
+  "B": "\\( x(2x - 3) \\geq 30 \\)",
+  "C": "\\( x(3 - 2x) \\leq 30 \\)",
+  "D": "\\( x(3 - 2x) \\geq 30 \\)",
+  "answer": "A",
+  "feedbackfile": "NY-2015-01-13.md"
+}

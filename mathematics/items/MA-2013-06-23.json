@@ -1,0 +1,12 @@
+{
+  "source": "MA-2013-06-23",
+  "domain": "variables_and_equations",
+  "difficulty": "EASY",
+  "stem": "Which of the following is equivalent to the expression below?<br/>\n$$ (6x - 4y + 9) + (-3x - 2y) $$",
+  "A": "\\( 3x - 2y + 9 \\)",
+  "B": "\\( 3x - 6y + 9 \\)",
+  "C": "\\( 9x - 2y + 9 \\)",
+  "D": "\\( 9x - 6y + 9 \\)",
+  "answer": "B",
+  "feedbackfile": "MA-2013-06-23.md"
+}

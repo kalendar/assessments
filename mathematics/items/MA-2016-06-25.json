@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-25",
+  "domain": "geometry",
+  "difficulty": "EASY",
+  "stem": "The core of a baseball is in the shape of a sphere. The diameter of the core is 2.06 centimeters.\nWhich of the following is closest to the volume of the core?",
+  "A": "2.57 cubic centimeters",
+  "B": "4.58 cubic centimeters",
+  "C": "12.94 cubic centimeters",
+  "D": "36.62 cubic centimeters",
+  "answer": "B",
+  "feedbackfile": "MA-2016-06-25.md"
+}

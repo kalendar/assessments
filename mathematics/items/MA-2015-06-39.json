@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-39",
+  "domain": "lines_and_functions",
+  "difficulty": "HARD",
+  "stem": "A computer software package is sold to small-business clients. The total cost of the software package is $500 for the first 10 computers on which the software is installed, plus $20 for installation on each additional computer.\nWhich statement best describes the function that models the relationship between the number of computers on which the software is installed and the cost of the software?",
+  "A": "It is a constant linear function for 10 or fewer computers and an exponential function for more than 10 computers.",
+  "B": "It is an increasing linear function for 10 or fewer computers and an exponential function for more than 10 computers.",
+  "C": "It is a constant linear function for 10 or fewer computers and an increasing linear function for more than 10 computers.",
+  "D": "It is an increasing linear function for 10 or fewer computers and a constant linear function for more than 10 computers.",
+  "answer": "C",
+  "feedbackfile": "MA-2015-06-39.md"
+}

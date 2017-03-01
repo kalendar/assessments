@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-27",
+  "domain": "statistics",
+  "difficulty": "EASY",
+  "stem": "Ben researched the population of his town for each of the last ten years. He created a scatterplot of the data and noticed that the population increased by about the same amount each year. Ben will determine the equation of the line of best fit for his data.Which of the following statements about the equation of the line of best fit is true?",
+  "A": "The slope is zero.",
+  "B": "The slope is positive.",
+  "C": "The slope is negative. ",
+  "D": "The slope is undefined. ",
+  "answer": "B",
+  "feedbackfile": "MA-2014-06-27.md"
+}

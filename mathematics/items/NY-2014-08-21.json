@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-21",
+  "domain": "statistics",
+  "difficulty": "HARD",
+  "stem": "Kelsey scored the following points in her first six basketball games: 22, 14, 19, 22, 8, and 17. What is the relationship between the measures of central tendency of these data?",
+  "A": "mode &gt; median &gt; mean",
+  "B": "median &gt; mode &gt; mean",
+  "C": "mean &gt; median &gt; mode",
+  "D": "mode &gt; mean &gt; median",
+  "answer": "A",
+  "feedbackfile": "NY-2014-08-21.md"
+}

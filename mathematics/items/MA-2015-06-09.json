@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-09",
+  "domain": "number_and_calculation",
+  "difficulty": "MEDIUM",
+  "stem": "The first 2,450 people to attend a baseball game received a free hat. A total of 19,544 people attended the game.<br/>\nWhich of the following is closest to the fraction of people attending the game who received a free hat?",
+  "A": " \\( \\frac{1}{20} \\)",
+  "B": "\\( \\frac{1}{8} \\)",
+  "C": "\\(  \\frac{1}{5} \\)",
+  "D": "\\( \\frac{1}{4} \\)",
+  "answer": "B",
+  "feedbackfile": "MA-2015-06-09.md"
+}

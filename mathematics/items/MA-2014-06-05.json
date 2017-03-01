@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-05",
+  "domain": "number_and_calculation",
+  "difficulty": "EASY",
+  "stem": "Which of the following integers is closest to the value of the expression below?<br/> \\( \\sqrt{10^{2} - 5^{2}} \\)",
+  "A": "2",
+  "B": "5",
+  "C": "9",
+  "D": "11",
+  "answer": "C",
+  "feedbackfile": "MA-2014-06-05.md"
+}

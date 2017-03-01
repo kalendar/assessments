@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-28",
+  "domain": "word_problems",
+  "difficulty": "HARD",
+  "stem": "Two families buy refreshments at a concession stand. Each drink costs <i>d</i> dollars. Each snack costs <i>s</i> dollars. The Blake family buys 3 drinks and 2 snacks for $12. The Reese family buys 2 drinks and 4 snacks for $16. What is the cost of one drink at the concession stand?",
+  "A": "$2",
+  "B": "$3",
+  "C": "$4",
+  "D": "$5",
+  "answer": "A",
+  "feedbackfile": "MA-2015-06-28.md"
+}

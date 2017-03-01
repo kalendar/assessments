@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-29",
+  "domain": "geometry",
+  "difficulty": "HARD",
+  "stem": "On a coordinate grid, triangle PQR is translated 4 units up and then reflected over the y-axis to form triangle \\( P \\prime Q \\prime R \\prime \\).<br/>\nWhich diagram could show triangle PQR, and the location of triangle \\( P \\prime Q \\prime R \\prime \\) after the transformations?",
+  "A": "<img src='MA-2014-06-29-A.png'>",
+  "B": "<img src='MA-2014-06-29-B.png'>",
+  "C": "<img src='MA-2014-06-29-C.png'>",
+  "D": "<img src='MA-2014-06-29-D.png'>",
+  "answer": "B",
+  "feedbackfile": "MA-2014-06-29.md"
+}

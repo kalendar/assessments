@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-30",
+  "domain": "geometry",
+  "difficulty": "EASY",
+  "stem": "A rectangular tank measures 5 feet long, 4 feet wide, and 3 feet high. Water is poured into the tank to a depth of \\( 2\\frac{1}{2} \\) feet. How many cubic feet of water are in the tank? ",
+  "A": "60",
+  "B": "50",
+  "C": "15.5",
+  "D": "11.5",
+  "answer": "B",
+  "feedbackfile": "NY-2015-06-30.md"
+}

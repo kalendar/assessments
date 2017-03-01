@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-05",
+  "domain": "lines_and_functions",
+  "difficulty": "MEDIUM",
+  "stem": "Which inequality is shown in the graph below?\n<br/><img src='NY-2015-06-05.png'>",
+  "A": "\\( y  \\leq  \\frac{4}{3}x + 3 \\)",
+  "B": "\\( y  \\geq  \\frac{4}{3}x + 3 \\)",
+  "C": "\\( y  \\leq  \\frac{4}{3}x - 4 \\)",
+  "D": "\\( y  \\geq  \\frac{4}{3}x - 4\\)",
+  "answer": "C",
+  "feedbackfile": "NY-2015-06-05.md"
+}

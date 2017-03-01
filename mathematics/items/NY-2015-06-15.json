@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-15",
+  "domain": "lines_and_functions",
+  "difficulty": "MEDIUM",
+  "stem": "Which equation represents the line that passes through the points (-1, -2) and (3, 10)?",
+  "A": "\\( y = 3x + 1 \\)",
+  "B": "\\( y = 3x - 1 \\)",
+  "C": "\\( y = 4x + 2 \\)",
+  "D": "\\( y = 4x - 2 \\)",
+  "answer": "A",
+  "feedbackfile": "NY-2015-06-15.md"
+}

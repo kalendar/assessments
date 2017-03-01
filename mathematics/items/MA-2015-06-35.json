@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-35",
+  "domain": "geometry",
+  "difficulty": "MEDIUM",
+  "stem": "The diagram below shows \\triangleLMN and its image \\( \\triangle RST \\), after a series of transformations in the coordinate plane. <br/><img src='MA-2015-06-35.png'><br/> What is the length, in units, of  \\( \\overline{RT} \\)?",
+  "A": "3",
+  "B": "3.5",
+  "C": "4",
+  "D": "4.5",
+  "answer": "C",
+  "feedbackfile": "MA-2015-06-35.md"
+}

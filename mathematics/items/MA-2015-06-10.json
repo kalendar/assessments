@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-10",
+  "domain": "number_and_calculation",
+  "difficulty": "HARD",
+  "stem": "Which of the following is equivalent to the expression below? \\( 4+36 \\div 2  \\times  5^{2} -3 \\)",
+  "A": "\\( 4+18  \\times 25 -3 \\)",
+  "B": "\\( 4+36  \\times 20 -3 \\)",
+  "C": "\\( 40 \\div 2  \\times 10 -3 \\)",
+  "D": "\\( 40 \\div 2  \\times 25 -3 \\)",
+  "answer": "A",
+  "feedbackfile": "MA-2015-06-10.md"
+}

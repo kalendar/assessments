@@ -1,0 +1,12 @@
+{
+  "source": "MA-2013-06-14",
+  "domain": "variables_and_equations",
+  "difficulty": "HARD",
+  "stem": "What is the value of x in the solution of the system of equations below?<br/>\n$$ 3x - 2y = 6 $$\n$$ x + 2y = 10 $$",
+  "A": "2",
+  "B": "4",
+  "C": "10",
+  "D": "16",
+  "answer": "B",
+  "feedbackfile": "MA-2013-06-14.md"
+}

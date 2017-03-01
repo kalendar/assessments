@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-07",
+  "domain": "word_problems",
+  "difficulty": "HARD",
+  "stem": "The sum of the lengths of any two sides of a triangle must be greater than the length of the remaining side. The lengths of two sides of a triangle are 8 inches and 13 inches. Which of the following represents x, the possible length in inches of the remaining side of the triangle?",
+  "A": "5 &lt; x &lt; 21",
+  "B": "\\( 5 \\leq x \\leq 21 \\)",
+  "C": "x &lt; 5 or x &gt; 21",
+  "D": "\\( x \\leq 5 or x \\geq 21 \\)",
+  "answer": "A",
+  "feedbackfile": "MA-2016-06-07.md"
+}

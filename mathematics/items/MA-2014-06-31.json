@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-31",
+  "domain": "geometry",
+  "difficulty": "HARD",
+  "stem": "In the diagram below, the dimensions of a student ID card are shown rounded to the nearest whole inch. <br/><img src='MA-2014-06-31.png'> <br/>  Which of the following could be the actual area, in square inches, of the front of the card?",
+  "A": "8",
+  "B": "8.5",
+  "C": "15.5",
+  "D": "16",
+  "answer": "C",
+  "feedbackfile": "MA-2014-06-31.md"
+}

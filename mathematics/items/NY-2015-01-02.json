@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-01-02",
+  "domain": "variables_and_equations",
+  "difficulty": "EASY",
+  "stem": "What is the value of <i>n</i> in the equation 0.2(n - 6) = 2.8?",
+  "A": "8",
+  "B": "2",
+  "C": "20",
+  "D": "44",
+  "answer": "C",
+  "feedbackfile": "NY-2015-01-02.md"
+}

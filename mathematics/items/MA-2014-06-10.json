@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-10",
+  "domain": "variables_and_equations",
+  "difficulty": "MEDIUM",
+  "stem": "A linear equation is shown below. \\( y =  \\frac{2}{5} x + 2 \\) What is the value of x when \\( y =  2\\frac{2}{3} \\)?",
+  "A": "\\( 3\\frac{3}{4} \\)",
+  "B": "\\( 3\\frac{1}{15} \\)",
+  "C": "\\( 1\\frac{2}{3} \\)",
+  "D": "\\( 1\\frac{1}{9} \\)",
+  "answer": "C",
+  "feedbackfile": "MA-2014-06-10.md"
+}

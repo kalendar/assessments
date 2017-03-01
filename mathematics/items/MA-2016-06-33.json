@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-33",
+  "domain": "statistics",
+  "difficulty": "HARD",
+  "stem": "A doctor randomly selected patients from different age groups. He compared the relationship between x, the age in years, and y, the height in inches, for each patient. The scatterplot below shows the doctor’s data. <br/><img src='MA-2016-06-33.png'> <br/> Phillip is a 15-year-old patient who has a height of 75.75 inches. Based on the line of best fit for the scatterplot, what is the approximate difference of Phillip’s height and the expected height for a 15-year-old patient?",
+  "A": "2 inches",
+  "B": "8 inches",
+  "C": "12 inches",
+  "D": "18 inches",
+  "answer": "B",
+  "feedbackfile": "MA-2016-06-33.md"
+}

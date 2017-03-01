@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-01-30",
+  "domain": "word_problems",
+  "difficulty": "HARD",
+  "stem": "Julie has three children whose ages are consecutive odd integers. If xrepresents the youngest child’s age, which expression represents the sum of her children’s ages? ",
+  "A": "3x + 3",
+  "B": "3x + 4",
+  "C": "3x + 5",
+  "D": "3x + 6",
+  "answer": "D",
+  "feedbackfile": "NY-2014-01-30.md"
+}

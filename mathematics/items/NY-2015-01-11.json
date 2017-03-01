@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-01-11",
+  "domain": "variables_and_equations",
+  "difficulty": "HARD",
+  "stem": "What is \\( (\\frac{10}{7x}) -  (\\frac{3}{5x}) \\) expressed in simplest form?",
+  "A": "\\( \\frac{7}{2x} \\) ",
+  "B": "\\( \\frac{29}{2x} \\) ",
+  "C": "\\( \\frac{29}{35x} \\)",
+  "D": "\\( \\frac{55}{35x} \\) ",
+  "answer": "C",
+  "feedbackfile": "NY-2015-01-11.md"
+}

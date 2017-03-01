@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-07",
+  "domain": "statistics",
+  "difficulty": "EASY",
+  "stem": "The line plot below shows the fuel efficiency, in miles per gallon, for the vehicles owned by a rental car company. <br/><img src='MA-2015-06-07.png'> <br/>Based on the line plot, what is the median fuel efficiency, in miles per gallon, for the vehicles?",
+  "A": "32",
+  "B": "33",
+  "C": "34",
+  "D": "35",
+  "answer": "B",
+  "feedbackfile": "MA-2015-06-07.md"
+}

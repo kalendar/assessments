@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-16",
+  "domain": "variables_and_equations",
+  "difficulty": "HARD",
+  "stem": "What is the solution of the equation \\( \\frac{12}{7x} +  \\frac{3}{2x}  =  \\frac{15}{14} \\)?",
+  "A": "1",
+  "B": "5",
+  "C": "3",
+  "D": "14",
+  "answer": "C",
+  "feedbackfile": "NY-2014-08-16.md"
+}

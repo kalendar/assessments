@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-06",
+  "domain": "variables_and_equations",
+  "difficulty": "MEDIUM",
+  "stem": "What are the solutions of the equation below? \\( (x-2)  (x+9)=0 \\)",
+  "A": "<i>x</i>=-2; <i>x</i>=-9",
+  "B": "<i>x</i>=-2; <i>x</i>=9",
+  "C": "<i>x</i>=2; <i>x</i>=-9",
+  "D": "<i>x</i>=2; <i>x</i>=9",
+  "answer": "C",
+  "feedbackfile": "MA-2015-06-06.md"
+}

@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-25",
+  "domain": "statistics",
+  "difficulty": "HARD",
+  "stem": "Mrs. Porter recorded her students’ grades in the frequency table below.\n<br/><img src='NY-2015-06-25.png'><br/>\nWhich statement is true for the data?",
+  "A": " mean &gt; median &gt; mode",
+  "B": "mean &gt; mode &gt; median",
+  "C": " mode &gt; median &gt; mean ",
+  "D": "median &gt; mean &gt; mode",
+  "answer": "C",
+  "feedbackfile": "NY-2015-06-25.md"
+}

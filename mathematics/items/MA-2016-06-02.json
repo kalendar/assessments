@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-02",
+  "domain": "variables_and_equations",
+  "difficulty": "EASY",
+  "stem": "Which of the following is equivalent to the expression below? \\( (3m^{2} + 4 ) + (8m^{2}-5m) \\)",
+  "A": "\\( 11m^{2} -5m + 4 \\)",
+  "B": "\\( 7m^{2} + 13m + 4 \\)",
+  "C": "\\( 11m^{2} - m \\)",
+  "D": "\\( 7m^{2} + 3m \\)",
+  "answer": "A",
+  "feedbackfile": "MA-2016-06-02.md"
+}

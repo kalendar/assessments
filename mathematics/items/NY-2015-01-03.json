@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-01-03",
+  "domain": "variables_and_equations",
+  "difficulty": "EASY",
+  "stem": "The expression \\( \\frac{ 24x^{6} y^{3}}{ -6x^{3} y} \\) is equivalent to",
+  "A": "\\( -4x^{2}y^{3} \\)",
+  "B": "\\( -4x^{3}y^{3} \\)",
+  "C": "\\( -4x^{9}y^{4} \\)",
+  "D": "\\( -4x^{3}y^{2} \\)",
+  "answer": "D",
+  "feedbackfile": "NY-2015-01-03.md"
+}

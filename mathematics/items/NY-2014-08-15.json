@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-15",
+  "domain": "number_and_calculation",
+  "difficulty": "HARD",
+  "stem": "A parking lot is 100 yards long. What is the length of  \\( \\frac{3}{4} \\) of the parking lot., in feet? \n<br/><img src='NY-2014-08-15.png'>",
+  "A": "300",
+  "B": "225",
+  "C": "75",
+  "D": "25",
+  "answer": "B",
+  "feedbackfile": "NY-2014-08-15.md"
+}

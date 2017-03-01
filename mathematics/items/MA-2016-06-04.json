@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-04",
+  "domain": "variables_and_equations",
+  "difficulty": "HARD",
+  "stem": "Which values of<a0>x<a0>and<a0>y<a0>make the system of equations below true? 2<i>x</i>-<i>y</i>=-1 3<i>x</i>-<i>y</i>=-3",
+  "A": "<i>x</i>=-4; <i>y</i>=-7",
+  "B": "<i>x</i>=-2; <i>y</i>=-3",
+  "C": "<i>x</i>=2; <i>y</i>=5",
+  "D": "<i>x</i>=4; <i>y</i>=15",
+  "answer": "B",
+  "feedbackfile": "MA-2016-06-04.md"
+}

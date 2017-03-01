@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-31",
+  "domain": "geometry",
+  "difficulty": "MEDIUM",
+  "stem": "A flying disc in the shape of a circle has a circumference of 8π inches.<br/>\nWhat is the radius of the flying disc?",
+  "A": "4 inches",
+  "B": "8 inches",
+  "C": "16 inches",
+  "D": "64 inches ",
+  "answer": "A",
+  "feedbackfile": "MA-2016-06-31.md"
+}

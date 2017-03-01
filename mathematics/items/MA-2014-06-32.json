@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-32",
+  "domain": "statistics",
+  "difficulty": "HARD",
+  "stem": "Janice observed that the heights of the posters in her apartment are always greater than the widths. Which of the following scatterplots could represent the dimensions of the posters in Janice’s apartment?",
+  "A": "<img src='MA-2014-06-32-A.png'>",
+  "B": "<img src='MA-2014-06-32-B.png'>",
+  "C": "<img src='MA-2014-06-32-C.png'>",
+  "D": "<img src='MA-2014-06-32-D.png'>",
+  "answer": "D",
+  "feedbackfile": "MA-2014-06-32.md"
+}

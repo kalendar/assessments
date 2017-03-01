@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-01-10",
+  "domain": "lines_and_functions",
+  "difficulty": "MEDIUM",
+  "stem": "What is an equation of the line that passes through the points (2,1) and (6, 5)? ",
+  "A": "\\( y=(- \\frac{3}{2} x) - 2 \\)",
+  "B": "\\( y=(- \\frac{3}{2} x) + 4 \\)",
+  "C": "\\( y=(- \\frac{2}{3} x) - 1 \\)",
+  "D": "\\( y=(- \\frac{2}{3} x) + \\frac{7}{3} \\)",
+  "answer": "B",
+  "feedbackfile": "NY-2015-01-10.md"
+}

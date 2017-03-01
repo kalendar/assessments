@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-04",
+  "domain": "lines_and_functions",
+  "difficulty": "MEDIUM",
+  "stem": "Which equation represents the line that passes through the points (1,1) and (-2, 7)?",
+  "A": "\\( y=-2x + 9 \\)",
+  "B": "\\( y=-2x + 3 \\)",
+  "C": "\\( y=(- \\frac{1}{2} x) + 8 \\)",
+  "D": "\\( y=(- \\frac{1}{2} x) + 6 \\)",
+  "answer": "B",
+  "feedbackfile": "NY-2014-08-04.md"
+}

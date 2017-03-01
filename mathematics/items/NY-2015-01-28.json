@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-01-28",
+  "domain": "statistics",
+  "difficulty": "HARD",
+  "stem": "Three students each rolled a wooden cube with faces painted red, white, and blue.  The color of the top face is recorded each time the cube is rolled.  The table below shows the results.\n<br/><img src='NY-2015-01-28.png'><br/>\nIf a fourth student rolled the cube 75 times, based on these experimental data, approximately how many times can the cube be expected to land with blue on top? ",
+  "A": "25",
+  "B": "30",
+  "C": "35",
+  "D": "40",
+  "answer": "B",
+  "feedbackfile": "NY-2015-01-28.md"
+}

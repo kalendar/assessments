@@ -1,0 +1,12 @@
+{
+  "source": "MA-2013-06-24",
+  "domain": "statistics",
+  "difficulty": "HARD",
+  "stem": "A teacher recorded the height of each student in a class. The bar graph below shows the number of students at each height.<br/>\n<img src='MA-2013-06-24.png'><br/>\nWhich statement about the data in the bar graph is true?",
+  "A": "The mean is greater than the mode.",
+  "B": "The median is greater than the mean.",
+  "C": "The median is the middle number on the vertical axis.",
+  "D": "The mode is the largest number on the horizontal axis.",
+  "answer": "A",
+  "feedbackfile": "MA-2013-06-24.md"
+}

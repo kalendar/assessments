@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-30",
+  "domain": "word_problems",
+  "difficulty": "EASY",
+  "stem": "Brandon plans to rent a truck. The cost to rent the truck is $30 for the first four hours plus $10 for each additional hour. He can spend no more than $60. What is the maximum number of hours for which Brandon can rent the truck?",
+  "A": "3",
+  "B": "4",
+  "C": "6",
+  "D": "7",
+  "answer": "D",
+  "feedbackfile": "MA-2015-06-30.md"
+}

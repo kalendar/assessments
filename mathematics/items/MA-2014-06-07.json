@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-07",
+  "domain": "variables_and_equations",
+  "difficulty": "MEDIUM",
+  "stem": "Which of the following is not a solution of the equation below? <br/>\n$$ 3x \\big(x-1\\big) \\big(x-2\\big) = 0 $$",
+  "A": "<i>x</i> = 0",
+  "B": "<i>x</i> = 1",
+  "C": "<i>x</i> = 2",
+  "D": "<i>x</i> = 3",
+  "answer": "D",
+  "feedbackfile": "MA-2014-06-07.md"
+}

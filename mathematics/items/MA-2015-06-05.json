@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-05",
+  "domain": "number_and_calculation",
+  "difficulty": "MEDIUM",
+  "stem": "What is the value of the expression below?  \\( (5+4) ^{2} - (5+4 ^{2}) \\)   ",
+  "A": "20",
+  "B": "52",
+  "C": "60",
+  "D": "92",
+  "answer": "C",
+  "feedbackfile": "MA-2015-06-05.md"
+}

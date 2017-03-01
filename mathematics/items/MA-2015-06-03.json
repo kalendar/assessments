@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-03",
+  "domain": "number_and_calculation",
+  "difficulty": "EASY",
+  "stem": "The length, in centimeters, of a rectangle is represented by an expression, as shown in the diagram below. <br/><img src='MA-2015-06-03.png'><br/>  Based on the diagram, which of the following is closest to the length, in centimeters, of the rectangle?",
+  "A": "8.3",
+  "B": "8.7",
+  "C": "9.1",
+  "D": "9.5",
+  "answer": "B",
+  "feedbackfile": "MA-2015-06-03.md"
+}

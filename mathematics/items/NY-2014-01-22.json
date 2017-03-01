@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-01-22",
+  "domain": "lines_and_functions",
+  "difficulty": "HARD",
+  "stem": "Which graph represents the solution of 2y + 6 > 4x?",
+  "A": "<img src='NY-2014-01-22-A.png'>",
+  "B": "<img src='NY-2014-01-22-B.png'>",
+  "C": "<img src='NY-2014-01-22-C.png'>",
+  "D": "<img src='NY-2014-01-22-D.png'>",
+  "answer": "C",
+  "feedbackfile": "NY-2014-01-22.md"
+}

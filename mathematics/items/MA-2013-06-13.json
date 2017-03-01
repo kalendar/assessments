@@ -1,0 +1,12 @@
+{
+  "source": "MA-2013-06-13",
+  "domain": "word_problems",
+  "difficulty": "MEDIUM",
+  "stem": "Mr. Thurman's lawn is rectangular and has a width of 92 feet and a length of 147 feet. He is going to cover his entire lawn with grass seed. One bag of grass seed costs $53.47. The grass seed in one bag will cover an area of approximately 5000 square feet. Which of the following estimates is closest to the total cost of the bags of grass seed Mr. Thurman will need to cover his lawn?",
+  "A": "$100",
+  "B": "$150",
+  "C": "$200",
+  "D": "$250",
+  "answer": "B",
+  "feedbackfile": "MA-2013-06-13.md"
+}

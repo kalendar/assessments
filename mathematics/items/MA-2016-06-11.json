@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-11",
+  "domain": "number_and_calculation",
+  "difficulty": "EASY",
+  "stem": "Which of the following is closest to the value of the expression below? \\( 3.14 (7.9  ) ^{2} \\)",
+  "A": "150",
+  "B": "200",
+  "C": "250",
+  "D": "300",
+  "answer": "B",
+  "feedbackfile": "MA-2016-06-11.md"
+}

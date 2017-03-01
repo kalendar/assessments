@@ -1,0 +1,12 @@
+{
+  "source": "MA-2013-06-30",
+  "domain": "statistics",
+  "difficulty": "MEDIUM",
+  "stem": "Suzanna surveyed some students to find out if they would attend the homecoming game. The table below shows the students’ responses.<br/>\n <img src='MA-2013-06-30.png'><br/>\nWhich of the following circle graphs <b>best</b> represents the information in the table?",
+  "A": " <img src='MA-2013-06-30-A.png'>",
+  "B": " <img src='MA-2013-06-30-B.png'>",
+  "C": " <img src='MA-2013-06-30-C.png'>",
+  "D": " <img src='MA-2013-06-30-D.png'>",
+  "answer": "D",
+  "feedbackfile": "MA-2013-06-30.md"
+}

@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-01-27",
+  "domain": "number_and_calculation",
+  "difficulty": "EASY",
+  "stem": "How many different seven-letter arrangements of the letters in the word <i>HEXAGON</i> can be made if each letter is used only once? ",
+  "A": "28",
+  "B": "49",
+  "C": "720",
+  "D": "5040",
+  "answer": "D",
+  "feedbackfile": "NY-2015-01-27.md"
+}

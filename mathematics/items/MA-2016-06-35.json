@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-35",
+  "domain": "statistics",
+  "difficulty": "EASY",
+  "stem": "Silvia made a scatterplot to compare the mean low temperatures, in degrees Fahrenheit, and the latitudes, in degrees north, of some cities during January. She approximated that the line of best fit for the scatterplot has a slope of –1.<br/>\nWhich of the following could be the scatterplot Silvia made?",
+  "A": "<img src='MA-2016-06-35-A.png'>",
+  "B": "<img src='MA-2016-06-35-B.png'>",
+  "C": "<img src='MA-2016-06-35-C.png'>",
+  "D": "<img src='MA-2016-06-35-D.png'>",
+  "answer": "D",
+  "feedbackfile": "MA-2016-06-35.md"
+}

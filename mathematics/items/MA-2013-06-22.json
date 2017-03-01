@@ -1,0 +1,12 @@
+{
+  "source": "MA-2013-06-22",
+  "domain": "geometry",
+  "difficulty": "EASY",
+  "stem": "The diagram below shows a trapezoid and its dimensions.<br/>\n<img src='MA-2013-06-22.png'><br/>\nWhat is the area of the trapezoid?",
+  "A": "\\( 95.46 in.^{2} \\)",
+  "B": "\\( (57.72 in.^{2} ) \\)",
+  "C": "\\( 47.73 in.^{2} \\)",
+  "D": "\\( 34.70 in.^{2} \\)",
+  "answer": "C",
+  "feedbackfile": "MA-2013-06-22.md"
+}

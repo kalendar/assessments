@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-12",
+  "domain": "number_and_calculation",
+  "difficulty": "MEDIUM",
+  "stem": "Which of the following expressions has a value of zero?",
+  "A": "\\( (2-3) - (2-3) \\) ",
+  "B": "\\( (2-3) -  \\mid 2-3 \\mid \\)",
+  "C": "\\( (2-3) + (-3+2) \\)",
+  "D": "\\(  \\mid 2-3 \\mid -  (-3+2) \\)",
+  "answer": "A",
+  "feedbackfile": "MA-2016-06-12.md"
+}

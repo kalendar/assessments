@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-28",
+  "domain": "number_and_calculation",
+  "difficulty": "HARD",
+  "stem": "Which value is equivalent to the product of \\( 4\\sqrt{2} ) and ( 2\\sqrt{6} \\)?",
+  "A": "\\( 16\\sqrt{3} \\)",
+  "B": "\\( 6\\sqrt{12} \\)",
+  "C": "\\( 6\\sqrt{8} \\)",
+  "D": "\\( 24\\sqrt{2} \\)",
+  "answer": "A",
+  "feedbackfile": "NY-2015-06-28.md"
+}

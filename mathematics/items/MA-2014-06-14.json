@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-14",
+  "domain": "number_and_calculation",
+  "difficulty": "EASY",
+  "stem": "Jaya is buying a new car that has a price of $28,495. She is required to pay a sales tax that is 6.25% of the car’s price.<br/>\nWhich of the following estimates is closest to the amount of sales tax Jaya will pay for the car?",
+  "A": "$1,200",
+  "B": "$1,400",
+  "C": "$1,800",
+  "D": "$2,100",
+  "answer": "C",
+  "feedbackfile": "MA-2014-06-14.md"
+}

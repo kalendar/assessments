@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-01-06",
+  "domain": "lines_and_functions",
+  "difficulty": "MEDIUM",
+  "stem": "What is an equation of the line that passes through the point (-2, -8) and has a slope of 3? ",
+  "A": "y = 3x - 2",
+  "B": "y = 3x - 22",
+  "C": "y = 3x + 2",
+  "D": "y = 3x + 22",
+  "answer": "A",
+  "feedbackfile": "NY-2014-01-06.md"
+}

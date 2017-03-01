@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-12",
+  "domain": "statistics",
+  "difficulty": "EASY",
+  "stem": "Which statement is true about the data shown in the scatter plot below?\n<br/><img src='NY-2015-06-12.png'>",
+  "A": "There is no correlation between the two sets of data.",
+  "B": "There is a positive correlation between the two sets of data.",
+  "C": "There is a negative correlation between the two sets of data. ",
+  "D": "The correlation between the data is both positive and negative.",
+  "answer": "C",
+  "feedbackfile": "NY-2015-06-12.md"
+}

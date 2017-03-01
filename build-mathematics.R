@@ -33,15 +33,32 @@ source('buildDomainFeedback.R')
 figures.base.url <- 'https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/'
 items.dir <- 'mathematics/items/'
 
-items <- read.xls('mathematics/MathItems.xlsx', sheet=1, stringsAsFactors=FALSE)
+# items <- read.xls('mathematics/MathItems.xlsx', sheet=1, stringsAsFactors=FALSE)
+# 
+# items[items$DifficultyLevel == '', ]$DifficultyLevel <- NA
+# items[items$Domain == '', ]$Domain <- NA
+# items$DifficultyLevel <- toupper(items$DifficultyLevel)
+# items$Domain <- tolower(gsub(' ', '_', items$Domain))
+# items$Filename <- paste0(items$State, '-', items$Year, '-',
+# 						 formatC(items$Month, width=2, flag='0'), '-',
+# 						 formatC(items$ItemNum, width=2, flag='0'), '.md')
 
-items[items$DifficultyLevel == '', ]$DifficultyLevel <- NA
-items[items$Domain == '', ]$Domain <- NA
-items$DifficultyLevel <- toupper(items$DifficultyLevel)
-items$Domain <- tolower(gsub(' ', '_', items$Domain))
-items$Filename <- paste0(items$State, '-', items$Year, '-',
-						 formatC(items$Month, width=2, flag='0'), '-',
-						 formatC(items$ItemNum, width=2, flag='0'), '.md')
+# Read items from JSON files
+items <- data.frame(Stem=character(), Domain=character(), DifficultyLevel=character(),
+					A=character(), B=character(), c=character(), D=character(),
+					Answer=character(), Filename=character(), stringsAsFactors = FALSE)
+for(i in list.files('mathematics/items', pattern='.json')) {
+	tmp <- fromJSON(paste0('mathematics/items/', i))
+	items <- rbind(items, data.frame(
+		Stem = tmp$stem,
+		Domain = tmp$domain,
+		DifficultyLevel = tmp$difficulty,
+		A = tmp$A, B = tmp$B, C = tmp$C, D = tmp$D,
+		Answer = tmp$answer,
+		Filename = tmp$feedback,
+		stringsAsFactors = FALSE
+	))
+}
 
 feedback <- parseMarkdown('mathematics')
 

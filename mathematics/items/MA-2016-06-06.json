@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-06",
+  "domain": "number_and_calculation",
+  "difficulty": "EASY",
+  "stem": "A total of 29,183 votes were cast in an election. The winning candidate in the election received 61.3% of the votes. Which of the following is closest to the number of votes received by the winning candidate?",
+  "A": "21,000",
+  "B": "18,000",
+  "C": "15,000",
+  "D": "9,000",
+  "answer": "B",
+  "feedbackfile": "MA-2016-06-06.md"
+}

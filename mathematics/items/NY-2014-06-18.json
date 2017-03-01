@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-06-18",
+  "domain": "word_problems",
+  "difficulty": "HARD",
+  "stem": "Three times the sum of a number and four is equal to five times the number, decreased by two. If <i>x</i> represents the number, which equation is a correct translation of the statement?",
+  "A": "3(<i>x</i> + 4) = 5<i>x</i> - 2",
+  "B": "3(<i>x</i> + 4) = 5(<i>x</i> - 2)",
+  "C": "3<i>x</i> + 4 = 5<i>x</i> - 2",
+  "D": "3<i>x</i> + 4 = 5<i>x</i> - 2",
+  "answer": "A",
+  "feedbackfile": "NY-2014-06-18.md"
+}

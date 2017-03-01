@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-19",
+  "domain": "word_problems",
+  "difficulty": "EASY",
+  "stem": "Owino gets paid $280 per week plus 5% commission on all sales for selling electronic equipment. If he sells <i>n</i> dollars worth of electronic equipment in one week, which algebraic expression represents the amount of money he will earn that week?",
+  "A": "\\( 280n + 5 \\)",
+  "B": "\\( 280n + 0.05 \\)",
+  "C": "\\( 280 + 0.05n \\)",
+  "D": "\\( 280 + 5n \\)",
+  "answer": "C",
+  "feedbackfile": "NY-2015-06-19.md"
+}

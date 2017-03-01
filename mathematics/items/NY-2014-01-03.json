@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-01-03",
+  "domain": "word_problems",
+  "difficulty": "EASY",
+  "stem": "Jeremy is hosting a Halloween party for 80 children. He will give each child at leastone candy bar. If each bag of candy contains 18 candy bars, which inequality can be used to determine how many bags, <i>c</i>, Jeremy will need to buy? ",
+  "A": "\\( 18c \\geq 80 \\)",
+  "B": "\\( 18c  \\leq 80 \\)",
+  "C": "\\(  \\frac{c}{18}  \\geq 80 \\)",
+  "D": "\\( \\frac{c}{18}  \\leq 80 \\)",
+  "answer": "A",
+  "feedbackfile": "NY-2014-01-03.md"
+}

@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-38",
+  "domain": "geometry",
+  "difficulty": "EASY",
+  "stem": "A right circular cone and its dimensions are shown in the diagram below. <br/><img src='MA-2016-06-38.png'><br/> Which of the following is closest to the volume of the cone?",
+  "A": "\\( 66 in^{3} \\)",
+  "B": "\\( 115 in.^{3} \\)",
+  "C": "\\( 132 in.^{3} \\)",
+  "D": "\\( 462 in.^{3} \\)",
+  "answer": "B",
+  "feedbackfile": "MA-2016-06-38.md"
+}

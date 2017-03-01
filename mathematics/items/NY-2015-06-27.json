@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-27",
+  "domain": "number_and_calculation",
+  "difficulty": "MEDIUM",
+  "stem": "If \\( (7.6 x  10^{n}) (3.5 x  10^{3}) = 2.66 x  10^{9} \\), what is the value of n?",
+  "A": "6",
+  "B": "5",
+  "C": "3",
+  "D": "7",
+  "answer": "B",
+  "feedbackfile": "NY-2015-06-27.md"
+}

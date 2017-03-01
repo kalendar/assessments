@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-26",
+  "domain": "statistics",
+  "difficulty": "MEDIUM",
+  "stem": "The scatterplot below shows the number of pages Tamisha read each day last week. <br/><img src='MA-2016-06-26.png'><br/>  Based on the scatterplot, what is the median number of pages Tamisha read for the days last week?",
+  "A": "10",
+  "B": "15",
+  "C": "30",
+  "D": "35",
+  "answer": "D",
+  "feedbackfile": "MA-2016-06-26.md"
+}

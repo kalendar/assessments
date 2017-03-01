@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-26",
+  "domain": "variables_and_equations",
+  "difficulty": "HARD",
+  "stem": "If \\( ax + 3 = 7 - bx \\), what is <i>x</i> expressed in terms of <i>a</i> and <i>b</i>?",
+  "A": "\\( \\frac{4}{ab} \\)",
+  "B": "\\( -\\frac{4}{ab} \\)",
+  "C": "\\( \\frac{4}{a+b} \\)",
+  "D": "\\( -\\frac{4}{a+b} \\)",
+  "answer": "C",
+  "feedbackfile": "NY-2014-08-26.md"
+}

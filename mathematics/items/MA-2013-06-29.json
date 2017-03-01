@@ -1,0 +1,12 @@
+{
+  "source": "MA-2013-06-29",
+  "domain": "word_problems",
+  "difficulty": "EASY",
+  "stem": "Brooke rides her bicycle each day. On Monday, she rode the length of Maple Street in 0.4 hour at a constant speed of 15 miles per hour. What is Brooke’s constant speed if she rides the length of Maple Street on Tuesday in 0.3 hour?",
+  "A": "21 miles per hour",
+  "B": "20 miles per hour",
+  "C": "11 miles per hour",
+  "D": "6 miles per hour",
+  "answer": "B",
+  "feedbackfile": "MA-2013-06-29.md"
+}

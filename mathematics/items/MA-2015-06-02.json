@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-02",
+  "domain": "variables_and_equations",
+  "difficulty": "MEDIUM",
+  "stem": "Which of the following is equivalent to the expression below? \\( x^{2} +7x-60 \\)",
+  "A": " \\( (x+12) (x-5) \\)  ",
+  "B": "\\( (x+10) (x-6) \\)",
+  "C": "\\( (x+15) (x-4) \\)",
+  "D": "\\( (x+20) (x-3) \\)",
+  "answer": "A",
+  "feedbackfile": "MA-2015-06-02.md"
+}

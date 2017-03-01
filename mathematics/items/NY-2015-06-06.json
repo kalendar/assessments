@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-06",
+  "domain": "variables_and_equations",
+  "difficulty": "MEDIUM",
+  "stem": "Which expression is equivalent to \\( 81 - 16x^{2} \\)?",
+  "A": "(9 - 8x)(9 + 8x)",
+  "B": "(9 - 8x)(9 + 2x)",
+  "C": "(9 - 4x)(9 + 4x)",
+  "D": "(9 - 4x)(9 - 4x)",
+  "answer": "C",
+  "feedbackfile": "NY-2015-06-06.md"
+}

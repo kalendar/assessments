@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-21",
+  "domain": "number_and_calculation",
+  "difficulty": "HARD",
+  "stem": "A total of 1680 ounces of pet food have to be packed in 5-pound bags. How many 5-pound bags of pet food can be packed?\n<br/><img src='NY-2015-06-21.png'>",
+  "A": "21",
+  "B": "28",
+  "C": "105",
+  "D": "336",
+  "answer": "A",
+  "feedbackfile": "NY-2015-06-21.md"
+}

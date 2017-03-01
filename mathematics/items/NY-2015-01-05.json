@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-01-05",
+  "domain": "geometry",
+  "difficulty": "EASY",
+  "stem": "A cylinder has a circular base with a radius of 3 units and a height of 7 units. What is the volume of the cylinder in cubic units? ",
+  "A": "\\( 2\\pi \\)",
+  "B": "\\( 42\\pi \\)",
+  "C": "\\( 63\\pi \\)",
+  "D": "\\( 147\\pi \\)",
+  "answer": "C",
+  "feedbackfile": "NY-2015-01-05.md"
+}

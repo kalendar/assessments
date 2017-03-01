@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-09",
+  "domain": "statistics",
+  "difficulty": "HARD",
+  "stem": "The bowling scores for 9 friends are shown in the box below. <br/><img src='MA-2014-06-09.png'><br/> The mean score is 108 and the median score is 95. Which statement best explains why the mean score is greater than the median score?",
+  "A": "The score of 95 occurs twice.",
+  "B": "The data set includes only a few scores.",
+  "C": "The minimum score is well below the other scores.",
+  "D": "The maximum score is well above the other scores.",
+  "answer": "D",
+  "feedbackfile": "MA-2014-06-09.md"
+}

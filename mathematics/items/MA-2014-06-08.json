@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-08",
+  "domain": "geometry",
+  "difficulty": "EASY",
+  "stem": "A triangle is shown on the coordinate plane below. <br/><img src='MA-2014-06-08.png'><br/> What is the area of the triangle?",
+  "A": "21 square units",
+  "B": "26 square units",
+  "C": "28 square units",
+  "D": "56 square units",
+  "answer": "C",
+  "feedbackfile": "MA-2014-06-08.md"
+}

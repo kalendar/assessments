@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-13",
+  "domain": "variables_and_equations",
+  "difficulty": "MEDIUM",
+  "stem": "Which of the following is equivalent to the expression below? <br /> \\( 25-9 x^{2} \\)",
+  "A": "\\( (5+3x) (5-3x) \\) ",
+  "B": "\\( (5-3x)  (5-3x) \\)",
+  "C": "\\( (3x+5)  (3x-5) \\)",
+  "D": "\\( (3x-5)  (3x-5) \\)",
+  "answer": "A",
+  "feedbackfile": "MA-2016-06-13.md"
+}

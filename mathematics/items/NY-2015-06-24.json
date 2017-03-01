@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-24",
+  "domain": "variables_and_equations",
+  "difficulty": "HARD",
+  "stem": "If \\( z + y = x +  xy^{2} \\), what is <i>x</i> expressed in terms of <i>y</i> and <i>z</i>?",
+  "A": " \\( \\frac{z}{y}  \\)",
+  "B": " \\( \\frac{z}{1 + y} \\)",
+  "C": " \\( \\frac{z + 1}{y} \\)",
+  "D": "\\( \\frac{z + y}{1 + y^{2}} \\)",
+  "answer": "D",
+  "feedbackfile": "NY-2015-06-24.md"
+}

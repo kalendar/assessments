@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-06-18",
+  "domain": "word_problems",
+  "difficulty": "MEDIUM",
+  "stem": "The square of a positive number is 24 more than 5 times the number. What is the value of the number?",
+  "A": "6",
+  "B": "8",
+  "C": "3",
+  "D": "4",
+  "answer": "B",
+  "feedbackfile": "NY-2015-06-18.md"
+}

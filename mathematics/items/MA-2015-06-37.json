@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-37",
+  "domain": "geometry",
+  "difficulty": "MEDIUM",
+  "stem": "The diagram below shows a trapezoid and its measurements.<br/> <img src='MA-2015-06-37.png'><br/>  The trapezoid has an area of 60 square centimeters.<br/>\nWhat is the value of x?",
+  "A": "10",
+  "B": "1",
+  "C": "16",
+  "D": "38",
+  "answer": "B",
+  "feedbackfile": "MA-2015-06-37.md"
+}

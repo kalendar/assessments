@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-37",
+  "domain": "word_problems",
+  "difficulty": "EASY",
+  "stem": "A student is knitting sweaters to give as gifts. The time it takes the student to knit each sweater is 10% less than the time it took the student to knit each previous sweater. It took the student 14 hours to knit the first sweater. Which of the following is closest to the time it will take the student to knit the third sweater?",
+  "A": "10.2 hours",
+  "B": "11.3 hours",
+  "C": "12.6 hours",
+  "D": "16.9 hours",
+  "answer": "B",
+  "feedbackfile": "MA-2014-06-37.md"
+}

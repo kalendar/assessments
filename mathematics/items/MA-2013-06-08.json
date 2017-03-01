@@ -1,0 +1,12 @@
+{
+  "source": "MA-2013-06-08",
+  "domain": "number_and_calculation",
+  "difficulty": "MEDIUM",
+  "stem": "Which of the following expressions does <b>not</b> equal 0?",
+  "A": "(6 - 2) -  | 2 - 6 | ",
+  "B": "(2 - 6) -  | 6 - 2 | ",
+  "C": "| 6 - 2 |  -  | 2 - 6 | ",
+  "D": "| 2 - 6 |  -  | 6 - 2 | ",
+  "answer": "B",
+  "feedbackfile": "MA-2013-06-08.md"
+}

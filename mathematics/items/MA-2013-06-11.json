@@ -1,0 +1,12 @@
+{
+  "source": "MA-2013-06-11",
+  "domain": "statistics",
+  "difficulty": "MEDIUM",
+  "stem": "The scatterplot below shows the relationship between the number of teachers and the number of students at each school in one school district.<br/>\n<img src='MA-2013-06-11.png'><br/>\nA new school for 1600 students will be built in the district. Based on the line of best fit for the scatterplot, which of the following is closest to the number of teachers that will work at the new school?",
+  "A": "40",
+  "B": "70",
+  "C": "90",
+  "D": "140",
+  "answer": "C",
+  "feedbackfile": "MA-2013-06-11.md"
+}

@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-37",
+  "domain": "statistics",
+  "difficulty": "MEDIUM",
+  "stem": "Members of a gym recorded the number of sit-ups they did in one minute. The results are shown in the line plot below. <br/><img src='MA-2016-06-37.png'><br/>  Which of the following histograms best represents the data?<br/>",
+  "A": "<img src='MA-2016-06-37-A.png'>",
+  "B": "<img src='MA-2016-06-37-B.png'>",
+  "C": "<img src='MA-2016-06-37-C.png'>",
+  "D": "<img src='MA-2016-06-37-D.png'>",
+  "answer": "A",
+  "feedbackfile": "MA-2016-06-37.md"
+}

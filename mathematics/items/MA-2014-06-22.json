@@ -1,0 +1,12 @@
+{
+  "source": "MA-2014-06-22",
+  "domain": "word_problems",
+  "difficulty": "MEDIUM",
+  "stem": "Hooke’s law states that the force needed to stretch a spring varies directly with the length the spring is stretched. A force of 20 newtons will stretch a spring 5 centimeters. What is the total number of centimeters that a force of 60 newtons will stretch the same spring?",
+  "A": "15",
+  "B": "20",
+  "C": "100",
+  "D": "240",
+  "answer": "A",
+  "feedbackfile": "MA-2014-06-22.md"
+}

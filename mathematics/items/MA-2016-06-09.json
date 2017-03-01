@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-09",
+  "domain": "geometry",
+  "difficulty": "HARD",
+  "stem": "The height of right circular cylinder P is twice the height of right circular cylinder Q. The radii of the cylinders are of equal length.\nWhat number times the volume of cylinder Q is equal to the volume of cylinder P?",
+  "A": "2",
+  "B": "4",
+  "C": "6",
+  "D": "8",
+  "answer": "A",
+  "feedbackfile": "MA-2016-06-09.md"
+}

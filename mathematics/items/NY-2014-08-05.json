@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-05",
+  "domain": "lines_and_functions",
+  "difficulty": "EASY",
+  "stem": "The graph below represents the parabolic path of a ball kicked by a young child. What are the vertex and the axis of symmetry for the parabola?  \n<br/><img src='NY-2014-08-05.png'>",
+  "A": "vertex: (3,8); axis of symmetry: x=3",
+  "B": "vertex: (3,8); axis of symmetry: y=3",
+  "C": "vertex: (8,3); axis of symmetry: x=3",
+  "D": "vertex: (8,3); axis of symmetry: y=3",
+  "answer": "A",
+  "feedbackfile": "NY-2014-08-05.md"
+}

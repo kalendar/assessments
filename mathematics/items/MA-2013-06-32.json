@@ -1,0 +1,12 @@
+{
+  "source": "MA-2013-06-32",
+  "domain": "geometry",
+  "difficulty": "EASY",
+  "stem": "The diagram below shows \\( \\triangle WXY \\). Point R lies on \\( \\overline{WY} \\).<br/>\n<img src='MA-2013-06-32.png'><br/>\nBased on the angle measures in the diagram, what is \\( m \\angle WXR \\)?",
+  "A": "\\( 52^{ \\circ } \\)",
+  "B": "\\( 83^{ \\circ } \\)",
+  "C": "\\( 97^{ \\circ } \\)",
+  "D": "\\( 131^{ \\circ }  \\)",
+  "answer": "A",
+  "feedbackfile": "MA-2013-06-32.md"
+}

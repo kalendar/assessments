@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-10",
+  "domain": "word_problems",
+  "difficulty": "EASY",
+  "stem": "If Rosa's age is represented by R, which inequality represnts the statement \\Rosa is at most 29 years old\\? ",
+  "A": "\\( R < 29 \\)",
+  "B": "\\( R > 29 \\)",
+  "C": "\\( R \\leq 29 \\)",
+  "D": "\\( R \\geq  29 \\)",
+  "answer": "C",
+  "feedbackfile": "NY-2014-08-10.md"
+}

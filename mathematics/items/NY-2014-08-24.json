@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-24",
+  "domain": "word_problems",
+  "difficulty": "MEDIUM",
+  "stem": "Byron has 72 coins in his piggy bank. The piggy bank contains only dimes and quarters. If he has $14.70 in his piggy bank, which equation can be used to determine <i>q</i>, the number of quarters he has?",
+  "A": "\\( 14.70 + 0.25q = 72 \\)",
+  "B": "\\( 0.10(q -72) + 0.25q = 14.70 \\)",
+  "C": "\\( 0.10(72 - q) + 0.25q = 14.70 \\)",
+  "D": "\\( 0.10q + 0.25(72 - q) = 14.70 \\)",
+  "answer": "C",
+  "feedbackfile": "NY-2014-08-24.md"
+}

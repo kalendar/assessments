@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-28",
+  "domain": "word_problems",
+  "difficulty": "HARD",
+  "stem": "Nancy, Bryan, and Jamie combined their money to purchase a laptop. Together they paid a total of $490 for the laptop, including tax. Nancy paid $50 more than Bryan paid. Bryan paid twice as much as Jamie paid. How much did Nancy pay?",
+  "A": "$108",
+  "B": "$176",
+  "C": "$226",
+  "D": "$295",
+  "answer": "C",
+  "feedbackfile": "MA-2016-06-28.md"
+}

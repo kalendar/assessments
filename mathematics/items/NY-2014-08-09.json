@@ -1,0 +1,12 @@
+{
+  "source": "NY-2014-08-09",
+  "domain": "variables_and_equations",
+  "difficulty": "EASY",
+  "stem": "The sum of \\( \\frac{3x-4}{x+3} \\) and \\( \\frac{2x-5}{x+3} \\) is ",
+  "A": " \\( \\frac{5x-9}{x+3} \\)",
+  "B": " \\( \\frac{5x+1}{2x+6} \\)",
+  "C": " \\( \\frac{5x-9}{x+6} \\)",
+  "D": " \\( \\frac{5x+1}{x+3} \\)",
+  "answer": "A",
+  "feedbackfile": "NY-2014-08-09.md"
+}

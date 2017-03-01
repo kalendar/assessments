@@ -1,0 +1,12 @@
+{
+  "source": "MA-2015-06-24",
+  "domain": "statistics",
+  "difficulty": "EASY",
+  "stem": "The line graph below shows the change in the population of the state of Ohio, in twenty-year intervals, from 1900 to 2000. <br/><img src='MA-2015-06-24.png'><br/> During which interval on the graph did the population of Ohio increase at the fastest rate?",
+  "A": "1900 to 1920",
+  "B": "1920 to 1940",
+  "C": "1940 to 1960",
+  "D": "1980 to 2000",
+  "answer": "C",
+  "feedbackfile": "MA-2015-06-24.md"
+}

@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-32",
+  "domain": "number_and_calculation",
+  "difficulty": "MEDIUM",
+  "stem": "Jake measured the dimensions of a rectangular picture frame to the nearest inch. He found that the height was 16 inches and the width was 10 inches.<br/>\nBased on Jake’s measurements, which of the following statements could be true?",
+  "A": "The actual width of the picture frame is 9.4 inches.",
+  "B": "The actual height of the picture frame is 16.5 inches.",
+  "C": "The actual perimeter of the picture frame is 50 inches.",
+  "D": "The actual area of the picture frame is 175 square inches.",
+  "answer": "C",
+  "feedbackfile": "MA-2016-06-32.md"
+}

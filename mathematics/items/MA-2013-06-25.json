@@ -1,0 +1,12 @@
+{
+  "source": "MA-2013-06-25",
+  "domain": "variables_and_equations",
+  "difficulty": "MEDIUM",
+  "stem": "An inequality is shown below.<br/>\n$$ -2 (<) 2x (+) 6  (\\leq )12 $$\nWhich of the following graphs represents the solution to the inequality?",
+  "A": "<img src='MA-2013-06-25-A.png'>",
+  "B": "<img src='MA-2013-06-25-B.png'>",
+  "C": "<img src='MA-2013-06-25-C.png'>",
+  "D": "<img src='MA-2013-06-25-D.png'>",
+  "answer": "B",
+  "feedbackfile": "MA-2013-06-25.md"
+}

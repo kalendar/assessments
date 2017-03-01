@@ -1,0 +1,12 @@
+{
+  "source": "NY-2015-01-19",
+  "domain": "word_problems",
+  "difficulty": "HARD",
+  "stem": "The equations 6<i>x</i> + 5<i>y</i> = 300 and 3<i>x</i> +    7<i>y</i> = 285 represent the money collected from selling gift baskets in a school fundraising event. If <i>x</i> represents the cost for each snack gift basket and <i>y</i> represents the cost for each chocolate gift basket, what is the cost for each chocolate gift basket? ",
+  "A": "$20",
+  "B": "$25",
+  "C": "$30",
+  "D": "$54",
+  "answer": "C",
+  "feedbackfile": "NY-2015-01-19.md"
+}

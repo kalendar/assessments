@@ -1,0 +1,12 @@
+{
+  "source": "MA-2016-06-23",
+  "domain": "word_problems",
+  "difficulty": "EASY",
+  "stem": "Wyatt owns a food truck. He offers a selection of 8 types of sandwiches and 4 types of tacos. He will increase his selection of sandwiches by 1 per month. He will increase his selection of tacos by 2 per month. In how many months will Wyatt offer an equal number of sandwich and taco selections?",
+  "A": "2 months",
+  "B": "4 months",
+  "C": "8 months",
+  "D": "12 months",
+  "answer": "B",
+  "feedbackfile": "MA-2016-06-23.md"
+}
