@@ -1,6 +1,7 @@
-You are someone who **occasionally** limits disruptions or distractions when completing your schoolwork. Increasing the extent to which you create a quiet, optimal place to do your work is a good habit to get into.
 
-To improve your skills in creating an optimal, comfortable place to do your schoolwork:
+You are someone who **occasionally** limits disruptions or distractions when completing your schoolwork. It is a very good idea to get into the habit of creating a quiet, comfortablel place to do your work.
+
+Please read some environment management strategies below AND then click on the **More Info** button to dig even deeper.
 
 1.	Set rules for others in your house about "do not disturb" times
 2.	Turn off your cell phone and other technology
