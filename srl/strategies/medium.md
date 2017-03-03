@@ -1,9 +1,10 @@
 ## Strategies
 
-**Strategies** involves the procedures we use to learn, remember information, and peform well in school. College students will oftent use a variety of strategies to help they learn. Students use strategies to **seek help from others**, to **manage and organize their time**, to enhance their attention by **elimiting distractions**, and to **learn and remember information in a class**. The SRL survey that you recently completed addressed each of these four types of strategies.   
+Being successful in college often involves using the right **Strategies** at the right time. As students progress through college, they will often develop a toolbox of strategies to choose from when needed. The purpose of the feedback in this section is to help you fill up that toolbox.
 
-Your overall score for **Strategy Use** indicates that you **occasionally use strategies** in school. Your profile of strategy scores reflects one of two thigns. First, it may indicate that your scores across all four categories of strategies was consistent and in the emerging level (not frequent but also not infrequent). On the other hand, your profile may indicate that you frequently use certain types of strategies but rarely use other types. Below, take a look at the brief description of all four strategy categories. Click on those categories that seem to be lower than others or select the strategies that are of particular interest to you. By clicking on the different strategy categories, you can learn about powerful methods to enahnce your skills in managing and improving your learning. 
+Your overall score for **Strategy Use** indicates that you **occasionally** use one some of the strategies listed below. This is a great start, but we believe you would benfit from doing two things: (1) read the brief explanation below for each of the four strategies, and (2) Click on the **More Info** tab for any of the strategies that you believe you need to improve most quickly.
 
-**Strategies** are the procedures we use to learn, remember, and perform well in school. Many students in college need to use different types of strategies to help them succeed. On the SRL survey, we assessed how freuqenlty you use four types of strategies: (1) **seeking help from others**, **(2) managing and organizing your time**, **eliminating distractions in your enviornment**, and **learning and remembering new information**. 
 
-Your overall score for **Strategy Use** indicates that you **do not frequently use these strategies**. Perhaps you never needed to learn about these procedures or perhaps you prefer to use other types of strategies. Because the four strategies that wee assessed are often very helpful to college studets, we encourage you to read the brief explanation below for each of them. If any of these strategies are particularly interesting or appealing, click on the **More Info** tab.
+
+
+
