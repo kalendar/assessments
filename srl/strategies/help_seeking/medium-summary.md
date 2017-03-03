@@ -1,4 +1,4 @@
-The results from the survey indicate that you **occasionally** seek out assistance or help from others when needed. Because there are many things that can be confusing or difficult in college, you may benefit from becoming more strategic in seeking out the help that you need.  
+The results from the survey indicate that you **occasionally** seek out assistance or help from others when needed. Because there are many things that can be confusing or difficult in college, you may benefit from becoming more strategic in getting the help that you need.  
 
 Read examples of help-seeking strategies below or click on the **More Info** button learn even more. 
 
