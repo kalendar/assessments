@@ -5,6 +5,6 @@ Please read about the environment management strategies below.
 
 1.	Set rules for others in your house about "do not disturb" times
 2.	Turn off your cell phone and other technology
-3.	Identify 2-3 comfortable and quiet places to study so that you have options
+3.	Identify 2-3 comfortable and quiet places so that you have multiple options to do your work.
 
 
