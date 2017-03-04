@@ -1,7 +1,9 @@
-You are someone who **occasionally** uses strategies to learn and remember information. This is an important first step but it appears that you may benefit from learning new strategies to make your study sessions more productive and effective.
 
-To improve you skills in learning and understanding information:
+Your surrvey results show that you **occasionally ** uses to learn and remember information in school. Because college often requires students to remember a lot of information, it is important to learn ways to help organize and synthesize information in highly effective ways.
 
-1.	Have several short study sessions rather than one long study session
-2.	Use practice quizzes or tests to check your understand 
-3.	Elaborate on information by using concept maps or making summaries
+To enhance your skills at learning concepts and recalling information, read the strategies below. Click on the **More Info** button to learn even more techniques. 
+
+1.	Have several short study sessions rather than one long study session.
+2.	Use practice quizzes or tests to check your understanding of course material. 
+3.	Elaborate on information by using concept maps or making summaries.
+
