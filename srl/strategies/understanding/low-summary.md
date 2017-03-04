@@ -1,6 +1,6 @@
-You are someone who **infrequently** uses specific strategies to learn and remember information. One of the most important things that all college students need to do is to learn different ways to enhance their learning and recall information for tests or other assignments.
+Your results show that you **do not frequently** uses many strategies to learn and remember information from your courses. Because college often requires students to remember a lot of information, it is important to learn ways to help organize and synthesize information in highly effective ways.
 
-Some study tactics to improve your learning include the following:
+To enhance your skills at learning concepts and recalling information, read the strategies below. Click on the **More Info** button to learn even more. 
 
 1.	Have several short study sessions rather than one long study session
 2.	Use practice quizzes or tests to check your understand 
