@@ -1,5 +1,5 @@
 
-The results from the survey indicate that you **frequently** limit disruptions or distractions when completing your schoolwork. This a very important skill so that you stay focused and attentive when doing your work. 
+The results from the survey indicate that you **frequently** limit disruptions or distractions when completing your schoolwork. This a very important skill to help you stay focused and attentive when doing your work. 
 
 Please read the strategies below for additional ideas about how to manage your study environment.
 
