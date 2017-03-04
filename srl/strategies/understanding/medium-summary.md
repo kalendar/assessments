@@ -3,7 +3,7 @@ Your surrvey results show that you **occasionally ** uses to learn and remember 
 
 To enhance your skills at learning concepts and recalling information, read the strategies below. Click on the **More Info** button to learn even more techniques. 
 
-1.	Have several short study sessions rather than one long study session.
+1.	Study course material over several short study sessions rather than one long session.
 2.	Use practice quizzes or tests to check your understanding of course material. 
 3.	Elaborate on information by using concept maps or making summaries.
 
