@@ -1,5 +1,5 @@
 
-The results from the survey indicate that you **occasionally** limits disruptions or distractions when completing your schoolwork. Getting into the habit of creating a quiet, comfortable place to do your work is a very important thing to do.
+The results from the survey indicate that you **occasionally** limits disruptions or distractions when completing your schoolwork. Getting into the habit of creating a quiet, comfortable place to do your work can help keep you focused and attentive.
 
 Please read the environment management strategies below AND then click on the **More Info** button to dig even deeper.
 
