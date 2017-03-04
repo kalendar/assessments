@@ -1,10 +1,11 @@
 
-You are someone who **frequently** limits disruptions or distractions when completing your schoolwork. IT is great to see that you have developed the habit of creating a quiet, comfortable place to do your work.
+The results from the survey indicate that you **frequently** limit disruptions or distractions when completing your schoolwork. This a very important skill so that you stay focused and attentive when doing your work. 
 
-Please read about the environment management strategies below.
+Please read the strategies below for additional ideas about how to manage your study environment.
 
 1.	Set rules for others in your house about "do not disturb" times
 2.	Turn off your cell phone and other technology
-3.	Identify 2-3 comfortable and quiet places so that you have multiple options to do your work.
+3.	Identify 2-3 comfortable and quiet places so that you have multiple options to do your work
+
 
 
