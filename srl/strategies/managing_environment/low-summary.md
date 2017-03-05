@@ -1,4 +1,4 @@
-Your responses to the survey indicate that you **do not frequently** try think about how to limit enviornmental disruptions or distractions when completing your schoolwork. This may result in you losing focus and not being able to get all of your work done on time. 
+Your responses to the survey indicate that you **do not frequently** think about how to limit enviornmental disruptions or distractions when completing your schoolwork. This may result in you losing focus and not being able to get all of your work done on time. 
 
 Please read the environment management strategies below AND click on the **More Info** button to dig even deeper. 
 
