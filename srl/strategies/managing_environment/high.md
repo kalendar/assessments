@@ -6,6 +6,6 @@ The SRL survey showed that you **frequently** use strategies to minimize disrupt
 
 If you have an interest in learning more, please click on any of the **Learn**, **See**, or **Do** buttons below.
 
-1. Click on the **Learn** button to read more about managing environment why it is important.
+1. Click on the **Learn** button to read more about managing environment and why it is important to do so.
 2. Click on the **See** button to read more in-depth cases. 
-3. Click on the **Do** button to learn about strategies to manage your environment to eliminate distractions.
+3. Click on the **Do** button to learn about strategies to help you reduce distractions and disruptions from your life.
