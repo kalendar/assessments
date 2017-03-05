@@ -6,8 +6,8 @@ The SRL survey showed that you **frequently** use strategies to manage your time
 
 Just remember that using time management strategies is very important to your success. People who use time management strategies often work more efficiently, feel less stressed, and experience a greater level of confidence in school.
 
-Some specific time management tactics include: 
+You frequently manage your time, but you can learn more by clicking any of the **Learn**, **See**, or **Do** buttons below.
 
-1. Setting aside regular times to study multiple days in advanced of a due date.
-2. Prioritizing tasks based on the most important things you need to study, such as studying the most difficult things first. 
-3. Using a calendar to remind yourself of upcoming assignments and understand how other activities could conflict with your time to study.
+1. Click on the **Learn** button to read more about what help-seeking is and why it is important.
+2. Click on the **See** button to read in-depth cases about managing environment. 
+3. Click on the **Do** button to learn about strategies to help you get the support you need.
