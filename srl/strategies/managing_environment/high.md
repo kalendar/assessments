@@ -4,7 +4,7 @@ In addition to using strategies to manage your time, seek out help from others, 
 
 The SRL survey showed that you **frequently** use strategies to minimize disruptions and distractions when studying or competing other types of schoolwork. Thus, you often think about different ways to concentrate or to make sure that your family or friends do not distract you from learning. A primary reason why many students struggle in school is because they allow themselves to become distracted by TV, their cell phone, friends, etc. It is awesome that you don't frequently let these things happen to you. Keep up the good work! 
 
-If you have an interest in learning more, please click on any of the **Learn**, **See**, or **Do** buttons below.
+Although you appear to manage distractions well, you can learn more by clicking any of the **Learn**, **See**, or **Do** buttons below.
 
 1. Click on the **Learn** button to read more about managing environment and why it is important to do so.
 2. Click on the **See** button to read in-depth cases about managing environment.
