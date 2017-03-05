@@ -6,7 +6,7 @@ Based on the SRL survey, you **frequently** reach out for help when you need it.
 
 Although your help-seeking seems strong, you can learn more by click on any of the **Learn**, **See**, or **Do** buttons below.
 
-1. Click on the **Learn** button to read more about what help-seeking is and why it is important.
+1. Click on the **Learn** button to read more about help-seeking and why it is important.
 2. Click on the **See** button to read in-depth cases about managing environment. 
 3. Click on the **Do** button to learn about strategies to help you get the support you need.
 
