@@ -8,10 +8,10 @@ Read the scenario below to more clearly see why getting the help you need in col
 
 > Erica, a 29 year old who works as an elementary school aide, recently enrolled in an online college English course. Erica considers herself to be a smart, hardworking professional and believes she will succeed in the course without much difficulty. During the second lesson, Erica began having trouble comprehending some course material. Instead of asking for clarification, Erica tried to figure out the confusing content on her own. She thought, "I am smart enough to make it this far, I should be able to do this. Plus, talking to teachers makes me nervous!" Erica continued to push her way through each lesson, ignoring content she did not understand. As the course continued, Erica began to feel overwhelmed and frustrated, and she was no longer confident in her ability to do well in the course. Of greatest concern was that because Erica now avoided certain topics, she had difficulty understanding more advanced concepts in class, which caused her to fall further behind in her classwork.
 
-Erica's attitude of "I don't need to ask for help" is fairly common among college students. Some of the frustration and anxiety that she experienced could have been avoided if she learned how to effectively seek out help.Just remember that seeking out the help you need  is NOT an admission that you cannot learn well or are dumb. Be an advocate for yourself and seek out the help you need!
+Erica's attitude of "I don't need to ask for help" is fairly common among college students. Some of the frustration and anxiety that she experienced could have been avoided if she was able to effectively seek out help. Just remember that getting the help from others is NOT an admission that you cannot learn well or are dumb. Be an advocate for yourself and seek out the help you need!
 
-Example of strategies that can help you get the assistance you need include: 
+To guide you in becoming more proficient in seeking out help that you need, we offer you three ideas. Use as many of them as you would like.
 
-1. Identify and write down the specific things that you give you trouble.
-2. At the start of a course, ask your teacher and advisor about the best way to contact them (e.g., office hours, email, course website, phone call)
-3. Advocate for yourself - -be persistent if your first attempt to get help does not get a response.
+1. Click on the **Learn** button to read more about what help-seeking is and why it is important
+2. Click on the **See** button to read more in-depth cases 
+3. Click on the **Do** button to learn about strategies to help you get the support you need.
