@@ -10,7 +10,7 @@ Read the scenario below to more clearly see why getting the help you need in col
 
 Erica's attitude of "I don't need to ask for help" is fairly common among college students. Some of the frustration and anxiety that she experienced could have been avoided if she was able to effectively seek out help. Just remember that getting the help from others is NOT an admission that you cannot learn well or are dumb. Be an advocate for yourself and seek out the help you need!
 
-To guide you in becoming more proficient in help-seeking, we offer you three ideas. Use as many of them as you would like.
+To guide you in becoming more proficient in help-seeking, we give you three options below: **Learn**, **See**, or **Do**. Click on as many of these buttons as you want. 
 
 1. Click on the **Learn** button to read more about what help-seeking is and why it is important
 2. Click on the **See** button to read more in-depth cases 
