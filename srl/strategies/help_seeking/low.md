@@ -1,6 +1,6 @@
 ## Strategies for Help Seeking
 
-Asking for help when you get stuck or do not understand something is an important survival skill in college. The reality is that some college classes and topics can be very difficult. Further, when taking online classes, there may not always be a teacher monitoring your progress and checking in with you about your work. 
+Asking for help when you get stuck or do not understand something is an important survival skill in college. The reality is that some college classes and topics can be very difficult. Further, when taking online classes, there may not always be a teacher monitoring your progress and checking in with you about your work. A key to success is seeking out and getting assistance to help you learn.
 
 Based on the SRL survey, it appears that you **rarely** reach out for help when needed. This is understandable because seeking out help is not an easy thing to do. Students can feel intimidated or anxious. They also may not now what to say or how to ask. However, learning how to get the assistance and help you need is critical to improving your learning, helping you to complete assignments correctly, and feeling more confident in yourself.  
 
