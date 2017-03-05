@@ -12,6 +12,6 @@ Erica's attitude of "I don't need to ask for help" is fairly common among colleg
 
 To guide you in becoming more proficient in help-seeking, we give you three options below: **Learn**, **See**, or **Do**. Click on as many of these buttons as you want. 
 
-1. Click on the **Learn** button to read more about what help-seeking is and why it is important
-2. Click on the **See** button to read more in-depth cases 
+1. Click on the **Learn** button to read more about what help-seeking is and why it is important.
+2. Click on the **See** button to read in-depth cases about help-seeking.  
 3. Click on the **Do** button to learn about strategies to help you get the support you need.
