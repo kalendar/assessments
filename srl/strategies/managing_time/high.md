@@ -6,7 +6,7 @@ The SRL survey showed that you **frequently** use strategies to manage your time
 
 Just remember that using time management strategies is very important to your success. People who use time management strategies often work more efficiently, feel less stressed, and experience a greater level of confidence in school.
 
-You frequently manage your time, but you can learn more by clicking any of the **Learn**, **See**, or **Do** buttons below.
+Although you frequently manage your time, you can learn more by clicking any of the **Learn**, **See**, or **Do** buttons below.
 
 1. Click on the **Learn** button to read more about time management why it is important.
 2. Click on the **See** button to read in-depth cases about managing your time. 
