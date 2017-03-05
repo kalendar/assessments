@@ -1,5 +1,5 @@
 
-Your responses to the survey indicated that you **frequently** try to limit distractions and disurptions when completing your schoolwork. This a very important skill to help you stay focused and attentive when doing your work. 
+Your responses to the survey indicated that you **frequently** try to limit enviornmental distractions and disurptions when completing your schoolwork. This a very important skill to help you stay focused and attentive when doing your work. 
 
 Please read the strategies below for additional ideas about how to manage your study environment.
 
