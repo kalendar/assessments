@@ -8,6 +8,6 @@ Just remember that using time management strategies is very important to your su
 
 You frequently manage your time, but you can learn more by clicking any of the **Learn**, **See**, or **Do** buttons below.
 
-1. Click on the **Learn** button to read more about what help-seeking is and why it is important.
-2. Click on the **See** button to read in-depth cases about managing environment. 
-3. Click on the **Do** button to learn about strategies to help you get the support you need.
+1. Click on the **Learn** button to read more about time management why it is important.
+2. Click on the **See** button to read in-depth cases about managing your time. 
+3. Click on the **Do** button to learn about strategies to help you schedule and organize your time.
