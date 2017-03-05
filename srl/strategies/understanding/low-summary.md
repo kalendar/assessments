@@ -1,4 +1,4 @@
-Your survey results show that you **do not frequently** uses different strategies to learn and remember information. Because college often requires students to remember a lot of information, it is important to learn ways to help organize and synthesize information in effective ways.
+Your survey results show that you **do not frequently** use many types of strategies to learn and remember information. In college, students are often asked to process and leearn a lot of information in many course. Thus, it is important keep learning new ways to help organize and synthesize information in effective ways.
 
 To enhance your toolbox of learning strateiges, read the strategies below AND then click on **More Info** button to learn even more.
 
