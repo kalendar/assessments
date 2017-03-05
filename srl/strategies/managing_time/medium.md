@@ -10,7 +10,7 @@ Read the scenario below to get a better feel for how insufficient time managemen
 
 Sam did not realize that he could have avoided the feelings of dread and chaotic night before the test if he spaced out his studying and set specific days and time to devote to this studies. He could have also used a calendar as a daily reminber about when and what to study.   
 
-We think that you would benefit from learning more aobut time management. Click on any of the **Learn**, **See**, or **Do** buttons that are of interest to you. 
+We think that you would benefit from learning more about time management. Click on any of the **Learn**, **See**, or **Do** buttons that are of interest to you. 
 
 1. Click on the **Learn** button to read more about time management and why it is important.
 2. Click on the **See** button to read in-depth cases about managing your time. 
