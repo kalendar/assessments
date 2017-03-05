@@ -10,11 +10,11 @@ Read the scenario below to more clearly see why getting the help you need in col
 
 Erica's attitude of "I don't need to ask for help" is fairly common among college students. Some of the frustration and anxiety that she experienced could have been avoided if she learned how to effectively seek out help.Just remember that seeking out the help you need  is NOT an admission that you cannot learn well or are dumb. Be an advocate for yourself and keep striving to seek out the help you need!.
 
-Example of strategies that can help you get the assistance you need include: 
+To help guide in becoming more proficient in seeking out help if you need it, you have three options:
 
-1. Identify and write down the specific things that you give you trouble.
-2. At the start of a course, ask your teacher and advisor about the best way to contact them (e.g., office hours, email, course website, phone call)
-3. Advocate for yourself - be persistent if your first attempt to get help does not get a response.
+1. Click on the **Learn** button to read more about what help-seeking is and why it is important
+2. Click on the **See** button to read more in-depth cases 
+3. Click on the **Do** button to learn about strategies to help you get the support you need.
 
 
 
