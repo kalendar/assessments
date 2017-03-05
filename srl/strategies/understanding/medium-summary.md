@@ -1,5 +1,5 @@
 
-Your surrvey results show that you **occasionally** use different types of strategies to remember information in school. Because students need to process and recall a lot of information in college, it is important that you keep trying to learn new ways on how to organize and synthesize course-related materials.
+Your surrvey results show that you **occasionally** use different types of strategies to learn and remember course content. Because students are expected to process a lot of information in college , it is important that you keep learning new ways to effectivley organize, synthesize, and recall course-related information.
 
 To enhance your toolbox of learning strateiges, read the strategies below AND then click on **More Info** button to learn even more.
 
