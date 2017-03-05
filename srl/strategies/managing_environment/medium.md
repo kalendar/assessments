@@ -12,6 +12,6 @@ A key problem was that Gloria did not know how to take control of the situation.
 
 To guide you in becoming more proficient in managing environment, please select one or more of the three options below: **Learn**, **See**, or **Do**. Click on as many of these buttons as you want. 
 
-1. Click on the **Learn** button to read more about what help-seeking is and why it is important
-2. Click on the **See** button to read more in-depth cases 
-3. Click on the **Do** button to learn about strategies to help you get the support you need.
+1. Click on the **Learn** button to read more about managing environment and why it is important to do so.
+2. Click on the **See** button to read more in-depth cases. 
+3. Click on the **Do** button to learn about strategies to help you reduce distractions and disruptions from your life.
