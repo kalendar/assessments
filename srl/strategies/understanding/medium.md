@@ -12,9 +12,9 @@ Like most students, Steven studied for tests in a fairly narrow way. He tended t
 
 All students can benefit from learning new ways to learn. Click on any of the **Learn**, **See**, or **Do** to help develop your reperotire of learning strategies. 
 
-1. Click on the **Learn** button to read more about time management and why it is important.
-2. Click on the **See** button to read in-depth cases about managing your time. 
-3. Click on the **Do** button to learn about strategies to help you schedule and organize your time.
+1. Click on the **Learn** button to read more about learning strategies and why they are important.
+2. Click on the **See** button to read in-depth cases about learning strategies. 
+3. Click on the **Do** button to learn about strategies to help you learn, retain, and recall information.
 
 
 
