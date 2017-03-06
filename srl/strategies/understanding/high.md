@@ -6,6 +6,6 @@ The SRL survey showed that you **frequently** use different types of strategies 
 
 Although you seem to have a full toolbox of study strategies, you may want to learn more. Click on the **Learn**, **See**, or **Do** buttons below to deepen your knowledge of these strategies.
 
-1. Click on the **Learn** button to read more about learning strategies why they are important.
+1. Click on the **Learn** button to read more about learning strategies and why they are important.
 2. Click on the **See** button to read in-depth cases about learning strategies. 
 3. Click on the **Do** button to learn about strategies to help you learn, retain, and recall information.
