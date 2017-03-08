@@ -2,7 +2,7 @@
 
 **Time management** is a key to student success in college. A lot of demands and expectations are placed on students. Thus, we know that you all are very busy people! To keep things manageable and to prevent yourself from becoming overwhelmed, it is important that you use effective time management strategies. 
 
-The SRL survey showed that you **sometimes** use strategies to manage your time. It is good that you occasionally use some of these strategies, like setting aside regular times for schoolwork, using calendars to mark down due dates for assignments, or keeping track of how long assignments take to complete.
+The SRL survey showed that you **sometimes** use strategies to manage your time (see your responses below). It is good that you occasionally use some of these strategies, like setting aside regular times for schoolwork, using calendars to mark down due dates for assignments, or keeping track of how long assignments take to complete.
 
 Read the scenario below to see how insufficient time management tactics can adversely impact students in college.
 
@@ -12,8 +12,4 @@ Sam did not realize that he could have avoided the feelings of dread and the cha
 
 We think that you would benefit from learning more about time management. Click on any of the **Learn**, **See**, or **Do** buttons that are of interest to you. 
 
-1. Click on the **Learn** button to read more about time management and why it is important.
-2. Click on the **See** button to read in-depth cases about managing your time. 
-3. Click on the **Do** button to learn about strategies to help you schedule and organize your time.
-  
-
+## Your Survey Responses

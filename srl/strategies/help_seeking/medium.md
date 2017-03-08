@@ -2,7 +2,7 @@
 
 Asking for help when you get stuck or do not understand something is an important survival skill in college. The reality is that some classes and topics in college can be very difficult. Further, when taking online classes, there may not always be a teacher monitoring your progress and checking in with you about your work. A key to success is seeking out and getting assistance to help you learn.
 
-Based on the SRL survey, it appears that you **sometimes** reach out for help when needed. You may ask your teacher questions about the details of upcoming assignments or about a topic that confuses you. Doing these things is so important because it can improve your learning, help you to complete assignments correctly, and make you feel more confident about school. 
+Based on the SRL survey, it appears that you **sometimes** reach out for help when needed (see your responses below). You may ask your teacher questions about the details of upcoming assignments or about a topic that confuses you. Doing these things is so important because it can improve your learning, help you to complete assignments correctly, and make you feel more confident about school. 
 
 Read the scenario below to more clearly see why getting the help you need in college is an important thing to do.
 
@@ -10,11 +10,4 @@ Read the scenario below to more clearly see why getting the help you need in col
 
 Erica's attitude of "I don't need to ask for help" is fairly common among college students. Some of the frustration and anxiety that she experienced could have been avoided if she was able to effectively seek out help. Just remember that getting the help from others is NOT an admission that you cannot learn well or are dumb. Be an advocate for yourself and seek out the help you need!
 
-To guide you in becoming more proficient in help-seeking, we offer you three ideas. Use as many of them as you would like.
-
-1. Click on the **Learn** button to read more about help-seeking and why it is important.
-2. Click on the **See** button to read in-depth cases about managing environment.
-3. Click on the **Do** button to learn about strategies to help you get the support you need.
-
-
-
+## Your Survey Responses

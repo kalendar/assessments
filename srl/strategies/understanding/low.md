@@ -2,7 +2,7 @@
 
 One of the most challenging things students have to do is **learn and remember information** presented in their courses. Students who perform well in college tend to use a vareity of different strategies to do this very thing. Some students might re-write their notes, write summaries of key points from a lesson, or use a conceptual map to organize information.
 
-Your responese to the SRL survey showed that you **do not typically** use strategies to help you learn and remember information. You may often  get ‘stuck' when studying and feel that you struggle to remember things for tests. We believe that you can benefit from learning new ways to learn and recall important information in your courses. You should also realize that **all** college students have the potential to learn these types of strategies -- it just comes down to finding out what they are and how to use them. 
+Your responese to the SRL survey showed that you **do not typically** use strategies to help you learn and remember information (see your responses below). You may often  get ‘stuck' when studying and feel that you struggle to remember things for tests. We believe that you can benefit from learning new ways to learn and recall important information in your courses. You should also realize that **all** college students have the potential to learn these types of strategies -- it just comes down to finding out what they are and how to use them. 
 
 Read the scenario below to learn about how using different strategies can help you more easily understand and remember information.
 
@@ -12,6 +12,4 @@ Like most students, Steven studied for tests in a fairly narrow way. He tended t
 
 All students can benefit from learning new ways to learn. Click on any of the **Learn**, **See**, or **Do** buttons to help develop your reperotire of learning strategies. 
 
-1. Click on the **Learn** button to read more about learning strategies and why they are important.
-2. Click on the **See** button to read in-depth cases about learning strategies. 
-3. Click on the **Do** button to learn about strategies to help you learn, retain, and recall information.
+## Your Survey Responses
