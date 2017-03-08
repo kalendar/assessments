@@ -26,12 +26,19 @@ domains <- c(ID = 'Ideas',
 items <- read_excel('reading/ReadingItems.xlsx', sheet = 1)
 items <- as.data.frame(items)
 
+items$Domain <- as.character(factor(items$DomainID,
+									levels = names(domains),
+									labels = unname(domains)))
+table(items$Domain, useNA='ifany')
+
+
+
 feedback <- parseMarkdown('reading')
 
 passages <- character()
-files <- list.files('reading/Passages/', pattern = "*.txt")
+files <- list.files('reading/passages/', pattern = "*.txt")
 for(i in files) {
-	tmp <- scan(paste0('reading/Passages/', i),
+	tmp <- scan(paste0('reading/passages/', i),
 				sep = '\n', what = character(), blank.lines.skip = FALSE, quiet = TRUE)
 	passages <- c(passages, paste0(tmp, collapse = '\n'))
 }
@@ -39,10 +46,6 @@ names(passages) <- files
 
 table(items$PASSAGE %in% names(passages)) # Make sure all items have a passage
 
-items$Domain <- as.character(factor(items$DomainID,
-									levels = names(domains),
-									labels = unname(domains)))
-table(items$Domain, useNA='ifany')
 
 ##### Build JSON Document
 
@@ -181,6 +184,7 @@ for(i in itemGroups) {
 
 json.out <- jsonlite::toJSON(json, pretty = TRUE, auto_unbox = TRUE)
 cat(json.out, file = paste0('build/Reading.json'))
-cat(json.out, file = paste0('build/archive/Reading-', format(Sys.time(), format='%Y-%m-%d-%H-%M'), '.json'))
+cat(json.out, file = paste0('build/archive/Reading-', 
+							format(Sys.time(), format='%Y-%m-%d-%H-%M'), '.json'))
 
 
