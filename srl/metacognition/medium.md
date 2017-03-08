@@ -1,3 +1,5 @@
 ## Metacognition
 
-Your metacognition score is in the medium range, which suggests that you have some of the metacognitive skills needed to complete college-level work and enhance learning. We encourage you to sharpen your thinking by clicking on the Do button below and experimenting with the metacognitive strategies you find there. 
+Your metacognition score is in the medium range, which suggests that you have some of the metacognitive skills needed to complete college-level work and enhance learning. The more you are able to take control of your thinking, you will be better able to understand things more deeply, remember them longer, and do better in school. As your metacognition improves, you will find that you can **reflect** on the appropriateness of learning strategies and **adjust** as needed. 
+
+Click on the **Planning**, **Monitoring**, and **Evaluation** buttons to learn more.
