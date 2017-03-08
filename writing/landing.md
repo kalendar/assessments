@@ -1,4 +1,4 @@
-![Writing](pexels-photo-40120.jpeg)
+<p><img src="https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/writing/pexels-photo-40120.jpeg"  class="pull-right" style="padding:20px 0 20px 20px; max-width:400px;"></p>
 
 Welcome to the writing assessment! The purposes of this assessment are to:
 
