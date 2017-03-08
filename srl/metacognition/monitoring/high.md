@@ -1,7 +1,7 @@
 ## Monitoring
 
-Monitoring is one aspect of metacognition. Being a **frequent** monitor is very positive because it means that you often keep track of how well you are learning. You seem to be tuned in to when something is challenging for you and or when are not performing at a desired level. Being aware of your thinking is important because it helps you notice when you need to change or adjust to improve your learning.
+Monitoring is one aspect of metacognition. Your responses to the SRL survey indicated that you **frequently** monitor while you learn. Thus, you seem to be aware of when something is challenging for you and or when are not performing at a desired level. Being aware of your thinking is important because it can let you know when and how you might need to adjust to improve your learning.
 
-Keep up the good work! To continue being a **frequent self-monitor** when performing schoolwork, click on the Do button, below, to find new self-monitoring tactics. 
+Keep up the good work! To stay on this path of **frequently monitoring** yourself, click on the **Learn**, **See**, and/or **Do** buttons.
 
 ## Your Survey Responses
