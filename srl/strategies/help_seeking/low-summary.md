@@ -3,7 +3,7 @@ The results from the survey indicate that you **do not frequently** seek out ass
 Read examples of help-seeking strategies below or click on the **More Info** button to learn even more. 
 
 1.	Identify and write down the specific things that give you trouble.
-2.	At the start of a course, ask your teacher and advisor about the best way to contact them (e.g., office hours, email, course website, phone call)
+2.	At the start of a course, ask your teacher and advisor about the best way to contact them (e.g., office hours, email, course website, phone call).
 3.	Advocate for yourself - be persistent if your first attempt to get help does not get a response.
 
 .
