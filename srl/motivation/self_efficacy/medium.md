@@ -9,3 +9,5 @@ The scenario below illustrates how self-efficacy for online learning can influen
 > Maria, a first year college student, was hesitant about enrolling in an online biology course. Although she possesses strong self-efficacy for reading, science had never been her strongest subject and she was afraid that she wouldn't understand biology concepts without meeting face to face with an instructor. The first class module was difficult for Maria, and she had a hard time understanding the material. "I may as well give up now," she thought, "Maybe this was a mistake."
 
 You have some confidence in your capacity for online learning, which is great! Because students who have higher confidence tend to try harder, persist longer, and perform better in school, you might click on the Do button below to learn how to boost your self-efficacy for online learning.
+
+## Your Survey Responses

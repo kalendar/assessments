@@ -11,3 +11,5 @@ The SRL survey results suggest that you have a mixed mindset: You answered some 
 Although you might have a mixed mindset right now, you can change it to a growth mindset. That is, you can learn to think and *act* like your intelligence can be improved with effort.
 
 To learn more about how to develop a solid growth mindset, click on the Do button, below.
+
+## Your Survey Responses

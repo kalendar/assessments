@@ -9,3 +9,5 @@ The following scenario might seem familiar to you:
 Although anxiety like Sal's can be debilitating, the good news is that there are many ways to lower anxiety about tests and to improve performance.
 
 To lower your test anxiety, click on the Do button below and try out the recommendations found there. 
+
+## Your Survey Responses

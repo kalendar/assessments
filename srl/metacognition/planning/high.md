@@ -6,3 +6,4 @@ Being aware of your thinking before starting a task is important because it make
 
 For more ideas about being a **frequent planner**, click on the Do button below. 
 
+## Your Survey Responses

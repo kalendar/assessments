@@ -7,3 +7,5 @@ Increasing the frequency with which you plan can help you complete assignments c
 > Sophia, a second year college student, was feeling stressed and overwhelmed as her math course entered its second week. "Wow! I have a lot of assignments for this class," she thought, "I really have to figure out a good plan so that I don't fall behind." After meeting with her advisor, Sophia realized the importance of trying to figure out the requirements for each assignment: Without understanding what is expected, it is virtually impossible to be strategic about completing assignments. Sophia commented, "Now I need to develop a plan about how to best approach all of my assignments. Because some of them are unique, I am really going to have to think more about this. I will probably also need to ask my teacher for guidance."
 
 To improve upon how often you plan or think ahead, click on the Do button below. 
+
+## Your Survey Responses

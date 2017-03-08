@@ -7,3 +7,5 @@ Goal orientation refers to the reasons people engage in learning.  People with a
 The SRL survey focused on mastery orientation. Your results suggest that you have high mastery orientation, which is fabulous! This means that you are motivated to work hard because you enjoy learning and want to gain knowledge and skills. Maintaining a mastery orientation will help keep you motivated to learn and work hard in school.
 
 If you want to learn about how to sustain a mastery orientation, click on the Do button below.
+
+## Your Survey Responses

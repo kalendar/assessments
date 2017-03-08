@@ -7,3 +7,5 @@ Goal orientation refers to the reasons people engage in a learning task.  People
 The SRL survey focused on mastery orientation. Your results suggest that you have a mix of mastery and performance orientations. This suggests that your enjoyment of learning and your desire to gain knowledge and skills are sometimes part of the reason reason you want to do your school work--but not always. You might find school more enjoyable and interesting if you further develop a mastery-oriented way of thinking. 
 
 To learn more about how to develop and sustain a mastery orientation, click on the Do button, below.
+
+## Your Survey Responses
