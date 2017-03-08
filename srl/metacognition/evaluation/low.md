@@ -6,6 +6,6 @@ Anthony, a first-year college student, was preparing for his first history exam 
 
 Anthony's experience of overestimating his learning during studying is common among college students. The key to becoming are more effective self-evaluator is to use strategies that help you pause and reflect as you learn.
 
-To guide you in self-evaluation, please select one or more of the three options below: **Learn**, **See**, or **Do**. Click on as many of these buttons as you want. 
+To guide you in self-evaluation, please click on the **Learn**, **See**, and/or **Do** buttons.  
 
 ## Your Survey Responses
