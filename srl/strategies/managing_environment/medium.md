@@ -1,6 +1,6 @@
 ## Strategies for Managing Environments
 
-There are many things that can cause people to become distracted when doing their work. One of the most common things is not having an effective place to do work. Students may attempt to study with a lot of noise or people around them. They also may let technology interfere with their attention, such as the TV, cell phone, or internet. An important key to success in colletge is developing proficiency in using **strategies to eliminate or reduce distractions**.
+There are many things that can cause people to become distracted when doing their work. One of the most common things is not having an effective place to do work. Students may attempt to study with a lot of noise or people around them. They also may let technology interfere with their attention, such as the TV, cell phone, or internet. An important key to success in college is developing proficiency in using **strategies to eliminate or reduce distractions**.
 
 The SRL survey showed that you **occasionally** use strategies to reduce environmental disruptions or distractions when studying or completing other types of schoolwork. Thus, there may be room to grow and improve in this area. If you allow others to distract you or if you choose to study in a place with many distractions (i.e. TV on, people talking, access to games/social media), it will be difficult for you to concentrate or focus. Frequently becoming distracted can also lead to turning assignments in late and feeling overwhelmed or stressed out. 
 
