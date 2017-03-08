@@ -6,6 +6,8 @@ Monitoring is one aspect of metacognition. Your responses to the SRL survey sugg
 > 
 > Sandra, Jose's classmate, also struggles to complete all the class readings, but she makes sure to pause and monitor her level of understanding of the reading. As she reads, Sandra highlights a word on the page that was confusing or marks an entire paragraph that was not clear. She also writes down questions after completing the reader, to mind herself about what to ask her classmates or instructor. Tracking these types of things help increase Sandra's confidence to learn well in the class.
 
+A key thing that distinguished Sandra and Jose was that Sandra frequently monitored how she was learning as well as the things that were challenging for her. Unlikee Jose, she used this monitored information to figure out how to learn more effectively MnBeing an effective monitor is something that can be learend and improved.
+
 To gain a more full understanding of self-monitoring approaches, click on the **Learn**, **See**, and/or **Do** buttons. 
 
 ## Your Survey Responses
