@@ -1,6 +1,6 @@
 ## Strategies for Managing Understanding & Learning
 
-One of the most challenging things student have to do is **learn and remember information** presented in their courses. Students who perform well in college tend to use a vareity of different strategies to do this very thing.
+One of the most challenging things students have to do is **learn and remember information** presented in their courses. Students who perform well in college tend to use a vareity of different strategies to do this very thing.
 
 The SRL survey showed that you **frequently** use different types of strategies to help you learn and remember information. You might do different things like reread your study materials, use diagrams or concept maps to summarize information, or focus much of your attention to the most important pieces of information. Having a strong repertoire of study strategies is important because it will not only increase your learning and retention of information, it will give you different options just in case you get stuck.
 
