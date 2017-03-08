@@ -2,7 +2,7 @@ The results from the survey indicate that you **sometimes** use different strate
 
 Please read the time management strategies below AND click on the **More Info** button to learn more about time management strategies. 
 
-1.	Set aside regular times to study *multiple days* in advanced of a due date.
+1.	Set aside regular times to study *multiple days* in advance of a due date.
 2.	Prioritize tasks based on the most important things you need to study, such as studying the most difficult things first. 
 3.	Use a calendar to remind yourself of upcoming assignments and understand how other activities could conflict with your time to study.
 
