@@ -1,4 +1,4 @@
-Your scores indicate that you **frequently** monitor your thinking and learning. 
+Your scores indicate that you **frequently** monitor your thinking and learning. Thus, you may do things like writing down things that are difficult for you or keeping track of your performing on assignments.
 
 To continue being a **frequent monitor**, consider using the the following strategies:
 
