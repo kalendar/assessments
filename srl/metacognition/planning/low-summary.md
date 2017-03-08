@@ -1,4 +1,4 @@
-Your responses to the SRL survey suggest that you **do not frequently** plan how to approach your schoolwork. When you are assigned a task, you might not think about the most important parts of the task, or identify the most effective approaches to completing it. Because good learners tend to plan their learning, we recommend making some improvements to how you **plan and think ahead**:
+Your responses to the SRL survey suggest that you **do not frequently** plan how to approach your schoolwork. When you are assigned a task, you might not think about the most important parts or may not try to identify the effective approaches to completing it the task. Because good learners tend to plan their learning, we recommend making some improvements to how you **plan and think ahead**:
 
 1.	Ask yourself questions before you begin a learning activity: "What am I expected do? What approach to this work can help me do well?" 
 2.	Brainstorm multiple ways to approach an activity and then choose the best option.
