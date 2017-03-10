@@ -8,7 +8,7 @@ The following two scenarios illustrate the value of effective self-monitoring:
 > 
 > Sandra, Jose's classmate, also struggles to complete all the class readings, but she makes sure to pause and monitor her level of understanding of the reading. As she reads, Sandra highlights a word on the page that was confusing or marks an entire paragraph that was not clear. She also writes down questions after completing the reader, to remind herself what she needs to ask her classmates or instructor. Tracking these types of things help increase Sandra's confidence to learn well in the class.
 
-A key thing that distinguished Sandra and Jose was that Sandra frequently monitored how she was learning. She also kept track of the things that were confusing or challengein. Becomeing a more effective monitor is something that can be learend and improved.
+A key thing that distinguished Sandra and Jose was that Sandra frequently monitored how she was learning. She also kept track of the things that were confusing or challenging which helped her seek out the help she needed. Just remember that becoming a more effective monitor is something that can be learned and improved.
 
 To gain a more full understanding of self-monitoring approaches, click on the **Learn**, **See**, and/or **Do** buttons. 
 
