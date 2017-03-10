@@ -1,11 +1,13 @@
 ## Planning
 
-Planning is one aspect of metacognition. Your responses to the SRL survey suggest that you **infrequently plan** how to complete your schoolwork, which can make it difficult to figure out how to best go about it. People who do not frequently plan their schoolwork often need to learn more about planning strategies.
+Planning is one aspect of metacognition. Your responses to the SRL survey suggest that you **do not frequently plan** how to complete your schoolwork. When students do not think about the expectations of assignments or reflect on the best ways to learn, they will often make more mistakes and will likely become stuck when learning nwithout knowing why. Increasing the frequency with which you plan can help you complete assignments correctly and with greater efficiency but less stress. 
 
-Increasing the frequency with which you plan can help you complete assignments correctly, on time, and with greater efficiency and less stress. This scenario shows how using planning strategies on a frequent basis can improve performance in school:
+The following scenario illustrates the importance of seeking out help to learn how to plan and prepare in school:
 
-> Sophia, a second year college student, was feeling stressed and overwhelmed as her math course entered its second week. "Wow! I have a lot of assignments for this class," she thought, "I really have to figure out a good plan so that I don't fall behind." After meeting with her advisor, Sophia realized the importance of trying to figure out the requirements for each assignment: Without understanding what is expected, it is virtually impossible to be strategic about completing assignments. Sophia commented, "Now I need to develop a plan about how to best approach all of my assignments. Because some of them are unique, I am really going to have to think more about this. I will probably also need to ask my teacher for guidance."
+> Sophia, a second year college student, was feeling stressed and overwhelmed as her math course entered its second week. "Wow! I have a lot of assignments for this class," she thought, "I really have to figure out a good plan so that I don't fall behind." After meeting with her DAACS advisor, Sophia realized the importance of trying to figure out the requirements for each assignment, stating, "If I do understand what is expected for an assignment, how on earth can I be strategic about completing it?" Sophia's next step was to develop a plan about how to best approach her work for all of her courses. When speaking with her advisor, Sophia commented, "Because assignments are so different across my classes, I am going to need help in figuring out how my approch might need to differ for each."
 
-To improve upon how often you plan or think ahead, click on the Do button below. 
+Sophia's initial conversation with her advisor changed her outlook and perspective about school. He helped her realize that there was value in pausing and reflecting about an assignment for a few minutes before attempting to complete it. Having this realization naturally led Sophia to seek out additional assistance about how to become a more effective planner.
+
+To learn more about effective planning strategies, click on the **Learn**, **See**, and/or **Do** buttons. 
 
 ## Your Survey Responses
