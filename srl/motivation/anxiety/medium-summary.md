@@ -1,4 +1,4 @@
-Your score for test anxiety is **medium**. This means that you might experience some uncomfortable feelings or worry about your performance when doing your schoolwork or facing an exam. High levels of test anxiety can impair your performance, so you might want to learn new strategies for managing it. 
+Your score for **test anxiety is medium**. This means that you might experience some uncomfortable feelings or worry about your performance when doing your schoolwork or facing an exam. High levels of test anxiety can impair your performance, so you might want to learn new strategies for managing it. 
 
 To **lower your test anxiety**, you can:
 
