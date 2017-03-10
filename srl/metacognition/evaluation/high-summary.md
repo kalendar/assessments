@@ -1,4 +1,4 @@
-You score indicates that you **frequently** reflect on and evaluate the ways in which you learn, study, and complete your schoolwork. 
+You score indicates that you **frequently** reflect on and evaluate the ways in which you learn, study, and complete your schoolwork. Because self-evaluation is a key skill for college students, you are right on track with this skill. 
 
 To continue being a **frequent evaluator**, consider using the following strategies:
 
