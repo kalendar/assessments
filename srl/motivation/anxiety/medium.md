@@ -8,6 +8,6 @@ This scenario illustrates how having a lot of test anxiety can make it hard to s
 
 Although anxiety like Sal's can be debilitating, the good news is that there are many ways to lower test anxiety and improve performance.
 
-If you do become anxious, you can click on the Do button below for recommendations for managing test anxiety. 
+To learn more about test anxiety click on the **Learn** and **See** buttons. If you do become anxious, you can click on the **Do** button below for recommendations for managing it. 
 
 ## Your Survey Responses
