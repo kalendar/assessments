@@ -1,6 +1,6 @@
-Your score for **test anxiety is low**, which is good. You probably don't worry too much when studying for or taking an exam. It is also likely that you often feel confident about your performance.
+Your score for test anxiety is **low**, which is good. You probably don't worry too much when studying for or taking an exam. It is also likely that you often feel confident about your performance.
 
-To **keep your anxiety low**, you can:
+To keep your anxiety low, you can:
 
 1. Use relaxation techniques to reduce uncomfortable feelings and to increase your focus, as needed. 
 2. Say positive things to yourself about your likelihood of success.
