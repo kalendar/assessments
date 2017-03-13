@@ -4,7 +4,7 @@ There are many things that can cause people to become distracted from their stud
 
 The SRL survey showed that you **occasionally** use strategies to minimize disruptions and distractions (see your responses below). You might turn off your phone or make sure that your family and friends do not distract you, but you don't always take control of your learning enviroment. There may be room to improve in this area, since distractions make it difficult for you to concentrate and can lead to poorly done or late assignments, and feeling overwhelmed and stressed out. 
 
-This scenario illustrates how reducing distractions and disruptions is a key survival skill in college:
+This scenario illustrates how reducing distractions is a key survival skill in college:
 
 > Gloria, a first year college student, was feeling stressed and overwhelmed about a research paper that she had to write within a week. While writing the paper, Gloria had her cell phone on her desk and would continually check out the texts that her friends were sending back and forth. She also would attempt to do her work when her children or other family members were around. At one point, she stated to herself, "I am so stressed out. I just can't seem to concentrate. I have so much to do, but I can't seem to get anything done." Because she allowed her hectic, busy life to impinge on her study times, Gloria found it nearly impossible to reflect on how to make the situation better. Gloria was discouraged by about how hard college was, and thought about whether she should continue. 
 
