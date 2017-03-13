@@ -2,11 +2,11 @@
   "source": "MA-2015-06-31",
   "domain": "geometry",
   "difficulty": "MEDIUM",
-  "stem": "A green can and a silver can are each in the shape of a right circular cylinder. The cans have the same radius, but the height of the green can is 3 times the height of the silver can.<br/>\nWhat is the ratio of the volume of the green can to the volume of the silver can?",
-  "A": "03:01:00.00",
-  "B": "09:01:00.00",
-  "C": "06:01:00.00",
-  "D": "03:01:00.00",
+  "stem": "A green can and a silver can are each in the shape of a right circular cylinder. The cans have the same radius, but the height of the green can is 3 times the height of the silver can. What is the ratio of the volume of the green can to the volume of the silver can?",
+  "A": "27 : 1",
+  "B": "9 : 1",
+  "C": "6 : 1",
+  "D": "3 : 1",
   "answer": "D",
   "feedbackfile": "MA-2015-06-31.md"
 }
