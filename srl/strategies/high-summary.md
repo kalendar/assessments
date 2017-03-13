@@ -1,3 +1,3 @@
-**Strategies** refer to the procedures or approaches that people use to enhance their learning, knowledge or performance on some activity. The SRL survey examined the frequency with which you reported using four different types of strategies: (a) help-seeking, (b) managing your time, (c) managing your environment, and (d) learning and understanding new material. 
+**Strategies** are the procedures people use to enhance their learning. The SRL survey examined the frequency with which you reported using four of the most effective types of strategies: (1) help-seeking, (2) managing your time, (3) managing your environment, and (4) understanding new material. 
 
-Your overall score indicates that you **frequently** use these strategies. If you are interested in learning more about these strategies, click on the **More Info** button.
+Your overall score indicates that you **frequently** use learning strategies. To learn more about strategies, click on the **More Info** button.
