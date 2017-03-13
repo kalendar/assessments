@@ -55,16 +55,16 @@ feedback <- parseMarkdown('srl')
 
 # TODO: This is only necessary until multi-tiered feedback is functional
 # Collapse secondary factors to primary
-for(i in seq_len(length(feedback))) {
-	if(is.list(feedback[[i]])) {
-		for(j in seq_len(length(feedback[[i]]))) {
-			if(is.list(feedback[[i]][[j]])) {
-				#print(names(feedback[[i]])[j])
-				feedback[[names(feedback[[i]])[j]]] <- feedback[[i]][[j]]
-			}
-		}
-	}
-}
+# for(i in seq_len(length(feedback))) {
+# 	if(is.list(feedback[[i]])) {
+# 		for(j in seq_len(length(feedback[[i]]))) {
+# 			if(is.list(feedback[[i]][[j]])) {
+# 				#print(names(feedback[[i]])[j])
+# 				feedback[[names(feedback[[i]])[j]]] <- feedback[[i]][[j]]
+# 			}
+# 		}
+# 	}
+# }
 
 ##### Build the JSON document
 
