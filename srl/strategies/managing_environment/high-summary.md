@@ -1,11 +1,8 @@
 
-Your responses to the survey indicate that you **frequently** try to limit enviornmental distractions and disurptions when completing your schoolwork. This is a very important skill to help you stay focused and attentive when doing your work. 
+Your responses to the survey indicate that you **frequently** limit environmental distractions when completing your schoolwork. This is a very important skill because it helps you stay focused and attentive which, in turn, makes your work get done faster and better. 
 
-Please read the **strategies** below for additional ideas about how to **manage your study environment**.
+Here are some of the most useful strategies for **managing your study environment**:
 
-1.	Set rules for others in your house about "do not disturb" times.
+1.	Set rules about "do not disturb" times for others in your house .
 2.	Turn off your cell phone and other technology.
-3.	Identify 2-3 comfortable and quiet places so that you have multiple options to do your work.
-
-
-
+3.	Identify 2-3 comfortable and quiet places so that you have multiple options.
