@@ -8,6 +8,6 @@ The SRL survey results indicate that you **sometimes** reach out for help when y
 
 Erica's attitude--"I don't want to ask for help"--is fairly common among college students. But much of the frustration and anxiety that she experienced could have been avoided if she had been mindful of the fact that getting the help from others is not an admission that she could not learn, or was dumb: Help-seeking is a hallmark of successful, self-regulated students. 
 
-Be an advocate for yourself and seek out the help you need!
+Be an advocate for yourself and seek out the help you need! Click on the Learn, See, and Do buttons for more information.
 
 ## Your Survey Responses
