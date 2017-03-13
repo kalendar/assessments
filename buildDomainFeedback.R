@@ -1,4 +1,10 @@
-buildDomainFeedback <- function(feedback, domain, domain.items, includeCompletionScoreMap = TRUE) {
+#' Builds a list object with the domain feedback. This can then be converted to
+#' a JSON document.
+#' 
+#' @param domainType can be either SCORING or ANALYSIS. The latter will not show
+#'        the student any feedback for this domain.
+buildDomainFeedback <- function(feedback, domain, domain.items, domainType = 'SCORING',
+								includeCompletionScoreMap = TRUE) {
 	completionScoreMap <- list()
 	if(includeCompletionScoreMap) {
 		if(missing(domain.items)) {
@@ -22,6 +28,7 @@ buildDomainFeedback <- function(feedback, domain, domain.items, includeCompletio
 
 	return(list(
 		id = domain,
+		domainType = domainType,
 		label = toTitleCase(gsub('_', ' ', domain)),
 		content = feedback$overview,
 		rubric = list(
