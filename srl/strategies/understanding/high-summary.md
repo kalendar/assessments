@@ -1,4 +1,4 @@
-Your survey results show that you **frequently** use strategies to to remember and understand information. You probably use techniques like reviewing information until it is mastered, paying attention to the most important pieces of information when studying, asking questions, and putting new ideas into your own words.  
+Your survey results show that you **frequently** use strategies to to remember and understand information. You probably use techniques like reviewing information until it is mastered, paying attention to the most important information, asking questions, and putting new ideas into your own words.  
 
 To add to your toolbox of **learning strategies**, consider trying these:
 
