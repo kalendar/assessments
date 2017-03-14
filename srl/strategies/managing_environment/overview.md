@@ -27,7 +27,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>See</h4>
-                     <p>Read real-life scenarios about the power of managing environments</p>
+                     <p>Read real-life scenarios about the power of managing environments.</p>
                      <a href="http://srl.daacs.net/managing_environments_profile.html" target="_blank" class="btn btn-primary">See profiles</a>
                  </div>
              </div>
@@ -42,7 +42,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>Do</h4>
-                     <p>Recommendations on how to improve your managing environment strategies.</p>
+                     <p>Recommendations for improving your environment management strategies.</p>
                      <a href="http://srl.daacs.net/managing_environments_recommendations.html" target="_blank" class="btn btn-primary">Recommendations</a>
                  </div>
              </div>
