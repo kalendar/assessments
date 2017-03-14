@@ -1,6 +1,6 @@
 <div class="row">
          <div class="col-lg-12">
-             <h2 class="page-header">Now that I know more about managing time, what can I do?</h2>
+             <h2 class="page-header">Now that I know about managing time, what can I do?</h2>
          </div>
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
@@ -27,7 +27,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>See</h4>
-                     <p>Read real-life scenarios about the power of managing time</p>
+                     <p>Read real-life scenarios about the power of managing time.</p>
                      <a href="http://srl.daacs.net/managing_time_profile.html" target="_blank" class="btn btn-primary">See profiles</a>
                  </div>
              </div>
@@ -42,7 +42,7 @@
                  </div>
                  <div class="panel-body">
                      <h4>Do</h4>
-                     <p>Recommendations on how to improve your managing time strategies.</p>
+                     <p>Recommendations for improving your time management strategies.</p>
                      <a href="http://srl.daacs.net/managing_time_recommendations.html" target="_blank" class="btn btn-primary">Recommendations</a>
                  </div>
              </div>
