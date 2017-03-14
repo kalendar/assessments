@@ -1,7 +1,7 @@
 
 Because you are expected to process a lot of information in college, it is important that you are able to effectively organize, synthesize, and recall course-related information. Your survey results show that you **occasionally** use strategies to remember and understand course content. You might use a few techniques like reviewing information until it is mastered, paying attention to the most important pieces of information when studying, asking questions, or putting new ideas into your own words.  
 
-To add to your toolbox of **understanding strategies**, consider trying these:
+To add to your toolbox of **learning strategies**, consider trying these:
 
 1.	Study course material over several short study sessions rather than one long session.
 2.	Use practice quizzes or tests to check your understanding of course material. Restudy only the material you got wrong.
