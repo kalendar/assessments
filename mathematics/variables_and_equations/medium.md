@@ -1,4 +1,4 @@
-## Variables, Expressions, and Equations
+## Variables, expressions, and equations
 
 **Variables, expressions, and equations** are algebraic tools that describe quantities and their relationships in more general and flexible ways than we can do with numbers alone. **Variables** are numbers in disguise, using letters of the alphabet to represent numbers that are unknown, either because we haven’t figured them out yet or because we might want to use more than one number in the same way. They are called variables because the numbers they represent can vary, while numbers themselves are often called constants, because they cannot change. **Expressions** build up more complex quantities by combining one or more variables and numbers, using a variety of operations (addition, subtraction, multiplication, division, or exponents). An **equation** is a mathematical sentence that uses an equal sign to show that two expressions have the same value. Sometimes an expression can be re-written in another equivalent form that is simpler, by factoring, combining like terms, or other algebraic tools. 
 
