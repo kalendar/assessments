@@ -6,6 +6,6 @@ Your results suggest that your skills are just developing for working with lines
 
 * To learn more about plotting points using x-y coordinates, start with http://mathantics.com/section/lesson-video/graphing-on-the-coordinate-plane. 
 
-* Learn more about the equation of a straight line here: http://www.mathsisfun.com/equation_of_line.html and be sure to check out the interactive line graphing calculator in the middle of the page. 
+* Learn more about the equation of a straight line at http://www.mathsisfun.com/equation_of_line.html and be sure to check out the interactive line graphing calculator in the middle of the page. 
 
 * The steepness of a line is measured by a number called its slope, which is explained at http://www.mathsisfun.com/gradient.html.
