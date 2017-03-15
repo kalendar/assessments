@@ -1,5 +1,3 @@
-## Lines and Functions 
-
 Analytic geometry identifies points by how far they are from a starting point, called the origin, by moving horizontally left or right by some distance (the *x*-direction) and vertically up or down by a distance (the *y*-direction). The point (*x*, *y*) describes the horizontal distance *x*, and the vertical distance *y*, that the point is from the origin. We can also think of x and y as variables, which allows us to describe not only individual points, but many points at the same time. A **function** is a relationship between the two variables *x* and *y*, and a straight **line** is the most fundamental example of a function. 
 
 Your results suggest that you have mastered skills for writing and using the equations of lines, graphing lines and other functions, and identifying specific characteristics of lines and functions. To further develop your skills, you can review a general explanation of functions at: http://mathantics.com/section/lesson-video/what-are-functions and of linear functions in particular here: http://www.virtualnerd.com/algebra-1/relations-functions/functions/linear-nonlinear/what-is-a-linear-function.  

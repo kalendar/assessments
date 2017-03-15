@@ -1,5 +1,3 @@
-## Statistics
-
 **Statistics** is the mathematics of turning data (lots of numbers) into useable information. Researchers, journalists, scientists, financial advisors, politicians, consumers, and just about everyone else use numbers all the time to measure or summarize the things they observe around them.  But what do you do with all those numbers? Data on its own usually does not tell us much. It takes specific mathematical methods to extract the meaning from the numbers. Those methods form the field of **Statistics**. Your results suggest that you need to learn how to reason with data. Skills you may want to focus on include summarizing data with statistics, graphs, and tables.
 
 Your results suggest that your skills are just developing for reasoning with data. To further develop your skills at summarizing data with statistics, graphs, and tables, these resources might be a good starting point:
