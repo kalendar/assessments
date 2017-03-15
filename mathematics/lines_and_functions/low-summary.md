@@ -1,5 +1,5 @@
 **Lines and Functions Domain**
 
-Analytic geometry identifies points by how far they are from a starting point, called the origin, by moving horizontally left or right by some distance (the *x*-direction) and vertically up or down by a distance (the *y*-direction). The point (x, y) describes the horizontal distance x, and the vertical distance y, that the point is from the origin. We can also think of x and y as *variables*, which allows us to describe not only individual points, but many points at the same time. A **function** is a relationship between the two variables x and y, and a straight **line** is the most fundamental example of a function. 
+Analytic geometry identifies points by how far they are from a starting point, called the origin, by moving horizontally left or right by some distance (the *x*-direction) and vertically up or down by a distance (the *y*-direction). The point (*x*, *y*) describes the horizontal distance *x*, and the vertical distance *y*, that the point is from the origin. We can also think of x and y as variables, which allows us to describe not only individual points, but many points at the same time. A **function** is a relationship between the two variables *x* and *y*, and a straight **line** is the most fundamental example of a function. 
 
-Your results suggest that you have difficulty working with lines, other functions, and their graphs.
+Your results suggest that . . .
