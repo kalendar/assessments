@@ -4,4 +4,6 @@
 
 A special branch of geometry called *analytic geometry* locates points on the plane using Cartesian coordinates (named for the philosopher and mathematician Rene Descartes), most commonly taught as a pair of values of variables called *x* and *y*. In analytic geometry, the point (*x*, *y*) describes the horizontal distance *x* and the vertical distance *y* that a point is from a central starting point or origin. Using analytic geometry, we can examine the properties of straight lines and of a special type of curved line called a function. We can use analytic geometry (the *x-y* plane) to locate shapes and what happens to them as they are moved (translated), turned (rotated), or flipped (reflected). Analytic geometry is also studied using algebraic tools, which allow us to write equations that identify straight lines and curves.
 
-Your results suggest that you need more practice working with length, area, and volume of shapes.
+Your results suggest that you are just developing skills for working with length, area, and volume of shapes. These two videos will help you review concepts of area and volume and how to calculate them:
+http://mathantics.com/section/lesson-video/area
+http://mathantics.com/section/lesson-video/volume
