@@ -1,1 +1,4 @@
-Numbers involve so much more than counting! Numbers allow us to count, measure, estimate, and calculate in a variety of contexts, both simple and complex. We use numbers to measure time, describe the weather, keep track of money, navigate across a geography, and keep track of our health.  **Numbers and calculations** form the foundation of all of mathematics and science, including economics, finance and banking, medicine, and so many other aspects of our world. Your results suggest that you have a good basis of skills for numbers and computation.
+## Numbers and calculation
+
+Numbers involve so much more than counting! Numbers allow us to count, measure, estimate, and calculate in a variety of contexts, both simple and complex. We use numbers to measure time, describe the weather, keep track of money, navigate across a geography, and keep track of our health.  **Numbers and calculations** form the foundation of all of mathematics and science, including economics, finance and banking, medicine, and so many other aspects of our world. 
+
