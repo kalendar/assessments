@@ -1,1 +1,5 @@
-Statistics is the mathematics of turning data (lots of numbers) into useable information. Researchers, journalists, scientists, financial advisors, politicians, consumers, and just about everyone else use numbers all the time to measure or summarize the things they observe around them.  But what do you do with all those numbers? Data on its own usually does not tell us much. It takes specific mathematical methods to extract the meaning from the numbers. Those methods form the field of Statistics. Your results suggest that you have some proficiency at reasoning with data. 
+## Statistics
+
+**Statistics** is the mathematics of turning data (lots of numbers) into useable information. Researchers, journalists, scientists, financial advisors, politicians, consumers, and just about everyone else use numbers all the time to measure or summarize the things they observe around them.  But what do you do with all those numbers? Data on its own usually does not tell us much. It takes specific mathematical methods to extract the meaning from the numbers. Those methods form the field of **Statistics**.
+
+Your results . . . 
