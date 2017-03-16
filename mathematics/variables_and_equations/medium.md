@@ -11,4 +11,5 @@ This domain assesses your proficiency at working with variables, representing co
 * Combining like terms: http://www.mathsisfun.com/algebra/like-terms.html 
 
 * Simplifying expressions: http://www.virtualnerd.com/algebra-1/algebra-foundations/simplifying-expressions/simplifying-expressions-examples/simplifying-expressions-definitions-examples
- 
+
+## Your Item Results

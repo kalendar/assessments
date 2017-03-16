@@ -9,3 +9,5 @@ This domain assesses your proficiency at working with variables, representing co
 * For a general introduction to variables in algebra, see http://mathantics.com/section/lesson-video/what-is-algebra. 
 
 * Then you can learn about algebraic expressions here: http://www.virtualnerd.com/algebra-1/algebra-foundations/variables-expressions/algebraic-expressions/numerical-algebraic-expressions. 
+
+## Your Item Results
