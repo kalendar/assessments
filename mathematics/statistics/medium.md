@@ -6,13 +6,4 @@ Showing data visually using scatterplots, line graphs, frequency distributions, 
 
 Your results suggest that you have emerging skills for reasoning with data. To further develop your skills at summarizing data with statistics, graphs, and tables, these resources might be a good starting point:
 
-* Mean, median, and mode: http://www.mathsisfun.com/data/central-measures.html
-
-* Graphs to display data:
-	* Histograms: http://www.mathsisfun.com/data/histograms.html
-	* Dot plots: http://www.mathsisfun.com/data/dot-plots.html
-	* Scatterplots and lines of best fit:  http://www.mathsisfun.com/data/scatter-xy-plots.html
-
-* Conducting surveys to get reliable data: http://www.mathsisfun.com/data/survey-conducting.html
-
 ## Your Item Results

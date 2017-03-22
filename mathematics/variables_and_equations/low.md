@@ -4,10 +4,7 @@
 
 These algebraic tools allow us to write more abstract versions of the calculations of arithmetic. For example, in arithmetic we can write the number sentence 1/5+3/5=4/5.  Algebra uses variables and expressions to write a more general version of this sentence, with the equation  a/b+c/b=(a+c)/b, which we can use for any numbers that can substitute for the variables a, b, and c (as long as b≠0).  
 
-This domain assesses your proficiency at working with variables, representing complex quantities with expressions, and writing equivalent expressions as equations. Your results suggest that you are just developing skills for solving problems with these building blocks of algebra. To improve your skills, you may want to review some of these topics: 
+This domain assesses your proficiency at working with variables, representing complex quantities with expressions, and writing equivalent expressions as equations. Your results suggest that you are just developing skills for solving problems with these building blocks of algebra. To improve your skills, you may want to review some of the topics below.
 
-* For a general introduction to variables in algebra, see http://mathantics.com/section/lesson-video/what-is-algebra. 
-
-* Then you can learn about algebraic expressions here: http://www.virtualnerd.com/algebra-1/algebra-foundations/variables-expressions/algebraic-expressions/numerical-algebraic-expressions. 
 
 ## Your Item Results

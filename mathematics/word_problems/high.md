@@ -4,6 +4,6 @@
 
 Not all word problems require the use of variables, expressions, and equations. Some problems are solved by doing series of calculations with numbers, organizing information in a table, drawing a picture, or looking for patterns in other ways. 
 
-Your results suggest that you have mastery at solving word problems. You can further develop your skills by reviewing the problem-solving strategies at http://www.mathinaction.org/problem-solving-strategies.html, where you can also find numerous examples. For specific practice in writing equations and expressions from word problems, read http://www.mathsisfun.com/algebra/word-questions-solving.html
+Your results suggest that you have mastery at solving word problems. 
 
 ## Your Item Results

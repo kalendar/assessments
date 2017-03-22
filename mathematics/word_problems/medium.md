@@ -4,6 +4,6 @@
 
 Not all word problems require the use of variables, expressions, and equations. Some problems are solved by doing series of calculations with numbers, organizing information in a table, drawing a picture, or looking for patterns in other ways. 
 
-Your results suggest that you have emerging skills for solving mathematics word problems. Particular skills you might focus on include translating words into equations and other mathematical expressions, and using different strategies such as pictures, tables, and pattern-finding to solve problems. There is an overview of several problem-solving strategies here: http://www.mathinaction.org/problem-solving-strategies.html.  That site also provides numerous examples you can work on. For specific practice in writing equations and expressions from word problems, read http://www.mathsisfun.com/algebra/word-questions-solving.html
+Your results suggest that you have emerging skills for solving mathematics word problems. Particular skills you might focus on include translating words into equations and other mathematical expressions, and using different strategies such as pictures, tables, and pattern-finding to solve problems. 
 
 ## Your Item Results
