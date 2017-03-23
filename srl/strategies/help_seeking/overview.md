@@ -43,7 +43,7 @@
                  <div class="panel-body">
                      <h4>Do</h4>
                      <p>Recommendations for help seeking strategies.</p>
-                     <a href="http://srl.daacs.net/help_seeking_recommendations.html" target="_blank" class="btn btn-primary">Recommendations</a>
+                     <a href="http://srl.daacs.net/strategies_recommendations.html" target="_blank" class="btn btn-primary">Recommendations</a>
                  </div>
              </div>
          </div>

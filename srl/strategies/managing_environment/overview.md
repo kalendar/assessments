@@ -43,7 +43,7 @@
                  <div class="panel-body">
                      <h4>Do</h4>
                      <p>Recommendations for improving your environment management strategies.</p>
-                     <a href="http://srl.daacs.net/managing_environments_recommendations.html" target="_blank" class="btn btn-primary">Recommendations</a>
+                     <a href="http://srl.daacs.net/strategies_recommendations.html" target="_blank" class="btn btn-primary">Recommendations</a>
                  </div>
              </div>
          </div>
