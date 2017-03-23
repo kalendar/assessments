@@ -2,4 +2,4 @@ Thank you for completing the Self-Regulated Learning (SRL) component of the Diag
 
 Your responses to the SRL items suggest that while you have many strengths as a learner, there are some areas where you could enhance your self-regulation skills. The links on the left provide detailed information about different aspects of being a self-regulated learner, with recommendations for how to develop new skills. We recommend exploring areas of strength as well as weaknesses: It is good to play to your strengths while understanding and developing weak areas. 
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/U2Yt0fOLyuw?list=PLz6X7eB9XUp3fUcvexy8n9mAok2LWKtpl"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://player.vimeo.com/video/207329335"></iframe></div>

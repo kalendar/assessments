@@ -2,4 +2,4 @@ Thank you for completing the Self-Regulated Learning (SRL) component of the Diag
 
 Your responses to the SRL items suggest several strategies to focus on in order to become a successful learner and college student. We recommend visiting each of the domains listed on the left to learn about becoming a more self-regulated learner and access resources to enhance your skills.
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/U2Yt0fOLyuw?list=PLz6X7eB9XUp3fUcvexy8n9mAok2LWKtpl"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://player.vimeo.com/video/207329335"></iframe></div>
