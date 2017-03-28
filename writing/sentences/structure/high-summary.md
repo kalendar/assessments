@@ -1,1 +1,1 @@
-You scored at the mastery level.
+Your writing was scored at the mastery level.
