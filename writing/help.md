@@ -34,4 +34,3 @@ You received information about your learning skills after you took the self-regu
 **Conventions**
 
 * spelling, punctuation, and capitalization are correct.
-
