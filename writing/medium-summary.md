@@ -1,1 +1,1 @@
-You are at the emerging level for reading comprehension.
+Your writing was scored at the emerging level.
