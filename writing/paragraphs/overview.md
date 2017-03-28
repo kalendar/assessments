@@ -1,6 +1,6 @@
 ## Additional Resources
 
-The following resources provide additional information and strategies on the use of paragraphs in your writing:
+These resources provide strategies for using  paragraphs in your writing:
 
 * Parts of a Thesis Sentence: http://owl.excelsior.edu/writing-process/thesis-sentence/=
 * Paragraphing: http://owl.excelsior.edu/writing-process/paragraphing/
