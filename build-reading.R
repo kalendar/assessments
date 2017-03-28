@@ -57,7 +57,7 @@ json <- list(
 	label = "Reading",
 	scoringType = 'AVERAGE',
 	startingDifficulty = 'MEDIUM',
-	maxTakenGroups = 3,
+	maxTakenGroups = 4,
 	minTakenGroups = 3,
 	numQuestionsPerGroup = 6
 )
@@ -155,7 +155,8 @@ for(i in itemGroups) {
 					itemContentType = "PASSAGE"
 				),
 				feedback = list(
-					content = paste0('The correct answer is ', items.group[j,]$Answer),
+					#content = paste0('The correct answer is ', items.group[j,]$Answer),
+					content = items.group[j,]$Feedback,
 					itemContentType = "WORD"
 				)
 			),
@@ -186,5 +187,5 @@ json.out <- jsonlite::toJSON(json, pretty = TRUE, auto_unbox = TRUE)
 cat(json.out, file = paste0('build/Reading.json'))
 cat(json.out, file = paste0('build/archive/Reading-', 
 							format(Sys.time(), format='%Y-%m-%d-%H-%M'), '.json'))
-
+file.edit(paste0('build/Reading.json'))
 
