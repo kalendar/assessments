@@ -5,7 +5,7 @@ You received information about your learning skills after you took the self-regu
 * Which suggested strategies from the feedback are you committed to using this term? Explain why you are committed to using those strategies.
 
 
-### You will receive feedback about your writing according to the following criteria. It will be several weeks before your essay results and feedback are available. Thank you for your patience.
+### You will receive feedback about your writing according to the following criteria. (It will be several weeks before your essay results and feedback are available. Thank you for your patience.)
 
 **Content**
 
