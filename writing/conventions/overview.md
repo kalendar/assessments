@@ -1,6 +1,6 @@
 ## Additional Resources
 
-For resources on working on **spelling**, **punctuation**, and **capitalization**, visit these websites:
+To work on **spelling**, **punctuation**, and **capitalization**, visit these websites:
 
 * Grammar Essentials: http://owl.excelsior.edu/grammar-essentials/
 * Revising and Editing Process: http://owl.excelsior.edu/writing-process/revising-and-editing/
