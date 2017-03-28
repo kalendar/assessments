@@ -1,1 +1,1 @@
-You scored a the emerging level.
+Your writing was scored at the emerging level.
