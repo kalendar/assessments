@@ -2,4 +2,4 @@
 
 * Which suggested strategies from the feedback are you committed to using this term? Explain why you are committed to using those strategies.
 
-* You can view the directions and scoring criteria by clicking the *help* button while taking the assessment.
+* You can view the directions and scoring criteria by clicking the *help* button while writing the essay.
