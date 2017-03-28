@@ -1,6 +1,6 @@
 ## Additional Resources
 
-The following resources provide more information about the various aspects of organizing your writing:
+These resources provide information about organizing your writing:
 
 * Introductions and Conclusions: http://owl.excelsior.edu/writing-process/introductions-and-conclusions/
 * Essay Writing: http://owl.excelsior.edu/writing-process/essay-writing/
