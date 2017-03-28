@@ -1,6 +1,6 @@
-### NOTE: It will take several weeks before your essay results and feedback are available. Thank you for your patience.
+### NOTE: It will be several weeks before your essay results and feedback are available. Thank you for your patience.
 
-You received information about your learning skills after you took the self-regulated learning survey, as well as suggestions for becoming a more effective and efficient learner. Now, in order to reflect on your learning skills and receive feedback on your writing, please use the results from your self-regulated learning survey to do your best writing in a brief essay (about 500 words, which is about 1-2 pages) that answers the following questions:
+You received information about your learning skills after you took the self-regulated learning survey, as well as suggestions for becoming a more effective and efficient learner. Now, in order to reflect on your learning skills and receive feedback on your writing, please use the results from your self-regulated learning survey to do your best writing in a brief essay that answers the following questions:
 
 * What do your self-regulated learning survey results and the feedback tell you about your learning skills? Use results from the survey and the feedback to support your analysis.
 
