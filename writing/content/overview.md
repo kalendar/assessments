@@ -1,11 +1,11 @@
 ## Additional Resources
 
-We suggest starting with a review of the writing process. The following two recourses provide an overview:
+We suggest starting with a review of the writing process. The following two resourses provide an overview:
 
 * Writing Process Overview: http://owl.excelsior.edu/writing-process/writing-process-overview/
 * The Writing Process in Review: http://owl.excelsior.edu/writing-process/writing-process-in-review/
 
-Here are additional resources about more specific aspects of writing:
+Here are additional resources about more specific aspects of writing such as finding a topic, writing a thesis, doing research, evaluating and using sources, argumentation, drafting, and others:
 
 * Prewriting Strategies: http://owl.excelsior.edu/writing-process/prewriting-strategies/
 * Audience Awareness: http://owl.excelsior.edu/writing-process/audience-awareness/
