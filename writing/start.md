@@ -31,7 +31,7 @@ You received information about your learning skills after you took the self-regu
 **Sentences**
 
 * sentences are correct: no run-ons, fragments, or errors in subject-verb agreement.
-* used a variety of sentences structures. 
+* uses a variety of sentences structures. 
 
 **Conventions**
 
