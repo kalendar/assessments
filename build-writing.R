@@ -23,12 +23,12 @@ rubric <- as.data.frame(rubric)
 feedback <- parseMarkdown('writing')
 # domains <- c('connecting_ideas', 'content', 'conventions', 'organization', 'paragraphs', 'sentences')
 
-domains <- list(connecting_ideas = c('ideas', 'links'),
-				content = c('explanation','suggestions','summary'), 
-				conventions = c(),
+domains <- list(content = c('summary','suggestions','explanation'), 
 				organization = c('structure','transitions'), 
 				paragraphs = c(), 
-				sentences = c('complexity','correct','structure'))
+				connecting_ideas = c('ideas', 'links'),
+				sentences = c('correct','complexity'),
+				conventions = c())
 
 rubricToHTML <- function(rubric, highlight=0) {
 	html <- '<style type="text/css">
@@ -130,36 +130,49 @@ json$overallRubric <- list(
 	)
 )
 
-# Add rubric to feedback
-for(i in names(domains)) {
-	feedback[[i]][['high']] <- paste0(
+addRubric <- function(fb, rubric) {
+	fb[['high']] <- paste0(
 		feedback[[i]][['high']], '\n',
-		rubricToHTML(rubric[rubric$Criteria == i,], highlight = 3), 
+		rubricToHTML(rubric, highlight = 3), 
 		'\n\n <br /><h2>Your Essay</h2>'
 	)
-	feedback[[i]][['medium']] <- paste0(
+	fb[['medium']] <- paste0(
 		feedback[[i]][['medium']], '\n',
-		rubricToHTML(rubric[rubric$Criteria == i,], highlight = 2), 
+		rubricToHTML(rubric, highlight = 2), 
 		'\n\n <br /><h2>Your Essay</h2>'
 	)
-	feedback[[i]][['low']] <- paste0(
+	fb[['low']] <- paste0(
 		feedback[[i]][['low']], '\n',
-		rubricToHTML(rubric[rubric$Criteria == i,], highlight = 1), 
+		rubricToHTML(rubric, highlight = 1), 
 		'\n\n <br /><h2>Your Essay</h2>'
 	)
 	
-	feedback[[i]][['high-summary']] <- paste0(
+	fb[['high-summary']] <- paste0(
 		feedback[[i]][['high-summary']], '\n',
-		rubricToHTML(rubric[rubric$Criteria == i,], highlight = 3)
+		rubricToHTML(rubric, highlight = 3)
 	)
-	feedback[[i]][['medium-summary']] <- paste0(
+	fb[['medium-summary']] <- paste0(
 		feedback[[i]][['medium-summary']], '\n',
-		rubricToHTML(rubric[rubric$Criteria == i,], highlight = 2)
+		rubricToHTML(rubric, highlight = 2)
 	)
-	feedback[[i]][['low-summary']] <- paste0(
+	fb[['low-summary']] <- paste0(
 		feedback[[i]][['low-summary']], '\n',
-		rubricToHTML(rubric[rubric$Criteria == i,], highlight = 1)
+		rubricToHTML(rubric, highlight = 1)
 	)
+	
+	return(fb)
+}
+
+# Add rubric to feedback
+for(i in names(domains)) {
+	if(!is.null(domains[[i]])) {
+		for(j in domains[[i]]) {
+			feedback[[i]][[j]] <- addRubric(feedback[[i]][[j]], 
+											rubric[rubric$SubCriteria == j,])
+		}
+	} else {
+		feedback[[i]] <- addRubric(feedback[[i]], rubric[rubric$Criteria == i,])
+	}
 }
 
 json$domains <- list()
