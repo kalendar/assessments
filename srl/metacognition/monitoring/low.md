@@ -1,6 +1,6 @@
 ## Monitoring
 
-Monitoring is one aspect of metacognition. Your responses to the SRL survey suggest that you **do not frequently** monitor your learning. That is, you do not typically keep track of how well you learned or performed a task. You also might not be aware of things that are challenging, or when you are not performing at a desired level. Becoming more aware of your thinking can let you know when and how you might need to change up your study approaches to improve your learning.
+Monitoring is one aspect of metacognition. Your responses to the SRL survey suggest that you **do not frequently** monitor your learning. That is, you do not typically keep track of how well you learned or performed a task. You also might not be aware of things that are challenging, or times when you are not performing at a desired level. Becoming more aware of your thinking can let you know when and how you might need to change up your study approaches to improve your learning.
 
 The following two scenarios illustrate the value of effective self-monitoring:
 
