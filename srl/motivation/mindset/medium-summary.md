@@ -1,4 +1,4 @@
-Your SRL survey results indicate that you think like someone with a **mixed** mindset: At times you believe that intelligence can be changed with effort (a **growth** mindset) but sometimes you have a **fixed** mindset (believing intelligence cannot change, even with effort). Because your mindset influences your behavior, it is important to focus on developing a growth mindset. 
+Your SRL survey results indicate that you think like someone with a **mixed** mindset: At times you believe that intelligence can be changed with effort (a **growth** mindset) but sometimes you have a **fixed** mindset (a belief intelligence cannot change, even with effort). Because your mindset influences your behavior, it is important to focus on developing a growth mindset. 
 
 To develop a solid growth mindset:
 
