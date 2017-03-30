@@ -2,7 +2,7 @@ The results from the survey indicate that you **sometimes** use strategies to ma
 
 These **time management strategies** are quite useful:
 
-1.	Set aside regular times to study on *multiple days* in advance of a due date, and stick to your schedule.
+1.	Set aside regular times to study on *multiple days* in advance of a due date and stick to your schedule.
 2.	Prioritize tasks based on the most important things you need to study, for example, study the most difficult things first. 
 3.	Use a calendar to remind yourself of upcoming assignments and to make you aware of other activities that could conflict with your study schedule.
 
