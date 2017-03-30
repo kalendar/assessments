@@ -10,4 +10,4 @@ Like many students, Steven studied for tests in a fairly narrow way. He tended t
 
 **Everyone** can benefit from learning new ways to learn--it just comes down to finding out what they are and how to use them. Click on the **Learn**, **See**, and **Do** buttons to develop your repertoire of learning strategies. 
 
- ## Your Survey Responses
+ ##Your Survey Responses
