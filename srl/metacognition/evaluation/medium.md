@@ -1,6 +1,6 @@
 ## Evaluation
 
-Evaluation is one aspect of metacognition. Your responses to the SRL survey suggest that **occasionally evaluate** your learning, meaning that at times you will figure out how well you learned, what worked well, and how you can improve, but you do not do these things consistently. Being a consistent self-evaluator can help you avoid  mistakes and let you know when you need to adjust or change. 
+Evaluation is one aspect of metacognition. Your responses to the SRL survey suggest that you **occasionally evaluate** your learning, meaning that at times you will figure out how well you learned, what worked well, and how you can improve, but you do not do these things consistently. Being a consistent self-evaluator can help you avoid  mistakes and let you know when you need to adjust or change. 
 
 The following scenario illustrates how inconsistent self-evaluation can negatively impact learning:
 

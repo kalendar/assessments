@@ -1,6 +1,6 @@
 ## Metacognition
 
-Students who are successful in college will often use their planning, monitoring, and evaluation **metacognitive skills**. The most important thing about metacognitive skills is that they help students stay aware of and take control over how they approach and react to learning tasks.
+Students who are successful in college often use metacognitive skills including planning, monitoring, and evaluation. Metacognitive skills are important because they help students stay aware of and take control over how they approach and react to learning tasks.
 
 Your metacognition score is in the **high range,** suggesting that you have a strong set of the metacognitive skills that are necessary to succeed in college-level work. You might be ready to up your game by using some sophisticated metacognitive strategies that involve the deep processing of information.
 

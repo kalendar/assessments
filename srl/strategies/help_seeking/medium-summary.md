@@ -4,6 +4,6 @@ Some **help-seeking strategies** that you might want to consider include the fol
 
 1.	Identify and write down the specific things that give you trouble, and ask your advisor for suggestions for getting assistance.
 2.	At the start of a course, ask your teacher and advisor about the best ways to contact them (e.g., office hours, email, course website, phone call).
-3.	Advocate for yourself--be persistent if your first attempt to get help does not get a response.
+3. Advocate for yourself -- be persistent if your first attempt to get help is not successful.
 
 Click on the **More Info** button to learn even more. 

@@ -1,6 +1,6 @@
 ## Strategies for Managing Understanding & Learning
 
-Students who perform well in college use a variety of learning strategies to **understand** new material. A diverse collection of study strategies is valuable because different subjects require different approaches to learning: One course might lend itself to writing summaries of key points from a lesson in your own words, while in another it's most useful to create concept maps to organize information. The SRL survey showed that you **occasionally** use different types of strategies to help you learn and remember information (see your responses below). You might not consistently use the most effective strategies, or perhaps, like many people, you have a limited repertoire. 
+Students who perform well in college use a variety of learning strategies to **understand** new material. A diverse collection of study strategies is valuable because different subjects require different approaches to learning: One course might lend itself to writing summaries of key points from a lesson in your own words, while in another it may be more useful to create concept maps to organize information. The SRL survey showed that you **occasionally** use different types of strategies to help you learn and remember information (see your responses below). You might not consistently use the most effective strategies, or perhaps, like many people, you have a limited repertoire. 
 
 This scenario illustrates how using different strategies can help you more easily understand and remember information:
 
@@ -10,4 +10,4 @@ Like many students, Steven studied for tests in a fairly narrow way. He tended t
 
 **Everyone** can benefit from learning new ways to learn--it just comes down to finding out what they are and how to use them. Click on the **Learn**, **See**, and **Do** buttons to develop your repertoire of learning strategies. 
 
- ## Your Survey Responses
+## Your Survey Responses
