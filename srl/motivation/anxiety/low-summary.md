@@ -1,4 +1,4 @@
-Your score for test anxiety is **high**. This suggests that when doing your schoolwork or taking an exam, you often feel uncomfortable or worry a lot about how you will perform. High levels of test anxiety can impair your performance, so you might want to learn new strategies for managing it. 
+Your score for test anxiety was **high**. This suggests that when doing your schoolwork or taking an exam, you often feel uncomfortable or worry a lot about how you will perform. High levels of test anxiety can impair your performance, so you might want to learn new strategies for managing it. 
 
 To lower your test anxiety, you can:
 
