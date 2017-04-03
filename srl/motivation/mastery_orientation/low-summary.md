@@ -1,4 +1,4 @@
-Your score for mastery orientation is **low**. It seems that you don't typically enjoy learning in school and may not see how schoolwork is relevant to your life. If you work hard at school, it is probably for reasons unrelated to the joy of learning.
+Your score for mastery orientation was **low**. It seems that you don't typically enjoy learning in school and may not see how schoolwork is relevant to your life. If you work hard at school, it is probably for reasons unrelated to the joy of learning.
 
 To enhance mastery-oriented thinking (and to avoid performance-oriented thinking): 
 
