@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="http://srl.daacs.net/css/bootstrap.min.css">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/zWuyOJd90Ug?list=PLz6X7eB9XUp3fUcvexy8n9mAok2LWKtpl"></iframe></div>
+<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://player.vimeo.com/video/207329812"></iframe></div>
 
 <div class="row">
          <div class="col-lg-12">
