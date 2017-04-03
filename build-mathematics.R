@@ -130,8 +130,8 @@ json <- list(
 	label = "Mathematics",
 	scoringType = 'AVERAGE',
 	startingDifficulty = 'MEDIUM',
-	maxTakenGroups = 2,
-	minTakenGroups = 2,
+	maxTakenGroups = 4,
+	minTakenGroups = 3,
 	numQuestionsPerGroup = 6
 )
 

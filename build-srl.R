@@ -53,21 +53,10 @@ grit.levels <- c('Not at All Like Me', 'Not Much Like Me', 'Somewhat Like Me',
 
 feedback <- parseMarkdown('srl')
 
-# TODO: This is only necessary until multi-tiered feedback is functional
-# Collapse secondary factors to primary
-# for(i in seq_len(length(feedback))) {
-# 	if(is.list(feedback[[i]])) {
-# 		for(j in seq_len(length(feedback[[i]]))) {
-# 			if(is.list(feedback[[i]][[j]])) {
-# 				#print(names(feedback[[i]])[j])
-# 				feedback[[names(feedback[[i]])[j]]] <- feedback[[i]][[j]]
-# 			}
-# 		}
-# 	}
-# }
 
 ##### Build the JSON document
 
+items.excluded <- items[(items$SecondaryFactor %in% exclude.domains),]
 items <- items[!(items$SecondaryFactor %in% exclude.domains),]
 
 json <- list(
@@ -93,7 +82,7 @@ json$overallRubric <- list(
 		MEDIUM = paste0('[', floor((nrow(items) * 4) / 3), '.0,',
 						floor((nrow(items) * 4) / 3*2), '.0)'),
 		HIGH = paste0('[', floor((nrow(items) * 4) / 3 * 2), '.0,',
-					  ceiling((nrow(items) * 4)), '.0]')
+					  ceiling(( nrow(items) * 4 + nrow(items.excluded) * 4 )), '.0]')
 	),
 	supplementTable = list(
 		list(
@@ -132,12 +121,19 @@ for(d1 in domains1) {
 	json$domains[[((length(json$domains) + 1))]] <- fb
 }
 
+feedback.grit <- list('overview' = '',
+					  'low' = '', 'low-summary' = '',
+					  'medium' = '', 'medium-summary' = '',
+					  'high' = '', 'high-summary' = '')
+json$domains[[((length(json$domains) + 1))]] <- buildDomainFeedback(feedback.grit,
+					'grit', items.excluded[items.excluded$PrimaryFactor == 'grit',],
+					domainType = 'ANALYSIS', includeCompletionScoreMap = TRUE)
 
 ##### Items
 
 items.agreement <- items[items$AnchorType == 'Agreement',]
 items.frequency <- items[items$AnchorType == 'Frequency',]
-items.grit <- items[items$AnchorType == 'Grit',]
+items.grit <- items.excluded[items.excluded$AnchorType == 'Grit',]
 
 buildAnswers <- function(responses) {
 	ans <- list()
@@ -187,7 +183,7 @@ table(items$AnchorType)
 itemGroups <- list()
 itemGroups[1:2] <- buildItemGroups(items.agreement, 2, agreement.levels)
 itemGroups[3:5] <- buildItemGroups(items.frequency, 3, frequency.levels)
-#itemGroups[6] <- buildItemGroups(items.grit, 1, grit.levels)
+itemGroups[6] <- buildItemGroups(items.grit, 1, grit.levels)
 
 json$itemGroups <- list()
 for(i in seq_len(length(itemGroups))) {
