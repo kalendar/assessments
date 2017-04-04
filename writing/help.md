@@ -9,7 +9,7 @@ You received information about your learning skills after you took the self-regu
 **Content**
 
 * the essay uses the survey results and feedback to create a detailed summary of your strengths and weaknesses as a learner,
-* contains suggestions you are committed to using,
+* contains suggestions for improvements in your self-regulated learning that you are committed to using, and
 * explains your choices of suggestions in terms of your survey results and feedback.
 
 **Organization**
@@ -24,7 +24,7 @@ You received information about your learning skills after you took the self-regu
 **Connecting Ideas Within Paragraphs**
 
 * sentences are linked together in a way that allows the reader to see the relationship between the ideas or information in one sentence and those in another sentence.
-* uses adverbs (e.g., similarly, also, therefore), relative pronouns (e.g., who, that, which), and conjunctions (e.g., and, or, while, whereas) to link sentences and ideas together.
+* uses adverbs (e.g., similarly, also, therefore), relative pronouns (e.g., who, that, which), conjunctions (e.g., and, or, while, whereas), and the repetitionof key words, as needed, to link sentences and ideas together.
 
 **Sentences**
 
