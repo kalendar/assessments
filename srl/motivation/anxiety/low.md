@@ -1,4 +1,4 @@
-## Test Anxiety
+## Anxiety
 
 Test anxiety is experienced as negative thoughts (worries, fears), uncomfortable and unpleasant feelings (anxiety), and physical reactions (increased pulse rate). The SRL survey results suggest that you have a **high level of test anxiety**. This means that you tend to worry a lot about how you will perform on exams. You might also feel on edge or have trouble focusing on schoolwork because of worrying. 
 

@@ -1,4 +1,4 @@
-## Test Anxiety
+## Anxiety
 
 Test anxiety is experienced as negative thoughts (worries, fears), uncomfortable and unpleasant feelings (anxiety), and physical reactions (increased pulse rate). The SRL survey results suggest that you have a **medium level of test anxiety**. This means that from time to time you might worry about how you will perform on a test. Your anxiety might also sometimes cause you to feel on edge, or might make it hard for you to focus on your work. 
 
