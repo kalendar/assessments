@@ -23,10 +23,9 @@ rubric <- as.data.frame(rubric)
 feedback <- parseMarkdown('writing')
 # domains <- c('connecting_ideas', 'content', 'conventions', 'organization', 'paragraphs', 'sentences')
 
-domains <- list(content = c('summary','suggestions','explanation'), 
+domains <- list(content = c('summary','suggestions'), 
 				organization = c('structure','transitions'), 
-				paragraphs = c(), 
-				connecting_ideas = c('ideas', 'links'),
+				paragraphs = c('ideas','cohesion'), 
 				sentences = c('correct','complexity'),
 				conventions = c())
 
