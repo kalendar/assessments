@@ -51,7 +51,7 @@
       "id": "content",
       "domainType": "SCORING",
       "label": "Content",
-      "content": "",
+      "content": "<h2>Additional Resources</h2>\n\n<ul>\n<li>Module 3: 3.03 Paragraph Purposes: <a href=\"https://lrps.wgu.edu/provision/110992127\">https://lrps.wgu.edu/provision/110992127</a></li>\n<li>Module 3: 3.06 Using Examples: <a href=\"https://lrps.wgu.edu/provision/111965535\">https://lrps.wgu.edu/provision/111965535</a><c2><a0></li>\n</ul>\n",
       "rubric": {
         "completionScoreMap": {},
         "supplementTable": [
@@ -77,7 +77,7 @@
           "id": "summary",
           "domainType": "SCORING",
           "label": "Summary",
-          "content": "<h2>Additional Resources</h2>\n\n<p>We suggest starting with a review of the writing process. The following two resourses provide an overview:</p>\n\n<ul>\n<li>Writing Process Overview: <a href=\"http://owl.excelsior.edu/writing-process/writing-process-overview/\">http://owl.excelsior.edu/writing-process/writing-process-overview/</a></li>\n<li>The Writing Process in Review: <a href=\"http://owl.excelsior.edu/writing-process/writing-process-in-review/\">http://owl.excelsior.edu/writing-process/writing-process-in-review/</a></li>\n</ul>\n\n<p>Here are additional resources about more specific aspects of writing such as finding a topic, writing a thesis, doing research, evaluating and using sources, argumentation, drafting, and others:</p>\n\n<ul>\n<li>Prewriting Strategies: <a href=\"http://owl.excelsior.edu/writing-process/prewriting-strategies/\">http://owl.excelsior.edu/writing-process/prewriting-strategies/</a></li>\n<li>Audience Awareness: <a href=\"http://owl.excelsior.edu/writing-process/audience-awareness/\">http://owl.excelsior.edu/writing-process/audience-awareness/</a></li>\n<li>Finding Your Voice: <a href=\"http://owl.excelsior.edu/writing-process/finding-your-voice/\">http://owl.excelsior.edu/writing-process/finding-your-voice/</a></li>\n<li>The Research Process: <a href=\"http://owl.excelsior.edu/research-and-citations/research-process/\">http://owl.excelsior.edu/research-and-citations/research-process/</a></li>\n<li>Assignment Analysis: <a href=\"http://owl.excelsior.edu/research-and-citations/assignment-analysis/\">http://owl.excelsior.edu/research-and-citations/assignment-analysis/</a></li>\n<li>Narrowing and Developing: <a href=\"http://owl.excelsior.edu/research-and-citations/narrowing-and-developing/\">http://owl.excelsior.edu/research-and-citations/narrowing-and-developing/</a></li>\n<li>Research Strategies: <a href=\"http://owl.excelsior.edu/research-and-citations/research-strategies/\">http://owl.excelsior.edu/research-and-citations/research-strategies/</a></li>\n<li>Thesis or Focus: <a href=\"http://owl.excelsior.edu/research-and-citations/thesis-or-focus/\">http://owl.excelsior.edu/research-and-citations/thesis-or-focus/</a> </li>\n<li>Parts of a Thesis Sentence: <a href=\"http://owl.excelsior.edu/writing-process/thesis-sentence/\">http://owl.excelsior.edu/writing-process/thesis-sentence/</a></li>\n<li>Note-taking: <a href=\"http://owl.excelsior.edu/research-and-citations/note-taking/\">http://owl.excelsior.edu/research-and-citations/note-taking/</a></li>\n<li>Outlining: <a href=\"http://owl.excelsior.edu/research-and-citations/outlining/\">http://owl.excelsior.edu/research-and-citations/outlining/</a></li>\n<li>Drafting and Integrating: <a href=\"http://owl.excelsior.edu/research-and-citations/drafting-and-integrating/\">http://owl.excelsior.edu/research-and-citations/drafting-and-integrating/</a></li>\n<li>Evaluating Sources: <a href=\"http://owl.excelsior.edu/research-and-citations/evaluating-sources/\">http://owl.excelsior.edu/research-and-citations/evaluating-sources/</a></li>\n<li>Argument and Critical Thinking: <a href=\"http://owl.excelsior.edu/argument-and-critical-thinking/\">http://owl.excelsior.edu/argument-and-critical-thinking/</a></li>\n</ul>\n",
+          "content": "<h2>Additional Resources</h2>\n\n<ul>\n<li>Module 3: 3.03 Paragraph Purposes: <a href=\"https://lrps.wgu.edu/provision/110992127\">https://lrps.wgu.edu/provision/110992127</a></li>\n<li>Module 3: 3.06 Using Examples: <a href=\"https://lrps.wgu.edu/provision/111965535\">https://lrps.wgu.edu/provision/111965535</a><c2><a0></li>\n</ul>\n",
           "rubric": {
             "completionScoreMap": {},
             "supplementTable": [
@@ -103,7 +103,7 @@
           "id": "suggestions",
           "domainType": "SCORING",
           "label": "Suggestions",
-          "content": "<h2>Additional Resources</h2>\n\n<p>We suggest starting with a review of the writing process. The following two recourses provide an overview:</p>\n\n<ul>\n<li>Writing Process Overview: <a href=\"http://owl.excelsior.edu/writing-process/writing-process-overview/\">http://owl.excelsior.edu/writing-process/writing-process-overview/</a></li>\n<li>The Writing Process in Review: <a href=\"http://owl.excelsior.edu/writing-process/writing-process-in-review/\">http://owl.excelsior.edu/writing-process/writing-process-in-review/</a></li>\n</ul>\n\n<p>Here are additional resources about more specific aspects of writing such as finding a topic, writing a thesis, doing research, evaluating and using sources, argumentation, drafting, and others:</p>\n\n<ul>\n<li>Prewriting Strategies: <a href=\"http://owl.excelsior.edu/writing-process/prewriting-strategies/\">http://owl.excelsior.edu/writing-process/prewriting-strategies/</a></li>\n<li>Audience Awareness: <a href=\"http://owl.excelsior.edu/writing-process/audience-awareness/\">http://owl.excelsior.edu/writing-process/audience-awareness/</a></li>\n<li>Finding Your Voice: <a href=\"http://owl.excelsior.edu/writing-process/finding-your-voice/\">http://owl.excelsior.edu/writing-process/finding-your-voice/</a></li>\n<li>The Research Process: <a href=\"http://owl.excelsior.edu/research-and-citations/research-process/\">http://owl.excelsior.edu/research-and-citations/research-process/</a></li>\n<li>Assignment Analysis: <a href=\"http://owl.excelsior.edu/research-and-citations/assignment-analysis/\">http://owl.excelsior.edu/research-and-citations/assignment-analysis/</a></li>\n<li>Narrowing and Developing: <a href=\"http://owl.excelsior.edu/research-and-citations/narrowing-and-developing/\">http://owl.excelsior.edu/research-and-citations/narrowing-and-developing/</a></li>\n<li>Research Strategies: <a href=\"http://owl.excelsior.edu/research-and-citations/research-strategies/\">http://owl.excelsior.edu/research-and-citations/research-strategies/</a></li>\n<li>Thesis or Focus: <a href=\"http://owl.excelsior.edu/research-and-citations/thesis-or-focus/\">http://owl.excelsior.edu/research-and-citations/thesis-or-focus/</a> </li>\n<li>Parts of a Thesis Sentence: <a href=\"http://owl.excelsior.edu/writing-process/thesis-sentence/\">http://owl.excelsior.edu/writing-process/thesis-sentence/</a></li>\n<li>Note-taking: <a href=\"http://owl.excelsior.edu/research-and-citations/note-taking/\">http://owl.excelsior.edu/research-and-citations/note-taking/</a></li>\n<li>Outlining: <a href=\"http://owl.excelsior.edu/research-and-citations/outlining/\">http://owl.excelsior.edu/research-and-citations/outlining/</a></li>\n<li>Drafting and Integrating: <a href=\"http://owl.excelsior.edu/research-and-citations/drafting-and-integrating/\">http://owl.excelsior.edu/research-and-citations/drafting-and-integrating/</a></li>\n<li>Evaluating Sources: <a href=\"http://owl.excelsior.edu/research-and-citations/evaluating-sources/\">http://owl.excelsior.edu/research-and-citations/evaluating-sources/</a></li>\n<li>Argument and Critical Thinking: <a href=\"http://owl.excelsior.edu/argument-and-critical-thinking/\">http://owl.excelsior.edu/argument-and-critical-thinking/</a></li>\n</ul>\n",
+          "content": "<h2>Additional Resources</h2>\n\n<ul>\n<li>Module 3: 3.03 Paragraph Purposes: <a href=\"https://lrps.wgu.edu/provision/110992127\">https://lrps.wgu.edu/provision/110992127</a></li>\n<li>Module 3: 3.06 Using Examples: <a href=\"https://lrps.wgu.edu/provision/111965535\">https://lrps.wgu.edu/provision/111965535</a><c2><a0></li>\n</ul>\n",
           "rubric": {
             "completionScoreMap": {},
             "supplementTable": [
@@ -131,7 +131,7 @@
       "id": "organization",
       "domainType": "SCORING",
       "label": "Organization",
-      "content": "",
+      "content": "<h2>Additional Resources</h2>\n\n<ul>\n<li>Module 3: 3.02 Sentence, Paragraph, Academic Paper: <a href=\"https://lrps.wgu.edu/provision/110993011\">https://lrps.wgu.edu/provision/110993011</a><c2><a0></li>\n<li>Module 3.07: Using Transitions: <a href=\"https://lrps.wgu.edu/provision/104443574\">https://lrps.wgu.edu/provision/104443574</a></li>\n</ul>\n",
       "rubric": {
         "completionScoreMap": {},
         "supplementTable": [
@@ -157,7 +157,7 @@
           "id": "structure",
           "domainType": "SCORING",
           "label": "Structure",
-          "content": "<h2>Additional Resources</h2>\n\n<p>These resources provide information about organizing your writing:</p>\n\n<ul>\n<li>Introductions and Conclusions: <a href=\"http://owl.excelsior.edu/writing-process/introductions-and-conclusions/\">http://owl.excelsior.edu/writing-process/introductions-and-conclusions/</a></li>\n<li>Essay Writing: <a href=\"http://owl.excelsior.edu/writing-process/essay-writing/\">http://owl.excelsior.edu/writing-process/essay-writing/</a></li>\n<li>Rhetorical Styles: <a href=\"http://owl.excelsior.edu/rhetorical-styles/\">http://owl.excelsior.edu/rhetorical-styles/</a></li>\n<li>Organizing Your Argument: <a href=\"http://owl.excelsior.edu/argument-and-critical-thinking/organizing-your-argument/\">http://owl.excelsior.edu/argument-and-critical-thinking/organizing-your-argument/</a></li>\n<li>Paragraphing: <a href=\"http://owl.excelsior.edu/writing-process/paragraphing/\">http://owl.excelsior.edu/writing-process/paragraphing/</a></li>\n</ul>\n",
+          "content": "<h2>Additional Resources</h2>\n\n<ul>\n<li>Module 3: 3.02 Sentence, Paragraph, Academic Paper: <a href=\"https://lrps.wgu.edu/provision/110993011\">https://lrps.wgu.edu/provision/110993011</a><c2><a0></li>\n<li>Module 3.07: Using Transitions: <a href=\"https://lrps.wgu.edu/provision/104443574\">https://lrps.wgu.edu/provision/104443574</a></li>\n</ul>\n",
           "rubric": {
             "completionScoreMap": {},
             "supplementTable": [
@@ -183,7 +183,7 @@
           "id": "transitions",
           "domainType": "SCORING",
           "label": "Transitions",
-          "content": "<h2>Additional Resources</h2>\n\n<p>These resources provide information about organizing your writing:</p>\n\n<ul>\n<li>Introductions and Conclusions: <a href=\"http://owl.excelsior.edu/writing-process/introductions-and-conclusions/\">http://owl.excelsior.edu/writing-process/introductions-and-conclusions/</a></li>\n<li>Essay Writing: <a href=\"http://owl.excelsior.edu/writing-process/essay-writing/\">http://owl.excelsior.edu/writing-process/essay-writing/</a></li>\n<li>Rhetorical Styles: <a href=\"http://owl.excelsior.edu/rhetorical-styles/\">http://owl.excelsior.edu/rhetorical-styles/</a></li>\n<li>Organizing Your Argument: <a href=\"http://owl.excelsior.edu/argument-and-critical-thinking/organizing-your-argument/\">http://owl.excelsior.edu/argument-and-critical-thinking/organizing-your-argument/</a></li>\n<li>Paragraphing: <a href=\"http://owl.excelsior.edu/writing-process/paragraphing/\">http://owl.excelsior.edu/writing-process/paragraphing/</a></li>\n</ul>\n",
+          "content": "<h2>Additional Resources</h2>\n\n<ul>\n<li>Module 3: 3.02 Sentence, Paragraph, Academic Paper: <a href=\"https://lrps.wgu.edu/provision/110993011\">https://lrps.wgu.edu/provision/110993011</a><c2><a0></li>\n<li>Module 3.07: Using Transitions: <a href=\"https://lrps.wgu.edu/provision/104443574\">https://lrps.wgu.edu/provision/104443574</a></li>\n</ul>\n",
           "rubric": {
             "completionScoreMap": {},
             "supplementTable": [
@@ -211,7 +211,7 @@
       "id": "paragraphs",
       "domainType": "SCORING",
       "label": "Paragraphs",
-      "content": "<h2>Additional Resources</h2>\n\n<p>These resources provide strategies for using  paragraphs in your writing:</p>\n\n<ul>\n<li>Parts of a Thesis Sentence: <a href=\"http://owl.excelsior.edu/writing-process/thesis-sentence/=\">http://owl.excelsior.edu/writing-process/thesis-sentence/=</a></li>\n<li>Paragraphing: <a href=\"http://owl.excelsior.edu/writing-process/paragraphing/\">http://owl.excelsior.edu/writing-process/paragraphing/</a></li>\n<li>Thesis or Focus: <a href=\"http://owl.excelsior.edu/research-and-citations/thesis-or-focus/\">http://owl.excelsior.edu/research-and-citations/thesis-or-focus/</a></li>\n<li>Argumentative Thesis: <a href=\"http://owl.excelsior.edu/argument-and-critical-thinking/argumentative-thesis/\">http://owl.excelsior.edu/argument-and-critical-thinking/argumentative-thesis/</a></li>\n</ul>\n",
+      "content": "<h2>Additional Resources</h2>\n\n<ul>\n<li>Module 3: 3.04 Paragraph Elements: <a href=\"https://lrps.wgu.edu/provision/111966817\">https://lrps.wgu.edu/provision/111966817</a><c2><a0></li>\n<li>Module 3: 3.07: Using Transitions: <a href=\"https://lrps.wgu.edu/provision/104443574\">https://lrps.wgu.edu/provision/104443574</a></li>\n<li>Module 6: 6.10: Conjunctions and Interjections: <a href=\"https://lrps.wgu.edu/provision/104443855\">https://lrps.wgu.edu/provision/104443855</a></li>\n</ul>\n",
       "rubric": {
         "completionScoreMap": {},
         "supplementTable": [
@@ -237,7 +237,7 @@
           "id": "ideas",
           "domainType": "SCORING",
           "label": "Ideas",
-          "content": "",
+          "content": "<h2>Additional Resources</h2>\n\n<ul>\n<li>Module 3: 3.04 Paragraph Elements: <a href=\"https://lrps.wgu.edu/provision/111966817\">https://lrps.wgu.edu/provision/111966817</a><c2><a0></li>\n<li>Module 3: 3.07: Using Transitions: <a href=\"https://lrps.wgu.edu/provision/104443574\">https://lrps.wgu.edu/provision/104443574</a></li>\n<li>Module 6: 6.10: Conjunctions and Interjections: <a href=\"https://lrps.wgu.edu/provision/104443855\">https://lrps.wgu.edu/provision/104443855</a></li>\n</ul>\n",
           "rubric": {
             "completionScoreMap": {},
             "supplementTable": [
@@ -263,7 +263,7 @@
           "id": "cohesion",
           "domainType": "SCORING",
           "label": "Cohesion",
-          "content": "",
+          "content": "<h2>Additional Resources</h2>\n\n<ul>\n<li>Module 3: 3.04 Paragraph Elements: <a href=\"https://lrps.wgu.edu/provision/111966817\">https://lrps.wgu.edu/provision/111966817</a><c2><a0></li>\n<li>Module 3: 3.07: Using Transitions: <a href=\"https://lrps.wgu.edu/provision/104443574\">https://lrps.wgu.edu/provision/104443574</a></li>\n<li>Module 6: 6.10: Conjunctions and Interjections: <a href=\"https://lrps.wgu.edu/provision/104443855\">https://lrps.wgu.edu/provision/104443855</a></li>\n</ul>\n",
           "rubric": {
             "completionScoreMap": {},
             "supplementTable": [
@@ -291,7 +291,7 @@
       "id": "sentences",
       "domainType": "SCORING",
       "label": "Sentences",
-      "content": "",
+      "content": "<h2>Additional Resources</h2>\n\n<ul>\n<li>Module 5: 5.24: Sentence Fragments <a href=\"https://lrps.wgu.edu/provision/83784218\">https://lrps.wgu.edu/provision/83784218</a></li>\n<li>Module 5: 5.12: Common Errors in Compound Sentences: Run-On Sentences <a href=\"https://lrps.wgu.edu/provision/83784069\">https://lrps.wgu.edu/provision/83784069</a></li>\n<li>Module 6: 6.22: Subject-Verb Agreement: <a href=\"https://lrps.wgu.edu/provision/83784345\">https://lrps.wgu.edu/provision/83784345</a> </li>\n<li>Module 5: 5.19 Sentence Variety:<c2><a0><a href=\"https://lrps.wgu.edu/provision/111965604\">https://lrps.wgu.edu/provision/111965604</a></li>\n</ul>\n",
       "rubric": {
         "completionScoreMap": {},
         "supplementTable": [
@@ -317,7 +317,7 @@
           "id": "correct",
           "domainType": "SCORING",
           "label": "Correct",
-          "content": "<h2>Additional Resources</h2>\n\n<p>To get started with grammar and sentences, visit this <strong>Grammar Essentials</strong> website: <a href=\"http://owl.excelsior.edu/grammar-essentials/\">http://owl.excelsior.edu/grammar-essentials/</a></p>\n\n<p>For additional information on editing your writing, visit:</p>\n\n<ul>\n<li>Revising and Editing Process: <a href=\"http://owl.excelsior.edu/writing-process/revising-and-editing/\">http://owl.excelsior.edu/writing-process/revising-and-editing/</a></li>\n<li>Revising and Editing a Research Paper: <a href=\"http://owl.excelsior.edu/research-and-citations/revising-and-editing-a-research-paper/\">http://owl.excelsior.edu/research-and-citations/revising-and-editing-a-research-paper/</a></li>\n</ul>\n",
+          "content": "<h2>Additional Resources</h2>\n\n<ul>\n<li>Module 5: 5.24: Sentence Fragments <a href=\"https://lrps.wgu.edu/provision/83784218\">https://lrps.wgu.edu/provision/83784218</a></li>\n<li>Module 5: 5.12: Common Errors in Compound Sentences: Run-On Sentences <a href=\"https://lrps.wgu.edu/provision/83784069\">https://lrps.wgu.edu/provision/83784069</a></li>\n<li>Module 6: 6.22: Subject-Verb Agreement: <a href=\"https://lrps.wgu.edu/provision/83784345\">https://lrps.wgu.edu/provision/83784345</a> </li>\n<li>Module 5: 5.19 Sentence Variety:<c2><a0><a href=\"https://lrps.wgu.edu/provision/111965604\">https://lrps.wgu.edu/provision/111965604</a></li>\n</ul>\n",
           "rubric": {
             "completionScoreMap": {},
             "supplementTable": [
@@ -343,7 +343,7 @@
           "id": "complexity",
           "domainType": "SCORING",
           "label": "Complexity",
-          "content": "<h2>Additional Resources</h2>\n\n<p>To get started with grammar and sentences, visit this <strong>Grammar Essentials</strong> website: <a href=\"http://owl.excelsior.edu/grammar-essentials/\">http://owl.excelsior.edu/grammar-essentials/</a></p>\n\n<p>For additional information on editing your writing, visit:</p>\n\n<ul>\n<li>Revising and Editing Process: <a href=\"http://owl.excelsior.edu/writing-process/revising-and-editing/\">http://owl.excelsior.edu/writing-process/revising-and-editing/</a></li>\n<li>Revising and Editing a Research Paper: <a href=\"http://owl.excelsior.edu/research-and-citations/revising-and-editing-a-research-paper/\">http://owl.excelsior.edu/research-and-citations/revising-and-editing-a-research-paper/</a></li>\n</ul>\n",
+          "content": "<h2>Additional Resources</h2>\n\n<ul>\n<li>Module 5: 5.24: Sentence Fragments <a href=\"https://lrps.wgu.edu/provision/83784218\">https://lrps.wgu.edu/provision/83784218</a></li>\n<li>Module 5: 5.12: Common Errors in Compound Sentences: Run-On Sentences <a href=\"https://lrps.wgu.edu/provision/83784069\">https://lrps.wgu.edu/provision/83784069</a></li>\n<li>Module 6: 6.22: Subject-Verb Agreement: <a href=\"https://lrps.wgu.edu/provision/83784345\">https://lrps.wgu.edu/provision/83784345</a> </li>\n<li>Module 5: 5.19 Sentence Variety:<c2><a0><a href=\"https://lrps.wgu.edu/provision/111965604\">https://lrps.wgu.edu/provision/111965604</a></li>\n</ul>\n",
           "rubric": {
             "completionScoreMap": {},
             "supplementTable": [
@@ -371,7 +371,7 @@
       "id": "conventions",
       "domainType": "SCORING",
       "label": "Conventions",
-      "content": "<h2>Additional Resources</h2>\n\n<p>To work on <strong>spelling</strong>, <strong>punctuation</strong>, and <strong>capitalization</strong>, visit these websites:</p>\n\n<ul>\n<li>Grammar Essentials: <a href=\"http://owl.excelsior.edu/grammar-essentials/\">http://owl.excelsior.edu/grammar-essentials/</a></li>\n<li>Revising and Editing Process: <a href=\"http://owl.excelsior.edu/writing-process/revising-and-editing/\">http://owl.excelsior.edu/writing-process/revising-and-editing/</a></li>\n<li>Revising and Editing a Research Paper: <a href=\"http://owl.excelsior.edu/research-and-citations/revising-and-editing-a-research-paper/\">http://owl.excelsior.edu/research-and-citations/revising-and-editing-a-research-paper/</a></li>\n</ul>\n\n<p>For more information about <strong>academic conventions</strong>, visit:</p>\n\n<ul>\n<li>Documenting: <a href=\"http://owl.excelsior.edu/research-and-citations/documenting/\">http://owl.excelsior.edu/research-and-citations/documenting/</a></li>\n<li>Annotated Bibliographies: <a href=\"http://owl.excelsior.edu/research-and-citations/annotated-bibliographies/\">http://owl.excelsior.edu/research-and-citations/annotated-bibliographies/</a></li>\n<li>Literature Reviews: <a href=\"http://owl.excelsior.edu/research-and-citations/literature-reviews/\">http://owl.excelsior.edu/research-and-citations/literature-reviews/</a></li>\n<li>Avoiding Plagiarism: <a href=\"http://owl.excelsior.edu/plagiarism/\">http://owl.excelsior.edu/plagiarism/</a></li>\n</ul>\n",
+      "content": "<h2>Additional Resources</h2>\n\n<ul>\n<li>Module 6: 6.27 Commas: <a href=\"https://lrps.wgu.edu/provision/83784405\">https://lrps.wgu.edu/provision/83784405</a> </li>\n<li>Module 7: 7.04 Punctuation: <c2><a0><a href=\"https://lrps.wgu.edu/provision/111965880\">https://lrps.wgu.edu/provision/111965880</a></li>\n<li>Module 6: 6.02 Nouns and Pronouns: <c2><a0><a href=\"https://lrps.wgu.edu/provision/111965661\">https://lrps.wgu.edu/provision/111965661</a><c2><a0></li>\n</ul>\n",
       "rubric": {
         "completionScoreMap": {},
         "supplementTable": [

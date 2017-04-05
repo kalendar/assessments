@@ -9,6 +9,12 @@ if(!file.exists('build-writing.R')) {
 
 rm(list=ls(all=TRUE)) # Clean the environment before starting
 
+##### Comment out to use the default set of feedback. If present files with the
+##### given suffix will be used if present. If not present, the default feedback
+##### file will be used.
+suffix <- '-wgu'
+
+
 library(readxl)
 library(markdown)
 library(tools)
@@ -22,6 +28,25 @@ rubric <- as.data.frame(rubric)
 
 feedback <- parseMarkdown('writing')
 # domains <- c('connecting_ideas', 'content', 'conventions', 'organization', 'paragraphs', 'sentences')
+
+parseCustomFeedback <- function(fb) {
+	n <- names(fb)
+	for(i in n) {
+		if(is.list(fb[[i]])) {
+			fb[[i]] <- parseCustomFeedback(fb[[i]])
+		} else {
+			if(!is.null(fb[[paste0(i, suffix)]])) {
+				fb[[i]] <- fb[[paste0(i, suffix)]]
+			}
+		}
+	}
+	return(fb)
+}
+if(exists('suffix')) {
+	feedback <- parseCustomFeedback(feedback)
+} else {
+	suffix <- '' # We'll use this for the filename.
+}
 
 domains <- list(content = c('summary','suggestions'), 
 				organization = c('structure','transitions'), 
@@ -194,6 +219,6 @@ for(i in seq_along(domains)) {
 ##### Save JSON to file
 
 json.out <- jsonlite::toJSON(json, pretty = TRUE, auto_unbox = TRUE)
-cat(json.out, file = paste0('build/Writing.json'))
-cat(json.out, file = paste0('build/archive/Writing-', format(Sys.time(), format='%Y-%m-%d-%H-%M'), '.json'))
-file.edit('build/Writing.json')
+cat(json.out, file = paste0('build/Writing', suffix, '.json'))
+cat(json.out, file = paste0('build/archive/Writing', suffix, '-', format(Sys.time(), format='%Y-%m-%d-%H-%M'), '.json'))
+file.edit(paste0('build/Writing', suffix, '.json'))

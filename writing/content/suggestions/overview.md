@@ -1,6 +1,6 @@
 ## Additional Resources
 
-We suggest starting with a review of the writing process. The following two resourses provide an overview:
+We suggest starting with a review of the writing process. The following two recourses provide an overview:
 
 * Writing Process Overview: http://owl.excelsior.edu/writing-process/writing-process-overview/
 * The Writing Process in Review: http://owl.excelsior.edu/writing-process/writing-process-in-review/
