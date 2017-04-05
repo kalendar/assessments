@@ -21,14 +21,11 @@ Essays must be at least 350 words in order to be meaningfully scored. Please aim
 * the essay has a clear and logical organization,
 * uses transitions and linking words and phrases to guide readers through the discussion.
 
-**Paragraphs Focus on a Main Idea**
+**Paragraphs**
 
 * paragraphs consistently and clearly focus on a main idea or point.
-
-**Connecting Ideas Within Paragraphs**
-
-* sentences are linked together in a way that allows the reader to see the relationship between the ideas or information in one sentence and those in another sentence.
-* uses adverbs (e.g., similarly, also, therefore), relative pronouns (e.g., who, that, which), conjunctions (e.g., and, or, while, whereas), and the repetitionof key words, as needed, to link sentences and ideas together.
+* sentences within paragraphs are linked together in a way that allows the reader to see the relationship between the ideas or information in one sentence and those in another sentence.
+* adverbs (e.g., similarly, also, therefore), relative pronouns (e.g., who, that, which), conjunctions (e.g., and, or, while, whereas), and the repetition of key words link sentences and ideas togethe, as needed.
 
 **Sentences**
 
