@@ -12,7 +12,7 @@ rm(list=ls(all=TRUE)) # Clean the environment before starting
 ##### Comment out to use the default set of feedback. If present files with the
 ##### given suffix will be used if present. If not present, the default feedback
 ##### file will be used.
-suffix <- '-wgu'
+#suffix <- '-wgu'
 
 
 library(readxl)
