@@ -8,6 +8,8 @@ Essays must be at least 350 words in order to be meaningfully scored. Please aim
 
 * Which suggested strategies from the feedback are you committed to using this term? Explain why you are committed to using those strategies.
 
+<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://player.vimeo.com/video/212145509"></iframe></div>
+
 ### You will receive feedback about your writing according to the following criteria.
 
 **Content**
