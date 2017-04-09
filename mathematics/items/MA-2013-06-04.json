@@ -2,6 +2,7 @@
   "source": "MA-2013-06-04",
   "domain": "variables_and_equations",
   "difficulty": "MEDIUM",
+  "question": "What is the smallest value of x that makes the inequality below true?",
   "stem": "What is the smallest value of x that makes the inequality below true?<br/>\n$$ 0.5x - 18  (\\geq ) - 14 $$",
   "A": "2",
   "B": "8",

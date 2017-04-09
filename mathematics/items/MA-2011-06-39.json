@@ -2,6 +2,7 @@
   "source": "MA-2011-06-39",
   "domain": "word_problems",
   "difficulty": "HARD",
+  "question": "Which system of equations can be used to find the cost, in dollars, of each video game and each DVD at the store?",
   "stem": "Ken and Jerome went to the same electronics store. Ken bought 2 video games and 1 DVD for a total of $105. Jerome bought 1 video game and 4 DVDs for a total of $105. Each video game cost v dollars and each DVD cost d dollars. Which system of equations can be used to find the cost, in dollars, of each video game and each DVD at the store?",
   "A": "<i>v</i> + 2<i>d</i>=105<br/>\n<i>v</i> + 4<i>d</i>=105",
   "B": "2<i>v</i> + <i>d</i>=105<br/>\n4<i>v</i> + <i>d</i>=105",

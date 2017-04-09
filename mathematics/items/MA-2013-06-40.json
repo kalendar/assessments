@@ -2,6 +2,7 @@
   "source": "MA-2013-06-40",
   "domain": "geometry",
   "difficulty": "HARD",
+  "question": "Which of the following is closest to the length of  \\( \\overline{WZ} \\)?",
   "stem": "Square <i>WXYZ</i> is inscribed in circle <i>O</i>, which has a radius of 8 feet, as shown below.<br/>\n<img src='MA-2013-06-40.png'><br/>\nWhich of the following is closest to the length of  \\( \\overline{WZ} \\)?",
   "A": "8.0 feet",
   "B": "11.3 feet",

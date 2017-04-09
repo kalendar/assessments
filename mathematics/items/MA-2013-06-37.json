@@ -2,6 +2,7 @@
   "source": "MA-2013-06-37",
   "domain": "word_problems",
   "difficulty": "EASY",
+  "question": "Which of the following represents the relationship between d, the distance in miles walked by the student, and t, the amount of time in hours the student walked?",
   "stem": "The distance traveled by a student walking at a constant rate varies directly with the amount of time the student walks. The student walked \\( 1 \\frac{2}{3} \\) miles in \\( \\frac{2}{3} \\) hour. Which of the following represents the relationship between d, the distance in miles walked by the student, and t, the amount of time in hours the student walked? ",
   "A": "\\( d= (\\frac{5}{2})t \\)",
   "B": "\\( d= (\\frac{7}{3})t \\)",

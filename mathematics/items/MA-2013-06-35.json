@@ -2,6 +2,7 @@
   "source": "MA-2013-06-35",
   "domain": "variables_and_equations",
   "difficulty": "HARD",
+  "question": "Which of the following is equivalent to the expression below for all positive values of <i>x</i>?",
   "stem": "Which of the following is equivalent to the expression below for all positive values of <i>x</i>?\n$$ \\frac{( x^{2} + x -6)}{(x^{2} + 5x +6)} $$",
   "A": "-1",
   "B": "\\( -\\frac{6}{11} \\)",

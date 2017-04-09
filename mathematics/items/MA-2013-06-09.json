@@ -2,6 +2,7 @@
   "source": "MA-2013-06-09",
   "domain": "number_and_calculation",
   "difficulty": "EASY",
+  "question": "Which of the following is closest to the length of each edge of the cube?",
   "stem": "The volume of a cube is 231 cubic inches.<br/>\nWhich of the following is closest to the length of each edge of the cube?",
   "A": "16 inches",
   "B": "15 inches",

@@ -2,6 +2,7 @@
   "source": "MA-2013-06-27",
   "domain": "statistics",
   "difficulty": "HARD",
+  "question": "Which of the following is the greatest possible median number of miles driven between oil changes?",
   "stem": "The table below shows the ranges of the numbers of miles that 14 different cars were driven between oil changes.<br/>\n <img src='MA-2013-06-27.png'><br/>\nWhich of the following is the greatest possible median number of miles driven between oil changes?",
   "A": "10,000",
   "B": "7,000",

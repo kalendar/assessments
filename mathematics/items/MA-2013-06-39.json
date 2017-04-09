@@ -2,6 +2,7 @@
   "source": "MA-2013-06-39",
   "domain": "statistics",
   "difficulty": "MEDIUM",
+  "question": "What was the median distance jumped by the gold medalists listed in the table?",
   "stem": "The table below shows the distances jumped by 6 Olympic gold medalists.<br/>\n<img src='MA-2013-06-39.png'><br/>\nWhat was the median distance jumped by the gold medalists listed in the table?",
   "A": "7.30 meters",
   "B": "7.34 meters",

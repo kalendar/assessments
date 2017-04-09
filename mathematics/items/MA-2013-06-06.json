@@ -2,6 +2,7 @@
   "source": "MA-2013-06-06",
   "domain": "statistics",
   "difficulty": "MEDIUM",
+  "question": "What is the mean area of the studios in the art center?",
   "stem": "The line plot below shows the area, in square feet, of each studio in an art center.<br/>\n<img src='MA-2013-06-06.png'><br/>\nWhat is the mean area of the studios in the art center?",
   "A": "700 square feet",
   "B": "1000 square feet",

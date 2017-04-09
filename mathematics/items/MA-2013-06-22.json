@@ -2,6 +2,7 @@
   "source": "MA-2013-06-22",
   "domain": "geometry",
   "difficulty": "EASY",
+  "question": "What is the area of the trapezoid?",
   "stem": "The diagram below shows a trapezoid and its dimensions.<br/>\n<img src='MA-2013-06-22.png'><br/>\nWhat is the area of the trapezoid?",
   "A": "\\( 95.46 in.^{2} \\)",
   "B": "\\( 57.72 in.^{2} \\)",

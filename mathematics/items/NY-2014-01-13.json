@@ -2,7 +2,7 @@
   "source": "NY-2014-01-13",
   "domain": "word_problems",
   "difficulty": "MEDIUM",
-  "stem": "The width of a rectangle is 4 less than half the length. If  \\varphi represents the length, which equation could be used to find the width, \\( \\omega \\)?",
+  "stem": "The width of a rectangle is 4 less than half the length. If  \\( \\varphi \\) represents the length, which equation could be used to find the width, \\( \\omega \\)?",
   "A": "\\( \\omega = \\frac{1}{2} (4 - \\varphi) \\)",
   "B": "\\( \\omega = \\frac{1}{2} (\\varphi - 4) \\)",
   "C": "\\( \\omega = (\\frac{1}{2})\\varphi - 4 \\)",

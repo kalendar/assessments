@@ -2,6 +2,7 @@
   "source": "MA-2013-06-10",
   "domain": "statistics",
   "difficulty": "EASY",
+  "question": "What is the median area, in square miles, of the towns in the county?",
   "stem": "The line plot below shows the area, in square miles, of each town in a county.<br/>\n<img src='MA-2013-06-10.png'><br/>\nWhat is the median area, in square miles, of the towns in the county?",
   "A": "50",
   "B": "45",

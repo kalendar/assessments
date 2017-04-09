@@ -2,6 +2,7 @@
   "source": "MA-2014-06-01",
   "domain": "number_and_calculation",
   "difficulty": "MEDIUM",
+  "question": "Which of the following is closest to the total weight, in pounds, of the pumpkins the farmer harvested?",
   "stem": "A farmer harvested a total of 364 pumpkins. The pumpkins had an average weight of 10.9 pounds.<br/>\nWhich of the following is closest to the total weight, in pounds, of the pumpkins the farmer harvested? ",
   "A": "3,000",
   "B": "3,300",
