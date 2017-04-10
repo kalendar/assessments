@@ -5,3 +5,5 @@ When you take the math assessment, be sure to click the Formula button for some 
 Once you complete the math assessment, you will be provided feedback about your performance in the six areas. Suggestions for resources to review will be provided along with feedback about each question. 
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://player.vimeo.com/video/212145509"></iframe></div>
+
+<br />
