@@ -13,7 +13,7 @@
                  <div class="panel-body">
                      <h4>Learn</h4>
                      <p>Learn why help seeking is important.</p>
-                     <a href="http://srl.daacs.net/help_seeking_importance.html" target="_blank" class="btn btn-primary">Learn more</a>
+                     <a href="http://srl.daacs.net/help_seeking.html" target="_blank" class="btn btn-primary">Learn more</a>
                  </div>
              </div>
          </div>
@@ -28,7 +28,7 @@
                  <div class="panel-body">
                      <h4>See</h4>
                      <p>Read real-life scenarios about the power of help seeking.</p>
-                     <a href="http://srl.daacs.net/help_seeking_profile.html" target="_blank" class="btn btn-primary">See profiles</a>
+                     <a href="http://srl.daacs.net/help_seeking_profiles.html" target="_blank" class="btn btn-primary">See profiles</a>
                  </div>
              </div>
          </div>
