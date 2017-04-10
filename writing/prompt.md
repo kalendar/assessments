@@ -7,3 +7,5 @@ Essays must be at least 350 words in order to be meaningfully scored. Please aim
 * What do your self-regulated learning survey results and the feedback tell you about your learning skills? Use results from the survey and the feedback to support your analysis.
 
 * Which suggested strategies from the feedback are you committed to using this term? Explain why you are committed to using those strategies.
+
+Click the Help button to view the rubric that your essay will be evaluated against.
