@@ -5,7 +5,5 @@ Thank you for completing the mathematics component of the Diagnostic Assessment 
 
 <p class="hidden-for-nonconsenting">
 
-<script>(function(t,e,o,n){var c,s,m;t.SMCX=t.SMCX||[],e.getElementById(n)||(c=e.getElementsByTagName(o),s=c[c.length-1],m=e.createElement(o),m.type="text/javascript",m.async=!0,m.id=n,m.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/O3Uf7fZyGBHomL82B4_2BoHbVfdCfcmNkvUw3KD76hy0dG_2BXL48tmPSa1GnogG_2BHQ0.js"].join(""),s.parentNode.insertBefore(m,s))})(window,document,"script","smcx-sdk");</script>
-
 </p>
 

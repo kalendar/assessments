@@ -6,7 +6,5 @@ Although we have taken steps to ensure that the scoring of DAACS essays is accur
 
 <p class="hidden-for-nonconsenting">
 
-<script>(function(t,e,s,o){var n,c,a;t.SMCX=t.SMCX||[],e.getElementById(o)||(n=e.getElementsByTagName(s),c=n[n.length-1],a=e.createElement(s),a.type="text/javascript",a.async=!0,a.id=o,a.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/lfhxHBELBsJhXR_2FBhX1Whk3DKgNKk9MgHULtDMBasH7uT2uWpVHFGoZbatTWZrYi.js"].join(""),c.parentNode.insertBefore(a,c))})(window,document,"script","smcx-sdk");</script>
-
 </p>
 

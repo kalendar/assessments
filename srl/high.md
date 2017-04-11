@@ -8,7 +8,5 @@ Your responses to the SRL items suggest that you possess many of the skills nece
 
 <p class="hidden-for-nonconsenting">
 
-<script>(function(t,e,s,o){var n,c,a;t.SMCX=t.SMCX||[],e.getElementById(o)||(n=e.getElementsByTagName(s),c=n[n.length-1],a=e.createElement(s),a.type="text/javascript",a.async=!0,a.id=o,a.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/dVTavpVwudCiSh1S69EaqBXsoskV7UuryPvUlIpaT5EtlxMUexjjvsbA4WDpGzWY.js"].join(""),c.parentNode.insertBefore(a,c))})(window,document,"script","smcx-sdk");</script>
-
 
 </p>
