@@ -8,4 +8,4 @@ Essays must be at least 350 words in order to be meaningfully scored. Please aim
 
 * Which suggested strategies from the feedback are you committed to using this term? Explain why you are committed to using those strategies.
 
-Click the Help button to view the rubric that your essay will be evaluated against.
+<a href="/assessments/college_skills" target="_blank">Click here</a> to open your SRL results in a new window.
