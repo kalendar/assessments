@@ -6,6 +6,6 @@ Your responses to the SRL items suggest several strategies to focus on in order 
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://player.vimeo.com/video/207329335"></iframe></div>
 
-<p class="hidden-for-nonconsenting">
-
+<p class="hidden-for-nonconsenting" style="text-align:center;"><br />
+<a href="https://www.surveymonkey.com/r/KCJM3BY" class="btn btn-primary btn-lg" style="background-color: #660066;" target="_blank">Click here to answer a two-question poll about your SRL results</a>
 </p>
