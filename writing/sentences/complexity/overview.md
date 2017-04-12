@@ -1,8 +1,13 @@
-## Additional Resources
+## Additional Resources ##
 
-To get started with grammar and sentences, visit this **Grammar Essentials** website: http://owl.excelsior.edu/grammar-essentials/
+Please follow these links to learn how to use complex sentences in your writing:
 
-For additional information on editing your writing, visit:
+* Sentence Structure: http://owl.excelsior.edu/grammar-essentials/common-errors/common-errors-faulty-sentence-structure/
+* Basic Sentence Structure: http://owl.excelsior.edu/esl-wow/editing-polishing/check-punctuation/esl-basic-sentence-structure/
+* Types of Sentences: http://owl.excelsior.edu/esl-wow/editing-polishing/check-punctuation/types-of-sentences/
 
-* Revising and Editing Process: http://owl.excelsior.edu/writing-process/revising-and-editing/
-* Revising and Editing a Research Paper: http://owl.excelsior.edu/research-and-citations/revising-and-editing-a-research-paper/
+If you would like to learn more about sentences and punctuation, we invite you to explore the resources listed at the bottom of this page.
+
+* Types of Clauses: http://owl.excelsior.edu/esl-wow/editing-polishing/check-punctuation/esl-types-of-clauses-and-sentences/
+* Punctuation: http://owl.excelsior.edu/esl-wow/editing-polishing/check-punctuation/esl-punctuating-clauses/
+* Commas in Compound Sentences: http://owl.excelsior.edu/grammar-essentials/common-errors/common-errors-missing-comma-in-compound-sentence/
