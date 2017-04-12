@@ -1,9 +1,10 @@
 ## Additional Resources
 
-These resources provide information about organizing your writing:
+Please follow these links to learn how to use transitions in your writing:
 
-* Introductions and Conclusions: http://owl.excelsior.edu/writing-process/introductions-and-conclusions/
+* Transitions: http://owl.excelsior.edu/writing-process/paragraphing/paragraphing-and-transitioning/
+
+If you would like to learn more about the organization, we invite you to explore the resources listed at the bottom of this page.
+
 * Essay Writing: http://owl.excelsior.edu/writing-process/essay-writing/
-* Rhetorical Styles: http://owl.excelsior.edu/rhetorical-styles/
 * Organizing Your Argument: http://owl.excelsior.edu/argument-and-critical-thinking/organizing-your-argument/
-* Paragraphing: http://owl.excelsior.edu/writing-process/paragraphing/
