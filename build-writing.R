@@ -12,7 +12,7 @@ rm(list=ls(all=TRUE)) # Clean the environment before starting
 ##### Comment out to use the default set of feedback. If present files with the
 ##### given suffix will be used if present. If not present, the default feedback
 ##### file will be used.
-#suffix <- '-wgu'
+suffix <- '-wgu'
 
 
 library(readxl)
@@ -158,17 +158,17 @@ addRubric <- function(fb, rubric) {
 	fb[['high']] <- paste0(
 		feedback[[i]][['high']], '\n',
 		rubricToHTML(rubric, highlight = 3), 
-		'\n\n <br /><h2>Your Essay</h2>'
+		'\n\n <br />' #<h2>Your Essay</h2>'
 	)
 	fb[['medium']] <- paste0(
 		feedback[[i]][['medium']], '\n',
 		rubricToHTML(rubric, highlight = 2), 
-		'\n\n <br /><h2>Your Essay</h2>'
+		'\n\n <br />' #<h2>Your Essay</h2>'
 	)
 	fb[['low']] <- paste0(
 		feedback[[i]][['low']], '\n',
 		rubricToHTML(rubric, highlight = 1), 
-		'\n\n <br /><h2>Your Essay</h2>'
+		'\n\n <br />' #<h2>Your Essay</h2>'
 	)
 	
 	fb[['high-summary']] <- paste0(
