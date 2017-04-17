@@ -182,8 +182,8 @@ table(items$AnchorType)
 
 itemGroups <- list()
 itemGroups[1:2] <- buildItemGroups(items.agreement, 2, agreement.levels)
-itemGroups[3:5] <- buildItemGroups(items.frequency, 3, frequency.levels)
-itemGroups[6] <- buildItemGroups(items.grit, 1, grit.levels)
+itemGroups[3:6] <- buildItemGroups(items.frequency, 4, frequency.levels)
+itemGroups[7:8] <- buildItemGroups(items.grit, 2, grit.levels)
 
 json$itemGroups <- list()
 for(i in seq_len(length(itemGroups))) {
