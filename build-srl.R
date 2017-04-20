@@ -77,12 +77,17 @@ json$content <- list(
 )
 
 json$overallRubric <- list(
-	completionScoreMap = list(
-		LOW = paste0('[0.0,', floor((nrow(items) * 4) / 3), '.0)'),
-		MEDIUM = paste0('[', floor((nrow(items) * 4) / 3), '.0,',
-						floor((nrow(items) * 4) / 3*2), '.0)'),
-		HIGH = paste0('[', floor((nrow(items) * 4) / 3 * 2), '.0,',
-					  ceiling(( nrow(items) * 4 + nrow(items.excluded) * 4 )), '.0]')
+	# completionScoreMap = list(
+	# 	LOW = paste0('[0.0,', floor((nrow(items) * 4) / 3), '.0)'),
+	# 	MEDIUM = paste0('[', floor((nrow(items) * 4) / 3), '.0,',
+	# 					floor((nrow(items) * 4) / 3*2), '.0)'),
+	# 	HIGH = paste0('[', floor((nrow(items) * 4) / 3 * 2), '.0,',
+	# 				  ceiling(( nrow(items) * 4 + nrow(items.excluded) * 4 )), '.0]')
+	# ),
+	completionScoreMap = list( # These are based upon 40th and 75th percentiles
+		LOW = paste0('[0.0,133.0)'),
+		MEDIUM = paste0('[133.0,152.0)'),
+		HIGH = paste0('[152.0,', ceiling(( nrow(items) * 4 + nrow(items.excluded) * 4 )), '.0]')
 	),
 	supplementTable = list(
 		list(

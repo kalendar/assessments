@@ -14,9 +14,9 @@
   },
   "overallRubric": {
     "completionScoreMap": {
-      "LOW": "[0.0,62.0)",
-      "MEDIUM": "[62.0,125.0)",
-      "HIGH": "[125.0,228.0]"
+      "LOW": "[0.0,133.0)",
+      "MEDIUM": "[133.0,152.0)",
+      "HIGH": "[152.0,228.0]"
     },
     "supplementTable": [
       {
