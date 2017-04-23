@@ -3566,7 +3566,7 @@
           "domainId": "lines_and_functions",
           "itemContent": {
             "question": {
-              "content": "The graph of \\( y =  x^{2} \\) is shown below.\n<br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2015-06-02.png'><br/>\nWhich graph represents \\( y =  2x^{2} \\)?",
+              "content": "The graph of \\( y =  x^{2} \\) is shown below.\n<br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2015-06-03.png'><br/>\nWhich graph represents \\( y =  2x^{2} \\)?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
