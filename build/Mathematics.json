@@ -531,11 +531,11 @@
             },
             {
               "content": "\\( -\\frac{6}{11} \\)",
-              "score": 1
+              "score": 0
             },
             {
               "content": "\\( \\frac{(x-2)}{(x+2)} \\)",
-              "score": 0
+              "score": 1
             },
             {
               "content": "\\( \\frac{(x+3)(x-2)}{(x+6)(x-1)} \\)",
