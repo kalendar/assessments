@@ -1,13 +1,13 @@
 {
-  "source": "MA-2011-06-35",
-  "domain": "word_problems",
-  "difficulty": "HARD",
-  "question": "What is the number of hours it would take 4 mail carriers to deliver the town’s mail?",
-  "stem": "The amount of time it takes mail carriers to deliver the mail in one town is inversely proportional to the number of mail carriers delivering the mail. With 8 mail carriers, it takes 6 hours to deliver the town’s mail. What is the number of hours it would take 4 mail carriers to deliver the town’s mail?",
-  "A": "2",
-  "B": "3",
-  "C": "10",
-  "D": "12",
-  "answer": "D",
-  "feedbackfile": "MA-2011-06-35.md"
+  "source" : "MA-2011-06-35",
+  "domain" : "word_problems",
+  "difficulty" : "HARD",
+  "question" : "What is the number of hours it would take 4 mail carriers to deliver the town’s mail?",
+  "stem" : "The amount of time it takes mail carriers to deliver the mail in one town is inversely proportional to the number of mail carriers delivering the mail. With 8 mail carriers, it takes 6 hours to deliver the town’s mail. What is the number of hours it would take 4 mail carriers to deliver the town’s mail?",
+  "A" : "2",
+  "B" : "3",
+  "C" : "10",
+  "D" : "12",
+  "answer" : "D",
+  "feedbackfile" : "MA-2011-06-35.md"
 }
