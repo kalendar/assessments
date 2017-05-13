@@ -48,7 +48,7 @@ items <- data.frame(Stem=character(), Domain=character(), DifficultyLevel=charac
 					A=character(), B=character(), c=character(), D=character(),
 					Answer=character(), Filename=character(), stringsAsFactors = FALSE)
 for(i in list.files('mathematics/items', pattern='.json')) {
-	tmp <- fromJSON(paste0('mathematics/items/', i))
+	tmp <- jsonlite::fromJSON(paste0('mathematics/items/', i))
 	items <- rbind(items, data.frame(
 		Stem = tmp$stem,
 		Domain = tmp$domain,
