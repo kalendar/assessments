@@ -3,7 +3,7 @@
 ####################################################################################################
 
 if(!file.exists('build-reading.R')) {
-	stop('Working directory not set correctly. Set the working directory to the location of 
+	stop('Working directory not set correctly. Set the working directory to the location of
 		 of this R script.')
 }
 
@@ -14,8 +14,8 @@ library(markdown)
 library(tools)
 library(rjson)
 library(jsonlite)
-source('parseMarkdown.R')
-source('buildDomainFeedback.R')
+source('R/parseMarkdown.R')
+source('R/buildDomainFeedback.R')
 
 domains <- c(ID = 'Ideas',
 			 IN = 'Inference',
@@ -189,7 +189,7 @@ for(i in itemGroups) {
 
 json.out <- jsonlite::toJSON(json, pretty = TRUE, auto_unbox = TRUE)
 cat(json.out, file = paste0('build/Reading.json'))
-cat(json.out, file = paste0('build/archive/Reading-', 
+cat(json.out, file = paste0('build/archive/Reading-',
 							format(Sys.time(), format='%Y-%m-%d-%H-%M'), '.json'))
 file.edit(paste0('build/Reading.json'))
 

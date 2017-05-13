@@ -2,7 +2,7 @@
 ##### NOTE: It is best to source this file, DO NOT run interactively ###############################
 ####################################################################################################
 if(!file.exists('build-srl.R')) {
-	stop('Working directory not set correctly. Set the working directory to the location of 
+	stop('Working directory not set correctly. Set the working directory to the location of
 		 of this R script.')
 }
 
@@ -13,8 +13,8 @@ library(markdown)
 library(tools)
 library(rjson)
 library(jsonlite)
-source('parseMarkdown.R')
-source('buildDomainFeedback.R')
+source('R/parseMarkdown.R')
+source('R/buildDomainFeedback.R')
 
 # Structure of SRL Feedback
 # 	Motivation

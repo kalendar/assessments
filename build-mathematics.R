@@ -3,7 +3,7 @@
 ####################################################################################################
 
 if(!file.exists('build-mathematics.R')) {
-	stop('Working directory not set correctly. Set the working directory to the location of 
+	stop('Working directory not set correctly. Set the working directory to the location of
 		 of this R script.')
 }
 
@@ -27,14 +27,14 @@ library(markdown)
 library(tools)
 library(rjson)
 library(jsonlite)
-source('parseMarkdown.R')
-source('buildDomainFeedback.R')
+source('R/parseMarkdown.R')
+source('R/buildDomainFeedback.R')
 
 figures.base.url <- 'https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/'
 items.dir <- 'mathematics/items/'
 
 # items <- read.xls('mathematics/MathItems.xlsx', sheet=1, stringsAsFactors=FALSE)
-# 
+#
 # items[items$DifficultyLevel == '', ]$DifficultyLevel <- NA
 # items[items$Domain == '', ]$Domain <- NA
 # items$DifficultyLevel <- toupper(items$DifficultyLevel)
@@ -79,7 +79,7 @@ nrow(items)
 # TODO: Fix items without feedback
 table(items$Filename %in% names(feedback.items))
 #View(items[!items$Filename %in% names(feedback.items),])
-# write.csv(items[!items$Filename %in% names(feedback.items), c(1:8,13:18)], 
+# write.csv(items[!items$Filename %in% names(feedback.items), c(1:8,13:18)],
 # 		  file = 'ItemsNoFeedback.csv', row.names = FALSE)
 
 items <- items[items$Filename %in% names(feedback.items),] # Items with missing feedback
