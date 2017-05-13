@@ -1,1 +1,6 @@
 .httr-oauth
+.Rproj.user
+build/archive
+mathematics/items_tofix
+mathematics/source
+reading/source
