@@ -12,7 +12,7 @@ rm(list=ls(all=TRUE)) # Clean the environment before starting
 ##### Comment out to use the default set of feedback. If present files with the
 ##### given suffix will be used if present. If not present, the default feedback
 ##### file will be used.
-suffix <- '-wgu'
+#suffix <- '-wgu'
 
 
 library(readxl)
@@ -206,6 +206,7 @@ for(i in seq_along(domains)) {
 	fb <- buildDomainFeedback(feedback[[d1]], d1, includeCompletionScoreMap = FALSE)
 	domains2 <- domains[[d1]]
 	if(length(domains2) > 0) {
+		fb$scoreIsSubDomainAverage <- TRUE
 		fb$subDomains <- list()
 		for(d2 in domains2) {
 			pos <- length(fb$subDomains) + 1

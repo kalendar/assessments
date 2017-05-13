@@ -72,6 +72,7 @@
           }
         ]
       },
+      "scoreIsSubDomainAverage": true,
       "subDomains": [
         {
           "id": "summary",
@@ -152,6 +153,7 @@
           }
         ]
       },
+      "scoreIsSubDomainAverage": true,
       "subDomains": [
         {
           "id": "structure",
@@ -232,6 +234,7 @@
           }
         ]
       },
+      "scoreIsSubDomainAverage": true,
       "subDomains": [
         {
           "id": "ideas",
@@ -312,6 +315,7 @@
           }
         ]
       },
+      "scoreIsSubDomainAverage": true,
       "subDomains": [
         {
           "id": "correct",
