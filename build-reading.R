@@ -23,6 +23,8 @@ domains <- c(ID = 'Ideas',
 			 PU = 'Purpose',
 			 ST = 'Structure')
 
+difficulties <- read.csv('reading/ReadingDifficulty.csv', stringsAsFactors = FALSE)
+
 items <- read_excel('reading/ReadingItems.xlsx', sheet = 1)
 items <- as.data.frame(items)
 
@@ -31,7 +33,8 @@ items$Domain <- as.character(factor(items$DomainID,
 									labels = unname(domains)))
 table(items$Domain, useNA='ifany')
 
-
+items <- merge(items, difficulties, by.x = 'PASSAGE', by.y = 'Passage', all.x = TRUE)
+table(items$Difficulty)
 
 feedback <- parseMarkdown('reading')
 
@@ -97,9 +100,9 @@ json$itemGroupTransitions <- list(
 
 json$overallRubric <- list(
 	completionScoreMap = list(
-		LOW = '[0.0,0.334)',
-		MEDIUM = '[0.334,0.667)',
-		HIGH = '[0.667,1.0]'
+		LOW = '[0.0,0.7)',
+		MEDIUM = '[0.7,0.9)',
+		HIGH = '[0.9,1.0]'
 	),
 	supplementTable = list(
 		list(
@@ -143,7 +146,8 @@ for(i in itemGroups) {
 	items.group <- items[items$PASSAGE == i,]
 	pos <- length(json$itemGroups) + 1
 	json$itemGroups[[pos]] <- list(
-		difficulty = sample(c('EASY','MEDIUM','HARD'), 1), # TODO: Use assigned difficulties, not random!
+		#difficulty = sample(c('EASY','MEDIUM','HARD'), 1), # TODO: Use assigned difficulties, not random!
+		difficulty = as.character(items.group[1,]$Difficulty),
 		items = list()
 	)
 	for(j in 1:nrow(items.group)) {
