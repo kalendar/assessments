@@ -3,7 +3,7 @@
   "domain": "lines_and_functions",
   "difficulty": "HARD",
   "question": "Which of the following equations represents the line?",
-  "stem": "Points (–2, 4) and (–1, 1) lie on the same line. Which of the following equations represents the line?",
+  "stem": "Points (-2, 4) and (-1, 1) lie on the same line. Which of the following equations represents the line?",
   "A": "\\( y-1= (-\\frac{1}{3})(x+1) \\)",
   "B": "\\( y-1=-3(x+1) \\)",
   "C": "\\( y-1= (-\\frac{1}{3})(x+1) \\)",
