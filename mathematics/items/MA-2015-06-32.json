@@ -2,7 +2,7 @@
   "source": "MA-2015-06-32",
   "domain": "geometry",
   "difficulty": "HARD",
-  "stem": "A student plotted point G(9, 1) and point H(7, –3) on a coordinate grid, as shown below. <br/><img src='MA-2015-06-32.png'><br/>  The student will plot point F so that the midpoint of line segment \\( \\bar{GF} \\) is point H. What will be the coordinates of point F?",
+  "stem": "A student plotted point G(9, 1) and point H(7, -3) on a coordinate grid, as shown below. <br/><img src='MA-2015-06-32.png'><br/>  The student will plot point F so that the midpoint of line segment \\( \\bar{GF} \\) is point H. What will be the coordinates of point F?",
   "A": " (3, -5)",
   "B": " (5, -7)",
   "C": "(8, -1)",
