@@ -2,7 +2,7 @@
   "source": "NY-2014-06-19",
   "domain": "lines_and_functions",
   "difficulty": "MEDIUM",
-  "stem": "What is the equation of the line that passes through the point (3, 7) and has a slope of \\( -\\frac{4}{3} \\)?",
+  "stem": "What is the equation of the line that passes through the point (3, -7) and has a slope of \\( -\\frac{4}{3} \\)?",
   "A": "\\( y = (- \\frac{4}{3})x + 3 \\)",
   "B": "\\( y = (- \\frac{4}{3})x - 3 \\)",
   "C": "\\( y = (\\frac{37}{3})x - (\\frac{4}{3}) \\)",
