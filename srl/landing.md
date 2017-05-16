@@ -1,4 +1,4 @@
-<p><img src="https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/srl/people-woman-coffee-meeting.jpg"  class="pull-right" style="padding:20px 0 20px 20px; max-width:400px;"></p>
+<p><img src="https://raw.githubusercontent.com/DAACS/assessments/master/srl/people-woman-coffee-meeting.jpg"  class="pull-right" style="padding:20px 0 20px 20px; max-width:400px;"></p>
 
 Welcome to the Self-Regulated Learning (SRL) assessment! The purposes of this assessment are to:
 

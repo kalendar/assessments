@@ -30,7 +30,7 @@ library(jsonlite)
 source('R/parseMarkdown.R')
 source('R/buildDomainFeedback.R')
 
-figures.base.url <- 'https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/'
+figures.base.url <- 'https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/'
 items.dir <- 'mathematics/items/'
 
 # items <- read.xls('mathematics/MathItems.xlsx', sheet=1, stringsAsFactors=FALSE)

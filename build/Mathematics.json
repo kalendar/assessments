@@ -382,7 +382,7 @@
           "domainId": "statistics",
           "itemContent": {
             "question": {
-              "content": "A teacher recorded the height of each student in a class. The bar graph below shows the number of students at each height.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-24.png'><br/>\nWhich statement about the data in the bar graph is true?",
+              "content": "A teacher recorded the height of each student in a class. The bar graph below shows the number of students at each height.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-24.png'><br/>\nWhich statement about the data in the bar graph is true?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -483,7 +483,7 @@
           "domainId": "statistics",
           "itemContent": {
             "question": {
-              "content": "The table below shows the ranges of the numbers of miles that 14 different cars were driven between oil changes.<br/>\n <img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-27.png'><br/>\nWhich of the following is the greatest possible median number of miles driven between oil changes?",
+              "content": "The table below shows the ranges of the numbers of miles that 14 different cars were driven between oil changes.<br/>\n <img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-27.png'><br/>\nWhich of the following is the greatest possible median number of miles driven between oil changes?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -547,7 +547,7 @@
           "domainId": "geometry",
           "itemContent": {
             "question": {
-              "content": "Square <i>WXYZ<\/i> is inscribed in circle <i>O<\/i>, which has a radius of 8 feet, as shown below.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-40.png'><br/>\nWhich of the following is closest to the length of  \\( \\overline{WZ} \\)?",
+              "content": "Square <i>WXYZ<\/i> is inscribed in circle <i>O<\/i>, which has a radius of 8 feet, as shown below.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-40.png'><br/>\nWhich of the following is closest to the length of  \\( \\overline{WZ} \\)?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -590,19 +590,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-04-A.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-04-A.png'>",
               "score": 1
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-04-B.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-04-B.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-04-C.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-04-C.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-04-D.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-04-D.png'>",
               "score": 0
             }
           ]
@@ -648,7 +648,7 @@
           "domainId": "lines_and_functions",
           "itemContent": {
             "question": {
-              "content": "The table below shows a linear relationship between the values of x and y.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2012-06-11.png'><br/>Which of the following equations represents the relationship shown in the table?",
+              "content": "The table below shows a linear relationship between the values of x and y.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2012-06-11.png'><br/>Which of the following equations represents the relationship shown in the table?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -712,7 +712,7 @@
           "domainId": "statistics",
           "itemContent": {
             "question": {
-              "content": "The line plot below shows the area, in square feet, of each studio in an art center.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-06.png'><br/>\nWhat is the mean area of the studios in the art center?",
+              "content": "The line plot below shows the area, in square feet, of each studio in an art center.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-06.png'><br/>\nWhat is the mean area of the studios in the art center?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -808,7 +808,7 @@
           "domainId": "geometry",
           "itemContent": {
             "question": {
-              "content": "Triangle <i>R'S'T'<\/i> is shown on the coordinate grid below.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-26.png'><br/>\nTriangle <i>R'S'T'<\/i> is the image of triangle <i>RST<\/i> after triangle <i>RST<\/i> was translated 3 units to the right and 4 units up.<br/>\nWhat were the coordinates of point <i>R<\/i> before the translation?",
+              "content": "Triangle <i>R'S'T'<\/i> is shown on the coordinate grid below.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-26.png'><br/>\nTriangle <i>R'S'T'<\/i> is the image of triangle <i>RST<\/i> after triangle <i>RST<\/i> was translated 3 units to the right and 4 units up.<br/>\nWhat were the coordinates of point <i>R<\/i> before the translation?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -877,7 +877,7 @@
           "domainId": "number_and_calculation",
           "itemContent": {
             "question": {
-              "content": "Which point on the number line below is closest to the value of \\( \\sqrt{152} \\)?<br/>\n<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-02.png'>",
+              "content": "Which point on the number line below is closest to the value of \\( \\sqrt{152} \\)?<br/>\n<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-02.png'>",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -909,7 +909,7 @@
           "domainId": "statistics",
           "itemContent": {
             "question": {
-              "content": "Carmen made the scatterplot shown below.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-05.png'><br/>\nWhich of the following shows the data in Carmen<U+2019>s scatterplot with a line of best fit?",
+              "content": "Carmen made the scatterplot shown below.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-05.png'><br/>\nWhich of the following shows the data in Carmen<U+2019>s scatterplot with a line of best fit?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -920,19 +920,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-05-A.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-05-A.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-05-B.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-05-B.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-05-C.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-05-C.png'>",
               "score": 1
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-05-D.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-05-D.png'>",
               "score": 0
             }
           ]
@@ -941,7 +941,7 @@
           "domainId": "geometry",
           "itemContent": {
             "question": {
-              "content": "The diagram below shows a trapezoid and its dimensions.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-22.png'><br/>\nWhat is the area of the trapezoid?",
+              "content": "The diagram below shows a trapezoid and its dimensions.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-22.png'><br/>\nWhat is the area of the trapezoid?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -1016,19 +1016,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-26-A.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-26-A.png'>",
               "score": 1
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-26-B.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-26-B.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-26-C.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-26-C.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-26-D.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-26-D.png'>",
               "score": 0
             }
           ]
@@ -1074,7 +1074,7 @@
           "domainId": "statistics",
           "itemContent": {
             "question": {
-              "content": "The line plot below shows the area, in square miles, of each town in a county.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-10.png'><br/>\nWhat is the median area, in square miles, of the towns in the county?",
+              "content": "The line plot below shows the area, in square miles, of each town in a county.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-10.png'><br/>\nWhat is the median area, in square miles, of the towns in the county?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -1138,7 +1138,7 @@
           "domainId": "geometry",
           "itemContent": {
             "question": {
-              "content": "The diagram below shows \\( \\triangle WXY \\). Point R lies on \\( \\overline{WY} \\).<br/>\n<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-32.png'><br/>\nBased on the angle measures in the diagram, what is \\( m \\angle WXR \\)?",
+              "content": "The diagram below shows \\( \\triangle WXY \\). Point R lies on \\( \\overline{WY} \\).<br/>\n<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-32.png'><br/>\nBased on the angle measures in the diagram, what is \\( m \\angle WXR \\)?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -1239,7 +1239,7 @@
           "domainId": "statistics",
           "itemContent": {
             "question": {
-              "content": "The scatterplot below shows the relationship between the number of teachers and the number of students at each school in one school district.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-11.png'><br/>\nA new school for 1600 students will be built in the district. Based on the line of best fit for the scatterplot, which of the following is closest to the number of teachers that will work at the new school?",
+              "content": "The scatterplot below shows the relationship between the number of teachers and the number of students at each school in one school district.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-11.png'><br/>\nA new school for 1600 students will be built in the district. Based on the line of best fit for the scatterplot, which of the following is closest to the number of teachers that will work at the new school?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -1282,19 +1282,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-25-A.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-25-A.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-25-B.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-25-B.png'>",
               "score": 1
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-25-C.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-25-C.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-25-D.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-25-D.png'>",
               "score": 0
             }
           ]
@@ -1436,7 +1436,7 @@
           "domainId": "statistics",
           "itemContent": {
             "question": {
-              "content": "Suzanna surveyed some students to find out if they would attend the homecoming game. The table below shows the students<U+2019> responses.<br/>\n <img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-30.png'><br/>\nWhich of the following circle graphs <b>best<\/b> represents the information in the table?",
+              "content": "Suzanna surveyed some students to find out if they would attend the homecoming game. The table below shows the students<U+2019> responses.<br/>\n <img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-30.png'><br/>\nWhich of the following circle graphs <b>best<\/b> represents the information in the table?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -1447,19 +1447,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": " <img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-30-A.png'>",
+              "content": " <img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-30-A.png'>",
               "score": 0
             },
             {
-              "content": " <img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-30-B.png'>",
+              "content": " <img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-30-B.png'>",
               "score": 0
             },
             {
-              "content": " <img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-30-C.png'>",
+              "content": " <img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-30-C.png'>",
               "score": 0
             },
             {
-              "content": " <img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-30-D.png'>",
+              "content": " <img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-30-D.png'>",
               "score": 1
             }
           ]
@@ -1633,7 +1633,7 @@
           "domainId": "statistics",
           "itemContent": {
             "question": {
-              "content": "The table below shows the distances jumped by 6 Olympic gold medalists.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2013-06-39.png'><br/>\nWhat was the median distance jumped by the gold medalists listed in the table?",
+              "content": "The table below shows the distances jumped by 6 Olympic gold medalists.<br/>\n<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2013-06-39.png'><br/>\nWhat was the median distance jumped by the gold medalists listed in the table?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -1729,7 +1729,7 @@
           "domainId": "geometry",
           "itemContent": {
             "question": {
-              "content": "The diagram below shows \\( \\triangle LMN \\) and its image \\( \\triangle RST \\), after a series of transformations in the coordinate plane. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-35.png'><br/> What is the length, in units, of  \\( \\overline{RT} \\)?",
+              "content": "The diagram below shows \\( \\triangle LMN \\) and its image \\( \\triangle RST \\), after a series of transformations in the coordinate plane. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-35.png'><br/> What is the length, in units, of  \\( \\overline{RT} \\)?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -1830,7 +1830,7 @@
           "domainId": "variables_and_equations",
           "itemContent": {
             "question": {
-              "content": "The dimensions of a triangle, in units, are represented by expressions, as shown in the diagram below. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-03.png'><br/> Which of the following expressions represents the perimeter, in units, of the triangle?",
+              "content": "The dimensions of a triangle, in units, are represented by expressions, as shown in the diagram below. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-03.png'><br/> Which of the following expressions represents the perimeter, in units, of the triangle?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -1894,7 +1894,7 @@
           "domainId": "geometry",
           "itemContent": {
             "question": {
-              "content": "A triangle is shown on the coordinate plane below. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-08.png'><br/> What is the area of the triangle?",
+              "content": "A triangle is shown on the coordinate plane below. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-08.png'><br/> What is the area of the triangle?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -2027,7 +2027,7 @@
           "domainId": "statistics",
           "itemContent": {
             "question": {
-              "content": "Ashley surveyed 20 people at random about the number of television sets in their households. The results of her survey are shown in the line plot below. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-06.png'><br/> Based on the line plot, what is the mean number of television sets per household?",
+              "content": "Ashley surveyed 20 people at random about the number of television sets in their households. The results of her survey are shown in the line plot below. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-06.png'><br/> Based on the line plot, what is the mean number of television sets per household?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -2123,7 +2123,7 @@
           "domainId": "geometry",
           "itemContent": {
             "question": {
-              "content": "The diagram below shows a trapezoid and its measurements.<br/> <img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-37.png'><br/>  The trapezoid has an area of 60 square centimeters. What is the value of x?",
+              "content": "The diagram below shows a trapezoid and its measurements.<br/> <img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-37.png'><br/>  The trapezoid has an area of 60 square centimeters. What is the value of x?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -2224,7 +2224,7 @@
           "domainId": "statistics",
           "itemContent": {
             "question": {
-              "content": "The bowling scores for 9 friends are shown in the box below. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-09.png'><br/> The mean score is 108 and the median score is 95. Which statement best explains why the mean score is greater than the median score?",
+              "content": "The bowling scores for 9 friends are shown in the box below. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-09.png'><br/> The mean score is 108 and the median score is 95. Which statement best explains why the mean score is greater than the median score?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -2320,7 +2320,7 @@
           "domainId": "lines_and_functions",
           "itemContent": {
             "question": {
-              "content": "The diagram below shows the graph of which inequality?<br/>\n<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2013-06-20.png'>",
+              "content": "The diagram below shows the graph of which inequality?<br/>\n<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2013-06-20.png'>",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -2352,7 +2352,7 @@
           "domainId": "number_and_calculation",
           "itemContent": {
             "question": {
-              "content": "A parking lot is 100 yards long. What is the length of  \\( \\frac{3}{4} \\) of the parking lot., in feet? \n<br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2014-08-15.png'>",
+              "content": "A parking lot is 100 yards long. What is the length of  \\( \\frac{3}{4} \\) of the parking lot., in feet? \n<br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2014-08-15.png'>",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -2453,7 +2453,7 @@
           "domainId": "geometry",
           "itemContent": {
             "question": {
-              "content": "The diagram below shows a rectangle and its dimensions. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-12.png'> <br/>A square has the same area as the rectangle. What is the length of each side of the square?",
+              "content": "The diagram below shows a rectangle and its dimensions. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-12.png'> <br/>A square has the same area as the rectangle. What is the length of each side of the square?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -2517,7 +2517,7 @@
           "domainId": "statistics",
           "itemContent": {
             "question": {
-              "content": "The scatterplot below shows the relationship between the temperature, in degrees Fahrenheit, at a football game and the number of cups of hot chocolate sold during the game. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-40.png'>",
+              "content": "The scatterplot below shows the relationship between the temperature, in degrees Fahrenheit, at a football game and the number of cups of hot chocolate sold during the game. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-40.png'>",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -2528,19 +2528,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-40-A.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-40-A.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-40-B.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-40-B.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-40-C.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-40-C.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-40-D.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-40-D.png'>",
               "score": 1
             }
           ]
@@ -2581,7 +2581,7 @@
           "domainId": "lines_and_functions",
           "itemContent": {
             "question": {
-              "content": "The graph below represents the parabolic path of a ball kicked by a young child. What are the vertex and the axis of symmetry for the parabola?  \n<br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2014-08-05.png'>",
+              "content": "The graph below represents the parabolic path of a ball kicked by a young child. What are the vertex and the axis of symmetry for the parabola?  \n<br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2014-08-05.png'>",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -2618,7 +2618,7 @@
           "domainId": "geometry",
           "itemContent": {
             "question": {
-              "content": "A right circular cone and some of its measurements are shown in the diagram below.<br/> <img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-23.png'><br/> Based on the diagram, which of the following is closest to the volume of the cone?",
+              "content": "A right circular cone and some of its measurements are shown in the diagram below.<br/> <img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-23.png'><br/> Based on the diagram, which of the following is closest to the volume of the cone?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -2650,7 +2650,7 @@
           "domainId": "number_and_calculation",
           "itemContent": {
             "question": {
-              "content": "The length, in centimeters, of a rectangle is represented by an expression, as shown in the diagram below. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-03.png'><br/>  Based on the diagram, which of the following is closest to the length, in centimeters, of the rectangle?",
+              "content": "The length, in centimeters, of a rectangle is represented by an expression, as shown in the diagram below. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-03.png'><br/>  Based on the diagram, which of the following is closest to the length, in centimeters, of the rectangle?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -2682,7 +2682,7 @@
           "domainId": "statistics",
           "itemContent": {
             "question": {
-              "content": "The line plot below shows the fuel efficiency, in miles per gallon, for the vehicles owned by a rental car company. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-07.png'> <br/>Based on the line plot, what is the median fuel efficiency, in miles per gallon, for the vehicles?",
+              "content": "The line plot below shows the fuel efficiency, in miles per gallon, for the vehicles owned by a rental car company. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-07.png'> <br/>Based on the line plot, what is the median fuel efficiency, in miles per gallon, for the vehicles?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -2815,7 +2815,7 @@
           "domainId": "statistics",
           "itemContent": {
             "question": {
-              "content": "The table below shows the numbers of televisions sold at a store in different price ranges last month. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-24.png'><br/> Which of the following could be the median price of the televisions sold at the store last month?",
+              "content": "The table below shows the numbers of televisions sold at a store in different price ranges last month. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-24.png'><br/> Which of the following could be the median price of the televisions sold at the store last month?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -2879,7 +2879,7 @@
           "domainId": "number_and_calculation",
           "itemContent": {
             "question": {
-              "content": "Leah took a 5-day car trip. The table below shows the number of miles she drove on each day of her trip. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-13.png'><br/> Of the total number of miles that Leah drove on her trip, which of the following is closest to the percentage she drove on day 1?",
+              "content": "Leah took a 5-day car trip. The table below shows the number of miles she drove on each day of her trip. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-13.png'><br/> Of the total number of miles that Leah drove on her trip, which of the following is closest to the percentage she drove on day 1?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -3023,19 +3023,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-29-A.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-29-A.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-29-B.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-29-B.png'>",
               "score": 1
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-29-C.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-29-C.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-29-D.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-29-D.png'>",
               "score": 0
             }
           ]
@@ -3055,19 +3055,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-32-A.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-32-A.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-32-B.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-32-B.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-32-C.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-32-C.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-32-D.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-32-D.png'>",
               "score": 1
             }
           ]
@@ -3119,19 +3119,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2014-01-22-A.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2014-01-22-A.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2014-01-22-B.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2014-01-22-B.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2014-01-22-C.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2014-01-22-C.png'>",
               "score": 1
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2014-01-22-D.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2014-01-22-D.png'>",
               "score": 0
             }
           ]
@@ -3209,7 +3209,7 @@
           "domainId": "geometry",
           "itemContent": {
             "question": {
-              "content": "In the diagram below, the dimensions of a student ID card are shown rounded to the nearest whole inch. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2014-06-31.png'> <br/>  Which of the following could be the actual area, in square inches, of the front of the card?",
+              "content": "In the diagram below, the dimensions of a student ID card are shown rounded to the nearest whole inch. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2014-06-31.png'> <br/>  Which of the following could be the actual area, in square inches, of the front of the card?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -3252,19 +3252,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2014-01-23-A.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2014-01-23-A.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2014-01-23-B.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2014-01-23-B.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2014-01-23-C.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2014-01-23-C.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2014-01-23-D.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2014-01-23-D.png'>",
               "score": 1
             }
           ]
@@ -3406,7 +3406,7 @@
           "domainId": "statistics",
           "itemContent": {
             "question": {
-              "content": "Giselle surveyed 10 students at random about the number of people in their household and the number of times laundry is washed in their household each week. The results of her survey are shown in the table below. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-04.png'><br/>  Which of the following scatterplots best represents the data in the table?",
+              "content": "Giselle surveyed 10 students at random about the number of people in their household and the number of times laundry is washed in their household each week. The results of her survey are shown in the table below. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-04.png'><br/>  Which of the following scatterplots best represents the data in the table?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -3417,19 +3417,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-04-A.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-04-A.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-04-B.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-04-B.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-04-C.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-04-C.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-04-D.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-04-D.png'>",
               "score": 1
             }
           ]
@@ -3502,7 +3502,7 @@
           "domainId": "geometry",
           "itemContent": {
             "question": {
-              "content": "A parallelogram is graphed on the coordinate grid below. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-40.png'><br/>  The parallelogram will be rotated 90<sup>o<\/sup> clockwise about the origin. Which of the following shows the location of the parallelogram after the rotation?",
+              "content": "A parallelogram is graphed on the coordinate grid below. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-40.png'><br/>  The parallelogram will be rotated 90<sup>o<\/sup> clockwise about the origin. Which of the following shows the location of the parallelogram after the rotation?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -3513,19 +3513,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-40-A.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-40-A.png'>",
               "score": 1
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-40-B.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-40-B.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-40-C.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-40-C.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-40-D.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-40-D.png'>",
               "score": 0
             }
           ]
@@ -3566,7 +3566,7 @@
           "domainId": "lines_and_functions",
           "itemContent": {
             "question": {
-              "content": "The graph of \\( y =  x^{2} \\) is shown below.\n<br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2015-06-03.png'><br/>\nWhich graph represents \\( y =  2x^{2} \\)?",
+              "content": "The graph of \\( y =  x^{2} \\) is shown below.\n<br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2015-06-03.png'><br/>\nWhich graph represents \\( y =  2x^{2} \\)?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -3577,19 +3577,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2015-06-03-A.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2015-06-03-A.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2015-06-03-B.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2015-06-03-B.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2015-06-03-C.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2015-06-03-C.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2015-06-03-D.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2015-06-03-D.png'>",
               "score": 1
             }
           ]
@@ -3603,7 +3603,7 @@
           "domainId": "statistics",
           "itemContent": {
             "question": {
-              "content": "The line graph below shows the change in the population of the state of Ohio, in twenty-year intervals, from 1900 to 2000. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-24.png'><br/> During which interval on the graph did the population of Ohio increase at the fastest rate?",
+              "content": "The line graph below shows the change in the population of the state of Ohio, in twenty-year intervals, from 1900 to 2000. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-24.png'><br/> During which interval on the graph did the population of Ohio increase at the fastest rate?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -3635,7 +3635,7 @@
           "domainId": "geometry",
           "itemContent": {
             "question": {
-              "content": "A water tank in the shape of a right circular cylinder has a height of 40 feet and a radius of 15 feet, as shown in the diagram below. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-25.png'><br/> Based on the diagram, what is the volume, in cubic feet, of the water tank?",
+              "content": "A water tank in the shape of a right circular cylinder has a height of 40 feet and a radius of 15 feet, as shown in the diagram below. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-25.png'><br/> Based on the diagram, what is the volume, in cubic feet, of the water tank?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -3811,19 +3811,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-27-A.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-27-A.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-27-B.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-27-B.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-27-C.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-27-C.png'>",
               "score": 1
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-27-D.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-27-D.png'>",
               "score": 0
             }
           ]
@@ -3997,7 +3997,7 @@
           "domainId": "geometry",
           "itemContent": {
             "question": {
-              "content": "A student plotted point G(9, 1) and point H(7, -3) on a coordinate grid, as shown below. <br/><img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/MA-2015-06-32.png'><br/>  The student will plot point F so that the midpoint of line segment \\( \\bar{GF} \\) is point H. What will be the coordinates of point F?",
+              "content": "A student plotted point G(9, 1) and point H(7, -3) on a coordinate grid, as shown below. <br/><img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/MA-2015-06-32.png'><br/>  The student will plot point F so that the midpoint of line segment \\( \\bar{GF} \\) is point H. What will be the coordinates of point F?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -4072,19 +4072,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2014-08-25-A.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2014-08-25-A.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2014-08-25-B.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2014-08-25-B.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2014-08-25-C.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2014-08-25-C.png'>",
               "score": 0
             },
             {
-              "content": "<img src='https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/figures/NY-2014-08-25-D.png'>",
+              "content": "<img src='https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/figures/NY-2014-08-25-D.png'>",
               "score": 1
             }
           ]
