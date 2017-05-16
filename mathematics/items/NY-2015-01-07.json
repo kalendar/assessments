@@ -4,9 +4,9 @@
   "difficulty": "EASY",
   "stem": "Jose wants to ride his bike a total of 50 miles this weekend. If he rides (<i>m</i>) miles on Saturday, which expression represents the number of miles he must ride on Sunday? ",
   "A": "\\( m - 50 \\)",
-  "B": "(<i>m</i>) + 50",
-  "C": "50 - (<i>m</i>)",
-  "D": "50(<i>m</i>)",
+  "B": "\\( m + 50 \\)",
+  "C": "\\(50 - m \\)",
+   "D": "\\( 50m \\)",
   "answer": "C",
   "feedbackfile": "NY-2015-01-07.md"
 }
