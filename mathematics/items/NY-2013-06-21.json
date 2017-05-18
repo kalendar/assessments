@@ -2,7 +2,7 @@
   "source": "NY-2013-06-21",
   "domain": "word_problems",
   "difficulty": "MEDIUM",
-  "stem": "Carol plans to sell twice as many magazine subscriptions as Jennifer. If Carol and Jennifer need to sell at least 90 subscriptions in all, which inequality could be used to determine how many subscriptions, x, Jennifer needs to sell?",
+  "stem": "Carol plans to sell twice as many magazine subscriptions as Jennifer. If Carol and Jennifer need to sell at least 90 subscriptions in all, which inequality could be used to determine how many subscriptions, <i>x</i>, Jennifer needs to sell?",
   "A": "\\( x \\geq 45 \\)",
   "B": "\\( 2x \\geq 90 \\)",
   "C": "\\( 2x - x \\geq 90 \\)",
