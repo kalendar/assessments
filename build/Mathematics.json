@@ -10,7 +10,7 @@
   "minTakenGroups": 3,
   "numQuestionsPerGroup": 6,
   "content": {
-    "landing": "<p><img src=\"https://raw.githubusercontent.com/DAACS/DAACS-Website/master/assessments/mathematics/pexels-photo-167682.jpeg\"  class=\"pull-right\" style=\"padding:20px 0 20px 20px; max-width:400px;\"><\/p>\n\n<p>Welcome to the mathematics assessment! The purposes of this assessment are to:<\/p>\n\n<ul>\n<li>provide an opportunity to determine your skills in foundational mathematical concepts;<\/li>\n<li>give you feedback about your math skills and suggestions for improving it, as needed;<\/li>\n<li>direct you to online resources that can help you strengthen your mathematical skills.<\/li>\n<\/ul>\n\n<p>You will be asked to respond to a series of multiple choice items on geometry; lines and functions; numbers and calculations; statistics; variables and equations; and word problems. After this mathematics assessment, you will have the opportunity to review your math skills and the recommended strategies for improving them, as needed. <\/p>\n",
+    "landing": "<p><img src=\"https://raw.githubusercontent.com/DAACS/assessments/master/mathematics/pexels-photo-167682.jpeg\"  class=\"pull-right\" style=\"padding:20px 0 20px 20px; max-width:400px;\"><\/p>\n\n<p>Welcome to the mathematics assessment! The purposes of this assessment are to:<\/p>\n\n<ul>\n<li>provide an opportunity to determine your skills in foundational mathematical concepts;<\/li>\n<li>give you feedback about your math skills and suggestions for improving it, as needed;<\/li>\n<li>direct you to online resources that can help you strengthen your mathematical skills.<\/li>\n<\/ul>\n\n<p>You will be asked to respond to a series of multiple choice items on geometry; lines and functions; numbers and calculations; statistics; variables and equations; and word problems. After this mathematics assessment, you will have the opportunity to review your math skills and the recommended strategies for improving them, as needed. <\/p>\n",
     "start": "<p>You are about to take the mathematics assessment. This assessment will cover six areas: geometry; lines and functions; number and calculation; statistics; variables and equations; and word problems. Remember&ndash;the goal of this assessment is to help you identify your strengths and areas for improvement. Don&#39;t be discouraged if some questions are more difficult than others. In fact, if you feel anxious about taking the math assessment, you could take the SRL survey first, use some of the strategies related to test anxiety to prepare, and then return here. <\/p>\n\n<p>When you take the math assessment, be sure to click the Formula button for some useful formulas. You may use a calculator during the assessment. You will also need paper and pencil. The assessment typically takes between 20 and 30 minutes to complete. You can save and return later if you cannot complete it in one sitting.<\/p>\n\n<p>Once you complete the math assessment, you will be provided feedback about your performance in the six areas. Suggestions for resources to review will be provided along with feedback about each question. <\/p>\n\n<div class=\"embed-responsive embed-responsive-16by9\"><iframe width=\"853\" height=\"480\" src=\"https://player.vimeo.com/video/212145509\"><\/iframe><\/div>\n\n<p><br /><\/p>\n",
     "startTips": "<ul>\n<li>Select the best answer for each question.<\/li>\n<li>Click the help button for some useful formulas.<\/li>\n<li>You may use a calculator.<\/li>\n<li>It will be helpful to have paper and pencil to work out problems.<\/li>\n<li>The assessment is not timed and you can stop and return later to complete it.<\/li>\n<li>Remember: This assessment is to help you identify your strengths and areas for improvement. Don&#39;t be discouraged if are not sure of answer.<\/li>\n<\/ul>\n",
     "helpLabel": "Formulas",
@@ -297,7 +297,7 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "\\( y-1= (-\\frac{1}{3})(x+1) \\)",
+              "content": "\\( y-1= -\\frac{1}{3}(x-1) \\)",
               "score": 0
             },
             {
@@ -305,7 +305,7 @@
               "score": 1
             },
             {
-              "content": "\\( y-1= (-\\frac{1}{3})(x+1) \\)",
+              "content": "\\( y-1= -\\frac{1}{3}(x+1) \\)",
               "score": 0
             },
             {
@@ -1181,19 +1181,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "\\( d= (\\frac{5}{2})t \\)",
+              "content": "\\( d= \\frac{5}{2}t \\)",
               "score": 1
             },
             {
-              "content": "\\( d= (\\frac{7}{3})t \\)",
+              "content": "\\( d= \\frac{7}{3}t \\)",
               "score": 0
             },
             {
-              "content": "\\( d= (\\frac{10}{9})t  \\)",
+              "content": "\\( d= \\frac{10}{9}t  \\)",
               "score": 0
             },
             {
-              "content": "\\( d= (\\frac{2}{5})t \\)",
+              "content": "\\( d= \\frac{2}{5}t \\)",
               "score": 0
             }
           ]
@@ -1403,7 +1403,7 @@
               "itemContentType": "FORMULA"
             },
             "feedback": {
-              "content": "<p>The slope of a line is a number that measures how steep a line is. To\ndetermine the equation of a line, we need to know either two points on\nthe line, or the slope and a point. In this problem, we are told the\nslope and one point, so we can use the slope-intercept form of the\nequation of a line:<\/p>\n\n<p>\\[(y - y_{1)} = m(x - x_{1})\\]<\/p>\n\n<p>In this equation, <em>m<\/em> is a number representing the slope, and (<em>x~1~,\ny~1~<\/em>) are the two numbers that are the coordinates of the point on the\nline. X and y are the two variables that are used to represent the line\nin the x-y plane. Substituting in the information we are given that <em>m<\/em>\n= 3 and the point (<em>x~1~, y~1~<\/em>) = (-2, -8), we get<\/p>\n\n<p>\\[(y - \\left( - 8 \\right)) = 3(x - ( - 2))\\]<\/p>\n\n<p>When using this equation, it is important to put x~1~ and y~1~ in the\ncorrect place! Looking at the answer choices, we see that we are\nexpected to re-write this equation in slope-intercept form, so that the\nvariable y is alone on one side of the equation. To re-write this\nequation:<\/p>\n\n<p>\\[y + 8 = 3(x + 2)\\]<\/p>\n\n<p>\\[y + 8 = 3x + 6\\]<\/p>\n\n<p>And subtracting 8 from both sides of the equation,<\/p>\n\n<p>\\[y = 3x - 2\\]<\/p>\n\n<p>This is choice 1.<\/p>\n\n<p>You can see an example of writing an equation of a line in point-slope\nform in this video:\n<a href=\"http://www.virtualnerd.com/algebra-2/linear-equations-functions/writing/writing-point-slope-form/point-slope-line-direct-example\">http://www.virtualnerd.com/algebra-2/linear-equations-functions/writing/writing-point-slope-form/point-slope-line-direct-example<\/a><\/p>\n\n<p>And read more about the point-slope equation of a line here:\n<a href=\"http://www.mathsisfun.com/algebra/line-equation-point-slope.html\">http://www.mathsisfun.com/algebra/line-equation-point-slope.html<\/a><\/p>\n\n<p>To review adding and subtracting positive and negative numbers, view\n<a href=\"http://mathantics.com/section/lesson-video/integer-add-and-sub\">http://mathantics.com/section/lesson-video/integer-add-and-sub<\/a><\/p>\n",
+              "content": "<p>The slope of a line is a number that measures how steep a line is. To\ndetermine the equation of a line, we need to know either two points on\nthe line, or the slope and a point. In this problem, we are told the\nslope and one point, so we can use the slope-intercept form of the\nequation of a line:<\/p>\n\n<p>\\[(y - y<sub>1<\/sub>) = m(x - x<sub>1<\/sub>)\\]<\/p>\n\n<p>In this equation, <em>m<\/em> is a number representing the slope, and (x<sub>1<\/sub>,\ny<sub>1<\/sub>) are the two numbers that are the coordinates of the point on the\nline. x and y are the two variables that are used to represent the line\nin the x-y plane. Substituting in the information we are given that <em>m<\/em>\n= 3 and the point (x<sub>1<\/sub>, y<sub>1<\/sub>) = (-2, -8), we get<\/p>\n\n<p>\\[(y - \\left( - 8 \\right)) = 3(x - ( - 2))\\]<\/p>\n\n<p>When using this equation, it is important to put x<sub>1<\/sub> and y<sub>1<\/sub> in the\ncorrect place! Looking at the answer choices, we see that we are\nexpected to re-write this equation in slope-intercept form, so that the\nvariable y is alone on one side of the equation. To re-write this\nequation:<\/p>\n\n<p>\\[y + 8 = 3(x + 2)\\]<\/p>\n\n<p>\\[y + 8 = 3x + 6\\]<\/p>\n\n<p>And subtracting 8 from both sides of the equation,<\/p>\n\n<p>\\[y = 3x - 2\\]<\/p>\n\n<p>This is choice 1.<\/p>\n\n<p>You can see an example of writing an equation of a line in point-slope\nform in this video:\n<a href=\"http://www.virtualnerd.com/algebra-2/linear-equations-functions/writing/writing-point-slope-form/point-slope-line-direct-example\">http://www.virtualnerd.com/algebra-2/linear-equations-functions/writing/writing-point-slope-form/point-slope-line-direct-example<\/a><\/p>\n\n<p>And read more about the point-slope equation of a line here:\n<a href=\"http://www.mathsisfun.com/algebra/line-equation-point-slope.html\">http://www.mathsisfun.com/algebra/line-equation-point-slope.html<\/a><\/p>\n\n<p>To review adding and subtracting positive and negative numbers, view\n<a href=\"http://mathantics.com/section/lesson-video/integer-add-and-sub\">http://mathantics.com/section/lesson-video/integer-add-and-sub<\/a><\/p>\n",
               "itemContentType": "FORMULA"
             }
           },
@@ -1575,19 +1575,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "\\( x (\\geq) 45 \\)",
+              "content": "\\( x \\geq 45 \\)",
               "score": 0
             },
             {
-              "content": "\\( 2x (\\geq) 90 \\)",
+              "content": "\\( 2x \\geq 90 \\)",
               "score": 0
             },
             {
-              "content": "\\( 2x - x (\\geq) 90 \\)",
+              "content": "\\( 2x - x \\geq 90 \\)",
               "score": 0
             },
             {
-              "content": "\\( 2x + x (\\geq) 90 \\)",
+              "content": "\\( 2x + x \\geq 90 \\)",
               "score": 1
             }
           ]
@@ -1797,7 +1797,7 @@
               "itemContentType": "FORMULA"
             },
             "feedback": {
-              "content": "<p>This question is asking you to <em>factor<\/em> a particular\n<em>binomial<\/em> expression: the <em>difference between two squares<\/em>. This\nfactoring problem uses this algebraic relationship for factoring the\ndifference of two squares:<\/p>\n\n<p>\\[a^{2} - \\ b^{2} = (a - b)(a + b)\\]<\/p>\n\n<p>You are given the expression 9x<sup>2^<\/sup> <U+2013> 100. Notice that both terms in this\nexpression can be written as a square: 9x<sup>2^<\/sup> = (3x)<sup>2^<\/sup> and 100 = 10<sup>2<sup>.<\/sup><\/sup>\nWe can then use the relationship above to write<\/p>\n\n<p>\\[{(3x)}^{2} - \\ 10^{2} = (3x - 10)(3x + 10)\\]<\/p>\n\n<p>Comparing that the expression in the problem, you can see that b=10.<\/p>\n\n<p>To check that this is correct, you can use FOIL to multiply the factored\nform on the right side of this equation (remember FOIL?) and verify that\nyou get \\(9x^2 - 100\\).<\/p>\n\n<p><em>Definition<\/em>:<\/p>\n\n<p>You can read more about binomial expressions and the difference between\ntwo squares here:\n<a href=\"http://www.mathsisfun.com/algebra/special-binomial-products.html\">http://www.mathsisfun.com/algebra/special-binomial-products.html<\/a><\/p>\n",
+              "content": "<p>This question is asking you to <em>factor<\/em> a particular\n<em>binomial<\/em> expression: the <em>difference between two squares<\/em>. This\nfactoring problem uses this algebraic relationship for factoring the\ndifference of two squares:<\/p>\n\n<p>\\[a^{2} - \\ b^{2} = (a - b)(a + b)\\]<\/p>\n\n<p>You are given the expression 9x<sup>2^<\/sup> <U+2013> 100. Notice that both terms in this\nexpression can be written as a square: 9x<sup>2^<\/sup> = (3x)<sup>2^<\/sup> and 100 = 10<sup>2<sup>.<\/sup><\/sup>\nWe can then use the relationship above to write<\/p>\n\n<p>\\[{(3x)}^{2} - \\ 10^{2} = (3x - 10)(3x + 10)\\]<\/p>\n\n<p>Comparing that the expression in the problem, you can see that b=10.<\/p>\n\n<p>To check that this is correct, you can use FOIL to multiply the factored\nform on the right side of this equation (remember FOIL?) and verify that\nyou get \\(9x^2 - 100\\).<\/p>\n\n<p><em>Definition<\/em>:<\/p>\n\n<p>You can read more about binomial expressions and the difference between<br/>\ntwo squares here:\n<a href=\"http://www.mathsisfun.com/algebra/special-binomial-products.html\">http://www.mathsisfun.com/algebra/special-binomial-products.html<\/a><\/p>\n",
               "itemContentType": "FORMULA"
             }
           },
@@ -2155,7 +2155,7 @@
           "domainId": "word_problems",
           "itemContent": {
             "question": {
-              "content": "The width of a rectangle is 4 less than half the length. If  \\( \\varphi \\) represents the length, which equation could be used to find the width, \\( \\omega \\)?",
+              "content": "The width of a rectangle is 4 less than half the length. If L represents the length, which equation could be used to find the width, w?",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -2166,19 +2166,19 @@
           "question": "",
           "possibleItemAnswers": [
             {
-              "content": "\\( \\omega = \\frac{1}{2} (4 - \\varphi) \\)",
+              "content": "\\( w = \\frac{1}{2} (4 - L) \\)",
               "score": 0
             },
             {
-              "content": "\\( \\omega = \\frac{1}{2} (\\varphi - 4) \\)",
+              "content": "\\( w = \\frac{1}{2} (L - 4) \\)",
               "score": 0
             },
             {
-              "content": "\\( \\omega = (\\frac{1}{2})\\varphi - 4 \\)",
+              "content": "\\( w = \\frac{1}{2}L - 4 \\)",
               "score": 1
             },
             {
-              "content": "\\( \\omega = 4 - (\\frac{1}{2}) \\varphi \\)",
+              "content": "\\( w = 4 - \\frac{1}{2})L \\)",
               "score": 0
             }
           ]
@@ -2187,7 +2187,7 @@
           "domainId": "lines_and_functions",
           "itemContent": {
             "question": {
-              "content": "What is an equation of the line that passes through the points (2,1) and (6, 5)? ",
+              "content": "What is an equation of the line that passes through the points (2,1) and (6, -5)? ",
               "itemContentType": "FORMULA"
             },
             "feedback": {
@@ -3911,15 +3911,15 @@
               "score": 0
             },
             {
-              "content": "(<i>m<\/i>) + 50",
+              "content": "\\( m + 50 \\)",
               "score": 0
             },
             {
-              "content": "50 - (<i>m<\/i>)",
+              "content": "\\(50 - m \\)",
               "score": 1
             },
             {
-              "content": "50(<i>m<\/i>)",
+              "content": "\\( 50m \\)",
               "score": 0
             }
           ]
