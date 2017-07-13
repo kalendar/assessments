@@ -1,4 +1,4 @@
-Your SRL survey results indicate that you think like someone with a **fixed** mindset, which means that you believe that your intelligence and ability cannot change, even when you try very hard. That is a disadvantageous belief, but you can develop a more beneficial **growth** mindset.
+Your SRL assessment results indicate that you think like someone with a **fixed** mindset, which means that you believe that your intelligence and ability cannot change, even when you try very hard. That is a disadvantageous belief, but you can develop a more beneficial **growth** mindset.
 
 To shift from a fixed to a growth mindset:
 

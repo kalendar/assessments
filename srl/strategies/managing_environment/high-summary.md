@@ -1,5 +1,5 @@
 
-Your responses to the survey indicate that you **frequently** limit environmental distractions when completing your schoolwork. This is a very important skill because it helps you stay focused and attentive which, in turn, makes your work get done faster and better. 
+Your responses to the assessment indicate that you **frequently** limit environmental distractions when completing your schoolwork. This is a very important skill because it helps you stay focused and attentive which, in turn, makes your work get done faster and better. 
 
 Here are some of the most useful strategies for **managing your study environment**:
 

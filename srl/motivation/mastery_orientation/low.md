@@ -6,8 +6,8 @@ Goal orientation refers to the reasons individuals engage in a learning task. Tw
 
 The distinction bewteen a mastery and performance orientation may seem like a very minor thing, but it is actually quite important. For Rick, learning is often fun and interesting, whereas for Janet, it can be anxiety-provoking and overwhelming.
 
-The SRL survey focused only on **mastery orientation**. Your score suggests that you don't typically enjoy academic learning, and that you don't consider gaining skills and knowledge the top reason for doing your schoolwork. It is possible that you are motivated to do your work for other reasons, which may work well for you. Nonetheless, we encourage you to try to become more mastery-oriented in your thinking. Even if you are motivated now, a mastery orientation can help you enjoy school more and achieve greater success.
+The SRL assessment focused only on **mastery orientation**. Your score suggests that you don't typically enjoy academic learning, and that you don't consider gaining skills and knowledge the top reason for doing your schoolwork. It is possible that you are motivated to do your work for other reasons, which may work well for you. Nonetheless, we encourage you to try to become more mastery-oriented in your thinking. Even if you are motivated now, a mastery orientation can help you enjoy school more and achieve greater success.
 
 To learn more about how to develop and sustain a mastery orientation, click on the **Learn**, **See** and/or **Do** buttons below
 
-## Your Survey Responses
+## Your Assessment Responses

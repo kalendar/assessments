@@ -1,4 +1,4 @@
-The results from the survey indicate that you **frequently** manage your time well. As you know, this is a good habit that helps you stay organized and prepared.   
+The results from the assessment indicate that you **frequently** manage your time well. As you know, this is a good habit that helps you stay organized and prepared.   
 
 You probably use **strategies** like these for **time management**:
 

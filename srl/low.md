@@ -1,4 +1,4 @@
-Thank you for completing the Self-Regulated Learning (SRL) component of the Diagnostic Assessment and Achievement of College Skills (DAACS). The results presented here are meant to be informative and instructional; **there is no passing or failing**. Because your results can change due to life circumstances or courses you take, you are encouraged to take the SRL survey again, especially when beginning new courses.
+Thank you for completing the Self-Regulated Learning (SRL) component of the Diagnostic Assessment and Achievement of College Skills (DAACS). The results presented here are meant to be informative and instructional; **there is no passing or failing**. Because your results can change due to life circumstances or courses you take, you are encouraged to take the SRL assessment again, especially when beginning new courses.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://player.vimeo.com/video/212248242"></iframe></div>
 

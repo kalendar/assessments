@@ -1,4 +1,4 @@
-Your responses to the SRL survey suggest that you **sometimes** monitor the thinking and learning you do for school. Because self-monitoring is known to deepen and speed up learning and to keep you aware of important things to focus on during learning, you could benefit from learning more about the monitoring process.  
+Your responses to the SRL assessment suggest that you **sometimes** monitor the thinking and learning you do for school. Because self-monitoring is known to deepen and speed up learning and to keep you aware of important things to focus on during learning, you could benefit from learning more about the monitoring process.  
 
 To **increase the frequency** of your self-monitoring:   
 

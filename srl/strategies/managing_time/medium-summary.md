@@ -1,4 +1,4 @@
-The results from the survey indicate that you **sometimes** use strategies to manage your time. Planning out when to complete your coursework by making a schedule can help you stay organized and prepared.   
+The results from the assessment indicate that you **sometimes** use strategies to manage your time. Planning out when to complete your coursework by making a schedule can help you stay organized and prepared.   
 
 These **time management strategies** are quite useful:
 

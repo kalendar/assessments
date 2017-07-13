@@ -8,8 +8,8 @@ The scenario below illustrates the distinction between mastery orientation and t
 
 The distinction bewteen a mastery and performance orientation may seem like a very minor thing, but it is actually quite important. For Rick, learning is often fun and interesting, whereas for Janet, it can be anxiety-provoking and overwhelming.
 
-The SRL survey focused only on **mastery orientation**. Your results suggest that you exhibit **some tendencies** of a mastery orientation. This suggests that your enjoyment of learning and your desire to gain knowledge and skills are sometimes part of the reason you want to do your school work-but not always. You might find school more enjoyable and interesting if you further develop a mastery-oriented way of thinking. 
+The SRL assessment focused only on **mastery orientation**. Your results suggest that you exhibit **some tendencies** of a mastery orientation. This suggests that your enjoyment of learning and your desire to gain knowledge and skills are sometimes part of the reason you want to do your school work-but not always. You might find school more enjoyable and interesting if you further develop a mastery-oriented way of thinking. 
 
 To learn more about how to develop and sustain a mastery orientation, click on the **Learn**, **See** and/or **Do** buttons below.
 
-## Your Survey Responses
+## Your Assessment Responses

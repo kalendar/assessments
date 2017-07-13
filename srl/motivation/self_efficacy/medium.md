@@ -2,7 +2,7 @@
 
 Self-efficacy is your level of confidence in your ability to do something. Self-efficacy is specific to a certain task so, for example, you might have high self-efficacy for math test but low self-efficacy for public speaking, or vice versa. 
 
-The SRL survey suggests that you have **medium** *self-efficacy for online learning*. That means you *sometimes* feel capable of performing well in an online environment. It is possible that your confidence goes up or down depending on the particular topic or activity you are completing online. 
+The SRL assessment suggests that you have **medium** *self-efficacy for online learning*. That means you *sometimes* feel capable of performing well in an online environment. It is possible that your confidence goes up or down depending on the particular topic or activity you are completing online. 
 
 The scenario below illustrates how self-efficacy for online learning can influence a person's thoughts, feelings, and actions.
 
@@ -12,4 +12,4 @@ Students like Maria have many self-doubts when learning, which can cause them to
 
 Given that your self-efficacy may go up and down, you may benefit from learning more about self-efficacy and/or a few strategies to help you become more confident working in an online environment. Click on the **Learn**, **See**, and/or **Do** buttons below to delve deeper.
 
-## Your Survey Responses
+## Your Assessment Responses

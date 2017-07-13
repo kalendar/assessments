@@ -1,4 +1,4 @@
-The results from the survey indicate that you **frequently** seek out assistance from others when needed. Seeking help is a GREAT strategy to use in college because of the many people and resources that are available to support you when things are confusing or difficult.
+The results from the assessment indicate that you **frequently** seek out assistance from others when needed. Seeking help is a GREAT strategy to use in college because of the many people and resources that are available to support you when things are confusing or difficult.
 
 Some additional **help-seeking strategies** that you may want to consider include the following:
 
