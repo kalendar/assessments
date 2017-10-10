@@ -1,4 +1,4 @@
-Your responses to the SRL survey suggest that you **frequently** plan how to approach your schoolwork. Thus, before you begin completing an assignment, you are likely to think about the most important parts or the best approaches needed to perform well on that assignment. Planning is a very important skill to continue to develop in college.
+Your responses to the SRL assessment suggest that you **frequently** plan how to approach your schoolwork. Thus, before you begin completing an assignment, you are likely to think about the most important parts or the best approaches needed to perform well on that assignment. Planning is a very important skill to continue to develop in college.
 
 To continue being a **frequent planner**, consider using the following strategies:
 

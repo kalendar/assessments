@@ -8,8 +8,8 @@ The scenario below illustrates the distinction between mastery orientation and t
 
 The distinction bewteen a mastery and performance orientation may seem like a very minor thing, but it is actually quite important. For Rick, learning is often fun and interesting, whereas for Janet, it can be anxiety-provoking and overwhelming.
 
-The SRL survey focused only on **mastery orientation**. Your results suggest that you have **high mastery orientation**, which is fabulous! This means that you are motivated to work hard because you enjoy learning and want to gain knowledge and skills. Maintaining a mastery orientation will help keep you motivated to learn and work hard in school.
+The SRL assessment focused only on **mastery orientation**. Your results suggest that you have **high mastery orientation**, which is fabulous! This means that you are motivated to work hard because you enjoy learning and want to gain knowledge and skills. Maintaining a mastery orientation will help keep you motivated to learn and work hard in school.
 
 If you want to learn more about a mastery orientation or how to sustain it, click on the **Learn**, **See**, and **Do** buttons below.
 
-## Your Survey Responses
+## Your Assessment Responses

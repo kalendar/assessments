@@ -1,6 +1,6 @@
 ## Monitoring
 
-Monitoring is one aspect of metacognition. The SRL survey results suggests that you **occasionally** monitor yourself when learning. Thus, you sometimes track how well you learn or perform a task and may be aware of the challenges you encounter, but perhaps you do not do these things  as much as you need to. Becoming more aware of your thinking can let you know when and how you might need to change up your study approaches to improve your learning.
+Monitoring is one aspect of metacognition. The SRL assessment results suggests that you **occasionally** monitor yourself when learning. Thus, you sometimes track how well you learn or perform a task and may be aware of the challenges you encounter, but perhaps you do not do these things  as much as you need to. Becoming more aware of your thinking can let you know when and how you might need to change up your study approaches to improve your learning.
 
 The following two scenarios illustrate the value of effective self-monitoring:
 
@@ -12,4 +12,4 @@ A key thing that distinguished Sandra and Jose was that Sandra frequently monito
 
 To gain a more full understanding of self-monitoring approaches, click on the **Learn**, **See**, and/or **Do** buttons. 
 
-## Your Survey Responses
+## Your Assessment Responses

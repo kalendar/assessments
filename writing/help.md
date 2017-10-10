@@ -27,7 +27,7 @@ Essays must be at least 350 words in order to be meaningfully scored. Please aim
 
 * paragraphs consistently and clearly focus on a main idea or point.
 * sentences within paragraphs are linked together in a way that allows the reader to see the relationship between the ideas or information in one sentence and those in another sentence.
-* adverbs (e.g., similarly, also, therefore), relative pronouns (e.g., who, that, which), conjunctions (e.g., and, or, while, whereas), and the repetition of key words link sentences and ideas togethe, as needed.
+* adverbs (e.g., similarly, also, therefore), relative pronouns (e.g., who, that, which), conjunctions (e.g., and, or, while, whereas), and the repetition of key words link sentences and ideas together, as needed.
 
 **Sentences**
 

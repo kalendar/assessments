@@ -1,6 +1,6 @@
 ## Evaluation
 
-Evaluation is one aspect of metacognition. The SRL survey suggests that you **do not frequently** evaluate your learning. It seems that you do not typically try to figure out how well you learned, which strategies helped you learn best, or how you might need to improve. Being a good self-evaluator can help you avoid mistakes. It can also help you recognize when you might need to adjust or change. 
+Evaluation is one aspect of metacognition. The SRL assessment suggests that you **do not frequently** evaluate your learning. It seems that you do not typically try to figure out how well you learned, which strategies helped you learn best, or how you might need to improve. Being a good self-evaluator can help you avoid mistakes. It can also help you recognize when you might need to adjust or change. 
 
 The following scenario illustrates how inconsistent self-evaluation can negatively impact learning:
 
@@ -10,4 +10,4 @@ Anthony's experience of overestimating his learning during studying is common am
 
 To guide you in self-evaluation, please click on the **Learn**, **See**, and/or **Do** buttons.  
 
-## Your Survey Responses
+## Your Assessment Responses

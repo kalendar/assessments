@@ -1,6 +1,6 @@
 ## Strategies for Managing Time
 
-Going to college requires students to use effective time management strategies in order to manage multiple tasks and avoid becoming overwhelmed. People who use time management strategies tend to work more efficiently, feel less stressed, and experience a greater level of confidence in school. Your SRL survey results suggest that you **do not frequently** use strategies to manage your time (see your responses below). You might know that you should do things like set aside regular times for schoolwork, use a calendar to mark down due dates for assignments, and keep track of how much time assignments take--but you don't do them as often as you could.  
+Going to college requires students to use effective time management strategies in order to manage multiple tasks and avoid becoming overwhelmed. People who use time management strategies tend to work more efficiently, feel less stressed, and experience a greater level of confidence in school. Your SRL assessment results suggest that you **do not frequently** use strategies to manage your time (see your responses below). You might know that you should do things like set aside regular times for schoolwork, use a calendar to mark down due dates for assignments, and keep track of how much time assignments take--but you don't do them as often as you could.  
 
 This scenario illustrates how insufficient time management tactics can have an adverse impact:
 
@@ -10,4 +10,4 @@ Sam realized he should have spaced out his studying over the course of the week,
 
 We think that you would greatly benefit from learning more about time management. Click on any of the **Learn**, **See**, or **Do** buttons that are of interest to you. 
 
-## Your Survey Responses
+## Your Assessment Responses

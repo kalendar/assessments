@@ -1,6 +1,6 @@
 ## Planning
 
-Planning is one aspect of metacognition. Your responses to the SRL survey suggest that you **do not frequently plan** how to complete your schoolwork. When students do not think about the expectations for assignments or reflect on the best ways to learn, they will often make more mistakes and will likely become stuck when learning without knowing why. Increasing the frequency with which you plan can help you complete assignments correctly and with greater efficiency but less stress. 
+Planning is one aspect of metacognition. Your responses to the SRL assessment suggest that you **do not frequently plan** how to complete your schoolwork. When students do not think about the expectations for assignments or reflect on the best ways to learn, they will often make more mistakes and will likely become stuck when learning without knowing why. Increasing the frequency with which you plan can help you complete assignments correctly and with greater efficiency but less stress. 
 
 The following scenario illustrates the importance of seeking out help to learn how to plan and prepare in school:
 
@@ -10,4 +10,4 @@ Sophia's initial conversation with her advisor changed her outlook and perspecti
 
 To learn more about effective planning strategies, click on the **Learn**, **See**, and/or **Do** buttons. 
 
-## Your Survey Responses
+## Your Assessment Responses
