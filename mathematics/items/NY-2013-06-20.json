@@ -4,9 +4,9 @@
   "difficulty": "HARD",
   "stem": "The diagram below shows the graph of which inequality?<br/>\n<img src='NY-2013-06-20.png'>",
   "A": "y &gt; x - 1",
-  "B": "\\( y  (\\geq) x - 1 \\)",
+  "B": "\\( y  \\geq x - 1 \\)",
   "C": "y &lt; x - 1",
-  "D": "\\( y  (\\leq) x - 1 \\)",
+  "D": "\\( y  \\leq x - 1 \\)",
   "answer": "D",
-  "feedbackfile": "NY-2013-06-20.md"
+  "feedbackfile": "NY-2013-06-20.md"  
 }
