@@ -2,11 +2,11 @@
   "source": "NY-2014-01-13",
   "domain": "word_problems",
   "difficulty": "MEDIUM",
-  "stem": "The width of a rectangle is 4 less than half the length. If L represents the length, which equation could be used to find the width, w?",
+  "stem": "The width of a rectangle is 4 less than half the length. If <i>L</i> represents the length, which equation could be used to find the width, <i>w</i>?",
   "A": "\\( w = \\frac{1}{2} (4 - L) \\)",
   "B": "\\( w = \\frac{1}{2} (L - 4) \\)",
   "C": "\\( w = \\frac{1}{2}L - 4 \\)",
-  "D": "\\( w = 4 - \\frac{1}{2})L \\)",
+  "D": "\\( w = 4 - \\frac{1}{2}L \\)",
   "answer": "C",
   "feedbackfile": "NY-2014-01-13.md"
 }
