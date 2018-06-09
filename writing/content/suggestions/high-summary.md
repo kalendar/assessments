@@ -1,1 +1,1 @@
-
+Your score indicates that the suggestions for improvement of your SRL skills in your essay are logically and explicitly related to the survey results and feedback, and developed in sufficient depth. If you are curious about SRL and how it can be strengthened, we recommend that you follow this link: http://srl.leuridanlabs.com
