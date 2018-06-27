@@ -24,7 +24,7 @@ For each domain, the following files must be present:
 
 * `high-summary.md` - Feedback to show on the domain's parent page for a student who scored at the highest level (e.g. shown on the metacogition page for the planning domain; shown on the SRL page for metacognition).
 * `medium-summary.md` - Feedback to show on the domain's parent page for a student who scored at the medium level.
-* `medium-summary.md` - Feedback to show on the domain's parent page for a student who scored a the lowest level.
+* `low-summary.md` - Feedback to show on the domain's parent page for a student who scored a the lowest level.
 * `high.md` - Feedback to show students who scored at the highest level.
 * `medium.md` - Feedback to show students who scored at the medium level.
 * `low.md` - Feedback to show students who scored at the lowest level.
